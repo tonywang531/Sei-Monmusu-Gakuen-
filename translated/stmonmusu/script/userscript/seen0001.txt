@@ -6573,7 +6573,7 @@ This seems a little extreme.
 6270:Shink“Okay, I'll go in first.”
 6271:Rin“Sure. Please enjoy yourself.”
 6272:Shink“I will.”
-6273:I replied to Lynn with a big smile as I leave the room and head for the hot spring.
+6273:I replied to Rin with a big smile as I leave the room and head for the hot spring.
 6274:Well, let's enjoy the hot spring, shall we?
 6275:Shink“Haha...This is paradise!”
 6276:After washing my head and body, I was soaking in the bathtub and stretching myself.
@@ -6582,251 +6582,251 @@ This seems a little extreme.
 6279:The temperature is nice and it is really soothing.
 6280:I am sorry Rin, but let me enjoy a little more...
 6281:Rin“Lalala”
-6282:Shink“...What！？”
-6283:I was thinking about the hot spring, somehow I act surprised to the humming I heard.
+6282:Shink“...What!?”
+6283:I was thinking about the hot spring, so I was surprised that I heard someone humming.
 6284:Could it be...?
-6285:Rin“I wonder if Mr Shink is still here? I could use I thought you are already done after this much time as an excuse...”
+6285:Rin“I wonder if Mr Shink is still here? I thought I could use you are already done after this much time as an excuse...”
 6286:Shink“......”
-6287:Of course you cannot use that excuse!
-6288:What is she thinking about...! No, I don't have time, I have to do something!
-6289:Shink“って、隠れる場所も無いし！”
-6290:入り口に向かって出れば……いやダメだ、これだけ強引に入ってくるんだ……連れ戻されるのが目に見えている……
-6291:しかしどうすれば……
-6292:Shink“……っ、これだっ！”
-6293:もはや時間の猶予は無いと感じた俺は、近くにあった桶を頭に被り身体を肩まで湯に沈める。
-6294:これなら見つからない……
-6295:Shink“わけねぇよ！　何してんだ俺……！”
-6296:すぐさま自分の過ちに気づくが、今からどうにかできるとも思えない。
-6297:こうなったら、素直に謝るしか……
-6298:Rin“ふんふふ～……って、あれ？　いない……？”
+6287:Of course that excuse does not work!
+6288:What is she thinking about...! No, that's not the problem, I have to do something!
+6289:Shink“I have nowhere to hide！”
+6290:Maybe if I head to entrance now... No that will not work, think how hard she tries to drag you in... I can already see the future of myself being dragged in...
+6291:Then what should I do...
+6292:Shink“... Oh, this is it!”
+6293:Feeling that I had no more time to waste, I put a nearby bucket over my head and submerged my body into the hot water up to my shoulders.
+6294:She won't find me like this...
+6295:Shink“Of course this won't work! What am I doing...!”
+6296:I immediately realize my stupid mistake, but I don't think I can do anything about it now.
+6297:I guess I have to honestly apologize then...
+6298:Rin“Hmmm...What? He's not here....?”
 6299:Shink“.........”
-6300:Rin“…………はぁ、なんだ。もう上がっちゃったのか～……残念……”
-6301:Shink“…………あれー？”
-6302:もしかして気づいてない……？
-6303:いや、いくら何でもそれは……
-6304:Rin“しょうがないか……はぁ、男の人ってお風呂の時間、本当に早いんだ……”
+6300:Rin“...Oh. He really finished and left... How disappointing...”
+6301:Shink“...What？”
+6302:Maybe she really did not notice me...?!
+6303:No, that can't be the case...
+6304:Rin“Guess I will just take bath myself. I guess male human really takes bath quickly...”
 6305:Shink“......”
-6306:マジか！　本当に気づいてないぞ……！？
-6307:これはいける……幸い桶が邪魔でリンの姿は見えない。
-6308:このまま上がるまで耐え切れれば俺の勝ちだ……！
-6309:Rin“うん。居なかったのは残念だけど……まだチャンスはあるし、わたしはわたしで温泉を楽しもうかな”
-6310:Shink“チャンスなんか無いっての……”
-6311:Rin“えーと、まずは身体と頭を洗って……タオルは湯船に浸けない、だったかな？”
+6306:Could it be? She really did not notice me!?
+6307:Lucky for me... Fortunately, the bucket is in the way so Rin does not see me.
+6308:If I can just hold out long enough until she leaves...！
+6309:Rin“Well, it's too bad that he is not here... but I still have chance. I think now it is the time for me to enjoy the hot spring by myself.”
+6310:Shink“No you do not have any chance...”
+6311:Rin“Let's see, wash the body and head first... Toweels don't soak in the bathtub, was it?”
 6312:Shink“.........”
-6313:その注意を守るくらいなら、男と一緒に風呂に入ろうとしないで欲しい。
-6314:俺はリンが鼻歌交じりに身体を洗っているのを聞きながら、そっと息を潜め続けた。
-6315:Rin“はふぅ……良いお湯です……”
+6313:If she is so cautious, I think she should not try to bath with another man.
+6314:I continued to quietly hide my breath as I listened to Rin humming as she washed herself.
+6315:Rin“Wa...The water is nice...”
 6316:Shink“......”
-6317:ようやく洗い終えたのか、リンが湯に浸かり始める。
-6318:本当に長かったが、リンが気づく様子は無いし、このまま何事も無く終わってくれれば……
-6319:Rin“あー、でもシンク先生と入らなくて正解だったかも……自分の身体のこと、すっかり忘れてたなぁ”
-6320:Rin“うーん、でも……これから先、もし、万が一そうなったら……えへへ、困っちゃうかも……”
+6317:Finally, Rin finishes washing her body and begins to soak in the hot water.
+6318:It's been a really long time, but Rin doesn't seem to notice. It would best if it all goes without any happenings.   
+6319:Rin“I guess it was a good thing that Mr Shink was not here... I guess I forgot about my body”
+6320:Rin“I guess... If that is going to happen... Heheh, I will not be sure what to do...”
 6321:Shink“......”
-6322:リンの奴、何を言っているんだ……？
-6323:困るというか、現在進行形で困っているんだがな……
-6324:Rin“はぁ。本当に良いお湯……ん、温度もわたし好みになってきたし……んー、どれくらいで上がろうかなぁ”
+6322:What is Rin talking about?
+6323:She seems to be troubled... about what is going to happen...?
+6324:Rin“Huh. Really nice hot water... and the temperature is getting to my liking...  hmmm, how high should I bring it up?”
 6325:Shink“......”
-6326:わたし好みになってきた……？
-6327:どういうことだ……そう簡単に温度なんて上がらないだろ……
+6326:Getting to my liking?
+6327:What is going on...Surely it is not possible to raise temperaure so easily...?
 6328:Shink“......”
-6329:いや、何だろう……心なしか、温度が上がってきているような……
-6330:というか、ぼこぼこ鳴り始めてるんだが！？
-6331:Rin“あー、やっぱりお湯はこれくらいの温度が一番ですね……”
-6332:Rin“学園のお風呂だと、誰も賛同してくれなくて、いっつも一人で最後に入らないとダメだし……”
-6333:Rin“あったかくなると、体温が上がるのは種族柄仕方ないとしても……コントロールくらいできたらなぁ……”
-6334:Shink“…………っ”
-6335:そういうことか！　そりゃ、困るわ！
-6336:というかいったいどこまで上がるんだ……！？
-6337:Rin“あー、良い感じ……そろそろ一気に……”
-6338:そんなリンの呟きが聞こえた瞬間、一気に湯の温度が上昇する。
-6339:ボコボコと音をたて、肌を刺すような熱さが伝わって……
-6340:Shink“って、あっつーーーーーーー！！！”
-6341:Rin“きゃっ！？　って、シンク先生！？”
-6342:Shink“無理っ！　これは無理っ！！”
-6343:あまりの熱さに、驚くリンすら無視して、俺は湯船から飛び出る。
-6344:こんなの人間に耐えられる温度じゃない！
-6345:Rin“ど、どこにいたんですか！？　というか、ずっと潜ってたんですか！？”
-6346:Shink“いや、潜ってたわけじゃ……っ！？”
-6347:湯船から出て驚くリンに弁明しようと振り向いた俺は、急にくらっときて目の前が真っ白になっていくのを感じる。
-6348:ああ……急に立ち上がったりしたからか……これはダメだな……
-6349:Shink“リン……すまん……”
-6350:Rin“へ……？”
-6351:Rin“って、きゃーー！！　シンク先生！？　シンクせんせーー！！”
-6352:慌てて俺を支えるよう湯船から飛び出てくるリンを見ながら、俺はゆっくりと意識を失っていった。
-6353:Shink“はっ……！”
-6354:Rin“あ、良かった……大丈夫ですか……？”
-6355:Shink“あ、ああ……”
-6356:ふと気がついた俺は、心配そうに眺めるリンを見ながら、自分の状態を思い出す。
-6357:確か意識を失って……
-6358:Shink“悪い……どれくらい気を失ってた？”
-6359:Rin“数分ってところです。気持ち悪いとか、そういうのは無いですか？”
-6360:Shink“あ、ああ……”
-6361:そう言われて俺は自分の身体を確認してみるが、特に問題は無い。
-6362:意識もはっきりしてるし、本当に一時的なものだったんだろう。
-6363:今は風があたって、どこか気持ち良いし……
-6364:Shink“って、裸のまま！？　リンも！？”
-6365:Rin“あ、大丈夫です。湯冷めしないように気をつけてますから”
-6366:Shink“いや、そういうことじゃなくて……！”
-6367:せめてタオルで隠すとかして欲しい……というか、俺も見られたってことか……！？
-6368:Rin“そ、それで……シンク先生、本当に大丈夫ですか？　動いても問題無いですか……？”
-6369:Shink“だ、大丈夫だから隠してくれ！　タオル、タオルはどこだっ！？”
-6370:Rin“はぁ……それだけ叫んでも大丈夫ってことは、本当に大丈夫なんですね……良かったです……んっ……”
-6371:Shink“…………？”
-6372:タオルを探していた俺は、見つからないことに焦りながらも、リンの声に違和感を覚える。
-6373:安心してくれるのは良いんだが……どうにも様子が変だ。
-6374:頬を染めてじっと俺の身体を見てるし……それも一箇所を重点的に……
-6375:Shink“って、どこ見てるんだ……！？”
-6376:Rin“うふふ……元気なら良かったです……はぁ、なんだか安心したら、うずうずしてきちゃいました……”
-6377:Shink“ちょっ、待てっ……！　何を言ってる……！”
-6378:Rin“いきなり倒れて……はぁ、心配して気が昂ぶってたから……ん、安心したら一気に……”
-6379:どうやら気の昂ぶりで本能が刺激されてしまったらしい。
-6380:いや、何を冷静に分析してるんだ……逃げないと……！
-6381:Shink“って、動けないっ！？”
-6382:Rin“んふふ……ダメですよ、シンク先生。心配させた罰です……”
-6383:Shink“ま、待てっ、落ち着け！！”
-6384:Rin“待てません……んっ、もう……はぁ、無理です……！”
-6385:俺の必死の抵抗も虚しく、リンは俺の身体へと顔を寄せてくる。
-6386:その力の強さを前に、俺の力程度では逃げることもできず、なすがままになってしまった……
-6387:Shink“……っ、リン……やめっ……！”
-6388:Rin“ダメですよ……今から気持ち良くしてあげるんですから……”
-6389:Rin“ほら、こうして……んっ、尻尾の先で……おち●ちんをついてやると……”
-6390:Shink“……っ！”
-6391:突如として与えられた刺激に、俺は身体をびくりと跳ね上げる。
-6392:すでに勃起している肉棒もぴくぴくと震え、この状況に興奮してしまっていることを物語っている。
-6393:Rin“やっぱり喜んでますね……んふぅ、このままつつきながら、するするっと尻尾をずらして……んっ、はぁ……”
-6394:Rin“この前飲んだシンク先生の精液、とっても美味しかったから……はぁ、今度は直接……”
-6395:まじまじと肉棒を見つめながら、先端をつついていた尻尾を根本へとずらすと……締め付けてくる。
-6396:そのまま口を開くと、リンは舌を伸ばし、肉棒の先端へと触れさせる。
-6397:Shink“……っ！”
-6398:Rin“んちゅ、ちゅっ……ぴちゅぅ、んふぅ……んぁ、ちょっと、恥ずかしいですね……んぁ……”
-6399:Rin“でも、んちゅる……ぴちゅぅ、シンク先生の味がします……ぴちゅるっ……！”
-6400:Shink“……っ、リン……くっ、それは……！”
-6401:ざらついた舌の感触が亀頭に触れ、俺の身体を電流が駆け巡る。
-6402:反応を確かめるように、リンは舐める位置などをころころと変え、そのたびに新たな刺激が肉棒に与えられる。
-6403:Rin“んちゅぅ、れろぉ、んふぅ……どう、ですか……？　んっ、シンク先生、気持ち良い……ちゅぅっ、ですか……？”
-6404:Shink“くっ、それは……”
-6405:Rin“気持ち良くなかったら、ぴちゅ、ちゅるっ……どんどん言ってくださいね……んちゅぅ、れろ……”
-6406:Rin“気持ちよく、ちゅる、ぷちゅる……なってくれた方が……あふぅ、んんぅ、美味しい精液が出る……みたいですし……ちゅぅ……”
-6407:Shink“うぐっ、リン……はぁっ、これ以上は……！”
-6408:リンは丹念に亀頭を舐めながら、根本を柔らかく尻尾で締め付ける。
-6409:びくりと跳ねる肉棒のタイミングに合わせて締め付けられ、それが抜群の刺激となって、俺の快楽を刺激してくる。
-6410:Rin“ちゅっ、ぺろっ、んんぅ……ただ、んちゅ、だんだん……んふぅ、味がしてきました……んれぉ……”
-6411:Rin“美味しいシンクさんの味……ちゅぅ、わたしだけの……れぉ、精液……んちゅる……”
-6412:Rin“もっと、んっ……気持ち良くして、んちゅぅ……たくさん出してください……んふぅ、れぉ……”
-6413:Shink“くぅ、リン……はぁ、そこは……”
-6414:溢れ出る先走りを舐めとりながら、リンはゆっくりと口を開くと、てらてらと輝く亀頭へと、吸い付き始める。
-6415:Rin“あむぅ、じゅるっ……んずずっ、じゅるるっ……！”
-6416:Shink“うくっ……！？”
-6417:舐められたことで敏感になっていた亀頭に吸い付かれ、俺はがくがくと腰を振ってしまう。
-6418:そんな俺の反応を見ながら、リンは吸い付く力を強め、射精感を高めていく。
-6419:Rin“んじゅる、ぴちゅぅぅ……！　んふぅ、おいしいです、シンク先生のおち●ちん……ちゅる……！”
-6420:Rin“ほら……んじゅ、このまま、じっくり吸い取ってあげますから……んちゅる……じゅぷぅ……”
-6421:Shink“くっ、そこは……ぐぅ、そんなに吸われたら……！”
-6422:Rin“んじゅる、ちゅぅ、れぉ……良い反応ですよシンク先生……ちゅぅ、わたし嬉しくなってきちゃいます……んちゅぅぅ……！”
-6423:吸い付きながらも、口内で舌を這わせられ、吸い付きによる締め付けと、撫でるような刺激の二つが襲ってくる。
-6424:その刺激に歯を食いしばって耐えているが、今にも射精してしまいそうになっている。
-6425:Rin“んじゅぅ、じゅるっ……んふぅ、まだ刺激が、んちゅる……足りないみたいですね……じゅぷぅ……”
-6426:Rin“それじゃ、もっと深く……んちゅる、激しく吸い付いたら……んぴちゅぅ、どうなりますか……？”
-6427:Rin“んじゅるっ、ぴじゅぅぅ……ずずぅぅ、んじゅるっ……！”
-6428:Shink“うっ、くぁっ……！”
-6429:Rin“じゅぷぅ、んんぅ……出てきてますっ、んふぅ……シンク先生の美味しい液……んくぅ、じゅるっ、ぴじゅるっ……！”
-6430:Rin“もっと、んじゅる、じゅぷぅ……もっと出してくださいっ……！”
-6431:与えられる刺激とは別に、うっとりしながら夢中で俺の肉棒に貪りつくリンの姿が、俺を激しく興奮させる。
-6432:普段はこんな姿を見ないからか、その姿を見ているというだけで、頭が快感を発信していく。
-6433:Rin“んじゅる、じゅぷぅ……ずずぅ、ずじゅる……まだ、んちゅぅ、でないです……あふぅ、んじゅっ……”
-6434:Rin“おち●ちん、震えているのに……じゅるっ、ぴじゅぅ……もっと刺激しないと、んじゅる……ダメですか……？”
-6435:Rin“んちゅる、ぴじゅぅ……だったら、んふぅ……こんな刺激は、んずじゅ、どうですか……？”
-6436:吸い付いているだけでは、射精までいかないと思ったのか、リンは一度肉棒から顔を離すと、根本に巻いていた尻尾を肉棒へと巻き付けてくる。
-6437:硬い鱗の感触が肉棒を包み込み、そのまま上下に擦られることで、痛みにも似た刺激に襲われる。
-6438:Shink“うぁっ、それは……っ”
-6439:Rin“んっ、はぁ……ほら、こうして……んっ、おち●ちんを尻尾でくるんであげると……はぁ……”
-6440:Rin“ぴくぴく震えて、尻尾を押し返してきますよ……んふふっ……どうです？　気持ち良いですか？”
-6441:Shink“あぐっ、それは……”
-6442:リンの体温が高いからだろうか、少し熱いと思える尻尾が肉棒へと熱を伝え、睾丸から活性化した精の奔流を迫り上げてくる。
-6443:それをリンも感じているんだろう。優しそうな笑みを浮かべながら、ゆっくりと肉棒を上下に扱きあげていく。
-6444:Shink“くっ、はぁ……鱗が擦れてっ……熱くなってきてる……ぁっ！”
-6445:Rin“んふぅ、大丈夫ですよ……んっ、そんなに高温じゃないですから……ほら、ちょうど良い刺激になってるみたいですし……”
-6446:Rin“それに、おち●ちんは尻尾が擦れる度に、喜んでびくびくしてますよ……？”
-6447:Shink“うくっ、それは……”
-6448:尻尾が擦れる度に、肉棒が面白いように飛び上がり、頭の中が真っ白になるような快感に包まれる。
-6449:人間相手では決して味わうことができない、未知の感覚に、俺の興奮は最高潮に高まっていく。
-6450:Rin“んぁ、ほら……れぉ、こうして口を開いて……んちゅ、待っていますから……んちゅぅ、ちゅるっ……”
-6451:Rin“ここ目がけて出してください……ぴちゅ、れろぉ……”
-6452:Shink“うっ、くっ……そんな同時に責められたら……はぁっ……！”
-6453:竿を尻尾でくるまれ、亀頭を舌で舐められる、両方からの刺激が肉棒だけに伝わり、どうしようもないほどに、身体が震えてしまう。
-6454:その間も容赦なく肉棒が擦りあげられ、奥に溜まってる精液が、ついに我慢の限界を超える。
-6455:Shink“っ、リン……くぅっ、俺、もうっ……！”
-6456:Rin“はいっ……んぁ、出してくださいっ……！　わたしのお口の中に……んふぅ、れぉ、シンク先生のジュースを注いでください……！”
-6457:Shink“あぐっ、くぁぁぁっ！！”
-6458:肉棒の震えを察しながら、的確に弱い部分を鱗で擦りあげる。
-6459:その刺激に耐えきれず、俺は溜まりに溜まった精液を勢いよく噴出した。
-6460:Rin“んちゅぅ、んぁっ……入ってきてます、シンク先生の精液……んちゅる、んくぅ、わたしの口に入って、あふぅ……！”
-6461:Rin“もっとください……んちゅ、れぉ、れるぅ……”
-6462:Shink“うっ、はぁ……くふぅ……”
-6463:大量の精液を飛び散らせ、俺はそれを美味しそうに飲むリンの姿に、再び興奮がわき起こる。
-6464:普段とは全然違い、精液のかかったリンは、妖艶に映る。
-6465:その姿に、俺の肉棒は再び力を取り戻し、もっと刺激が欲しいと訴えるように、びくびく痙攣を繰り返す。
-6466:Rin“んっ、こくっ……んふぅ、どうやら、シンク先生のおち●ちん……んぁ、まだ満足してないみたいですね……”
-6467:Shink“……っ、それは……”
-6468:Rin“ふふっ、だったら……んっ、今度は直接飲んじゃいます……ね？”
-6469:Shink“……っ、何を……”
-6470:リンは無邪気な笑みを浮かべると、肉棒を包んでいた尻尾をずらし、再び竿を露出させる。
-6471:今まで包まれていた熱を失い、ひやりとした空気に触れ、肉棒がぴくぴくと痙攣を繰り返す。
-6472:Rin“んふっ、はぁ……可愛く動いて、んっ……待ちきれないみたいですね……んぁ、それじゃ……ふふっ、いきますよ……”
-6473:Shink“なにを……”
-6474:リンは笑顔のまま肉棒を見続けていたが、そのまま口を大きく開けると、すっぽりと肉棒を口内へと含んでいく。
-6475:Rin“んっ、んんっ……んぐっ、じゅるっ、んじゅぅ……じゅずぅ、ずずぅぅぅっ……！”
-6476:Shink“……っ、くぅっ、うぁっ……！”
+6329:Wait... The temperature seems to be rising steadily...
+6330:I mean, the water starts to sound like it is being boiled!?
+6331:Rin“Ah, it is best for the temperature to be hot like this...”
+6332:Rin“In the school bathroom, no one likes this much heat, so I always have to go alone last...”
+6333:Rin“I know my body temperature rises when I am warm is a species trait... I wish I could control it...”
+6334:Shink“............”
+6335:That is what she meant！ This is bad!
+6336:How hot is she going to raise the temperature!?
+6337:Rin“Ah, it is good... Now it's time to raise it all at once...”
+6338:The temperature of the hot water is raising quickly the moment I heard Rin muttering like that.
+6339:The water is bobbing, and I could feel the stinging heat on my skin...
+6340:Shink“Ah, it's too hot!!!”
+6341:Rin“Oh my God!? It's...it's you Mr Shink!?”
+6342:Shink“I can't! I can't take it anymore!!”
+6343:I jumped out of the bathtub as the water is way too hot, ignoring Rin who looking at me shockingly.
+6344:This is not the tempearature that a human can tolerate！
+6345:Rin“Where, where were you!?　Rather, were you diving underwater all this thime!?”
+6346:Shink“No, I wasn't diving...!?”
+6347:I turned and try to explain to Rin who is surprised, but suddenly my eyes are feeling dazed.
+6348:Oh... It must be because I got up too fast... I am not feeling well...
+6349:Shink“I am sorry...Rin...”
+6350:Rin“What...?”
+6351:Rin“Wait, what!! Shink!? Mr Shink~~!”
+6352:I slowly lost consciousness as I watched Rin jumped out of the hot water to try to support me.
+6353:Shink“Ah...！”
+6354:Rin“Oh, thank God... Are you alright...?”
+6355:Shink“Yeah...”
+6356:Now I came back to my senses, I rememebered what happened as I see Rin who looks at me with concern. 
+6357:It seems that I have lost consciousness...
+6358:Shink“Sorry... How long did I pass out？”
+6359:Rin“About a few minutes. Are you feeling alright now?”
+6360:Shink“Yeah...”
+6361:With that being said, I checked my body and nothing was wrong in particular. 
+6362:Now I have clear consciousness as well, so I guess the comma was only temporary. 
+6363:Now the wind is blowing to my body, it feels somewhat nice...
+6364:Shink“Wait, I am naked!?　Rin you too!?”
+6365:Rin“It's fine. I made sure not to let the water get cold.”
+6366:Shink“No, that is not what I meant...!”
+6367:At least cover yourself with a towel... Wait, does this mean I am been seen as well...!?
+6368:Rin“So, Mr Shink... Are you sure you are okay? Can you move?”
+6369:Shink“Yes I am fine so please cover yourself! Where, where is the towel!?”
+6370:Rin“Huh... If you can scream that much, I guess you are really fine... That's good... Ahh...”
+6371:Shink“......?”
+6372:As I was trying to find a towel, while I was getting impatient not being able to find it, I could hear something off in Rin's voice. 
+6373:I am thankful for Rin to be concerning about me, but something seems wrong...
+6374:She is staring at me with her cheeks red and ... and her sight is focusing on one spot...
+6375:Shink“Where are you looking at...!?”
+6376:Rin“Oh... I am glad that you are okay... You know now I am relived I am feeling kind of horny...”
+6377:Shink“W, wait...! What are you talking about...!”
+6378:Rin“You just collapsed out of sudden... I was worried about you and got worked up... Now you are fine so I ...”
+6379:Apparently, the heightened spirits had stimulated her instincts.
+6380:Wait, why am I trying to analyze this calmly... I must run away...!
+6381:Shink“I... I cannot move!?”
+6382:Rin“Huhu... You cannot run away Mr Shink... This is your punishment for making me worried...”
+6383:Shink“Wait, calm down!!”
+6384:Rin“I am not waiting... Hmm... I can't hold it anymore...!”
+6385:My desperate resistance is in vain and Rin moves her face towards my body.
+6386:My strength was not enough to eascape from her. I was at the mercy of Rin's power...
+6387:Shink“......っ、リン......やめっ......！”
+6388:Rin“Don't try to run... I will make you to feel good now...”
+6389:Rin“See, this is how... Using tip of my tail... to stroke your dick...”
+6390:Shink“......!”
+6391:The sudden stimulation made my body jumped up. 
+6392:My penis is trembling and shaking, indicating that it is excited by this situation. 
+6393:Rin“See he is happy... I will continue and slide my tail... Ahh...”
+6394:Rin“Last time the semen I had was very delicious... So this time I want to directly...”
+6395:While she is gazing at my penis intensely, she slides the tail of the tail and... it  tightens on my dick. 
+6396:As she opens her mouth, Rin strethces out her tongue and let it touches the tip of the dick.
+6397:Shink“......！”
+6398:Rin“Mmm, mmm, ... Oh, oh... Mmm, it's a little embrassing... mmm...”
+6399:Rin“But... It tastes like... Mr Shink... Ah...!”
+6400:Shink“...Rin...That is...!”
+6401:As the rougue tongue touches the glans, I felt an electric current runs throught my body.
+6402:As to check my reaction, Rin changes the position of the licking. Each time she does so, it gives new stimulation to the glans. 
+6403:Rin“Hmm, mmm, mmm, ... How is it...? Does it feel good, Mr Shink...?”
+6404:Shink“That is...”
+6405:Rin“If you feel good, please don't hesitate to say... mmm...”
+6406:Rin“It seems the... semen becomes more delicious if you feel better... Mmm...”
+6407:Shink“Ugh, Rin... Hah, no more...!”
+6408:Rin licks the glans diligently while softly tightening the end of the dick with her tail. 
+6409: The combined stimulation of jerking and bounching of my dick are an excellent stimulation and provides plenty of pleasure.
+6410:Rin“Just, chu...Mmm, gradually... I could taste it now... Mmm...”
+6411:Rin“Shink's delicous semen... And belongs only to me... Mmmm, my own...”
+6412:Rin“More... I will make you feel better... Please give me lots of cum... Huhu...”
+6413:Shink“Ah, Rin... That is...”
+6414:Licking off the runners, Rin slowly opens her mouth and begins to suck on the glistening glans.
+6415:Rin“Ammu, jizz... Mmmm, ssshhhh...!”
+6416:Shink“Wa...!?”
+6417:As the licking made the glans became sensitive, her sucking made me wiggle my hips.
+6418:Rin saw my reaciton, she increased the strength of the sucking and increase my feeling of ejaculation.
+6419:Rin“Oh, oh...! It is delicious...! Mr Shink's dick is very ... delicious...!”
+6420:Rin“Here you go... Nnnnnn, I am going to suck you off slowly... Mmm... Juppu...”
+6421:Shink“Ah, that place is... If you suck that much...!”
+6422:Rin“Nnnnnn... That's a good reaction Mr Shink... I am happy as well...Mmmm...!”
+6423:While sucking, her tongue crawls inside my mouth made it feel like stroking. I am experiencing sucking and stroking as 2 kinds of stimulations. 
+6424:I am trying my best to endure this situation but I feel like I could cum at any moment. 
+6425:Rin“Mmmm, ssshhhh, ssshhhh... I guess, the stimulation... is not enough... Slurp...”
+6426:Rin“Then I shall go deeper... Mmm, and suck harder...Now, how about this...?”
+6427:Rin“Mmmm, mmm...Juppu, slurp...！”
+6428:Shink“Ah, ahh...!”
+6429:Rin“Juppu, mmmm... It's coming out... Mr Shink's delicious semen...Nnngg, sshhhh, psshh...!”
+6430:Rin“More...make more... cum more for me...!”
+6431:Apart from the stimulation she is already giving me, the sight of Rin entranced in devouring my dick arouses me intensely.
+6432:Perhaps it is because I don't see her like this, but just the sight of seeing this alone make my brain transmit pleasure.
+6433:Rin“Nnngg, mmm... Zuu, zururu... Not yet, not yet... Nnnnghhh, nnnnggg...”
+6434:Rin“Despite your dick is shaking ... Nnnnghhh, nnnnggg... Maybe I need to...stimulate more...?”
+6435:Rin“Nnnnghhh, nnnnggg... Then... how about ... this kind of stimulation...?”
+6436:Thinking just sucking alone would not lead to ejaculation, Rin takes her face away from the dick and wraps her tail up and down which had been wrapped around the end of the dick. 
+6437:The sensation of hard scales wrapping around the dick and being rubbed up and down is causing a stimulation similar to pain.
+6438:Shink“This is...”
+6439:Rin“Mmm, huh... Here, like this... I am wrapping my tail with your penis, and you will be able to cum...ahh...”
+6440:Rin“It will twitch and try to push back my tail... Hmm... How does it fell? Does it feel good?”
+6441:Shink“Ah, that is...”
+6442:Perhaps because of Rin's high body temperature, her tail seems a little bit hot, is transmitting the heat to my dick, causing a rush of active semen rushes up from the testicles. 
+6443:Rin must have felt that too. With a gengle smile on her face, she was slowly working on my dick up and down.
+6444:Shink“Ahh... Being wrapped by the scales... It's getting hot...Ahh!”
+6445:Rin“Mmm, it's fine... Hmm, it is not that hot.... See, it seems to be just the right amount of stimulation...”
+6446:Rin“Besides, your dick seems to be happy about my tail wrapping around it...?”
+6447:Shink“Ah, that is...”
+6448:Every time the tail rubs against my dick, my dick jumps up in an interesting way, my head is filled with a pleasure that makes my head go blank.
+6449:WIth the kind of sensation that could never be achieved by a human partner, my excitemnt is heightned to its highest level.
+6450:Rin“Oh... I am opening my mouse... like this and waiting for you...Nnnnghhh, nnnnggg...”
+6451:Rin“Please try to aim here... Nnnnghhh, nnnnggg...”
+6452:Shink“Oh, ugh... If you stimulate it like that...Ahh...!”
+6453:The dick is wrapped by her tail, the glans is licked by the tongue and the stimulation is transmitted to the dick simutaneously, my body trembles helplessly.
+6454:Meanwhile, the dick is being rubbed mercilessly up and down, the semen pooling stored at the back finally exceeds the limit of its endurance.
+6455:Shink“Rin...Ahh, I am...!”
+6456:Rin“Yes... Oh, please let it out...!　Pleaes put it in my mouth... Mmmm, please put Mr Shink's juice into my mouth...!”
+6457:Shink“Aggghhh!!”
+6458:Sensing the trembling of the meat stick, she is rubbing it with the weak part of the scales precisely.
+6459:Unable to stand the stimulation, I spurted out my accumulated semen with great force.
+6460:Rin“Mmmm, mmmm... It's coming in, Mr Shink's semen... Nnnngggghhhh, it's coming in my mouth, ooohhh...!”
+6461:Rin“Please give me more... Mmm, nnnghh, nnnggg...”
+6462:Shink“Ugh, hah... Oh...”
+6463:A large amount of semen spattered on the floor. I was again around by the sight of Rin drinking it deliciously. 
+6464:Totally different from her usual appearance, the semen-covered Rinlooks bewitching in my eyes.
+6465:My dick regained its strength at the sight of Rin, and starts to twitch again and again, as if it is begging for more stimulation.
+6466:Rin“Mmmm, kkk... Mmm, it seems that Mr Shink's dick... is not satisfied yet...”
+6467:Shink“...That is...”
+6468:Rin“Hmmm, then... Hmm, now I'm going to drink directly from it... Okay?”
+6469:Shink“...What are you...”
+6470:Rin smiles innocectly and shifts the ttail that was wrapping the dick, exposing stick again.
+6471:The dick lost the heat which was enveloping it, as it contacts with cold air it is twitching again and again.
+6472:Rin“Mmm, hah... How cute, hmmm...... He can't wait for it... Hmm, well then... Phew, here we go...”
+6473:Shink“What are you...”
+6474:Rin kept looking at the penis with a smile on her face, then she opened her mouth wide and took the meat stick into her mouth completely.
+6475:Rin“Mmm, mmm, mmm... Mmmmmmmmmmmm... Oooooh, oooh, oooh...!”
+6476:Shink“...Oh, oh oh...!”
 6477:リンは肉棒を口内にすっぽりと含むと、顔を大きく振り、口をすぼめて圧迫してくる。
 6478:出したばかりで敏感になっている肉棒は、口内の温かさにびくびくと暴れ回り、精液の残り香をリンに振りまいていく。
-6479:Rin“んぐっ、じゅるっ……んっ、少し苦しい、ですけど……んじゅる、はぁ、精液の味がして……んずずっ、美味しいです……”
-6480:Rin“ほら、んじゅるっ……シンク先生も動いて良いんですよ……ぷじゅるっ……んじゅぅ、もっとわたしに、精液飲ませて……んぐっ、ください……！”
-6481:Shink“……くっ、そんなこと言われても……！”
+6479:Rin“んぐっ、じゅるっ......んっ、少し苦しい、ですけど......んじゅる、はぁ、精液の味がして......んずずっ、美味しいです......”
+6480:Rin“ほら、んじゅるっ......シンク先生も動いて良いんですよ......ぷじゅるっ......んじゅぅ、もっとわたしに、精液飲ませて......んぐっ、ください......！”
+6481:Shink“......くっ、そんなこと言われても......！”
 6482:リンは苦しそうにしながらも、口内で舌を使い肉棒をなめ回してくる。
 6483:頬での圧迫と這い回る舌の感触に、腰が砕けそうなほどの衝撃に襲われる。
 6484:そのリンの口撃に、俺は理性を吹き飛ばしてしまい、自ら快楽を望み腰を振り始める。
-6485:Rin“んじゅぅ、じゅるっ……んぐっ、良いですよ、んふぅ……ずじゅぅぅ、おち●ちん、んふぁ、とっても熱くなって……じゅるっ……！”
-6486:Rin“どんどん大きくなってきてます……んじゅるっ、じゅぷぅ、んじゅっ……じゅるるるっ！”
-6487:Shink“くっ、はぁっ……リン、もう……俺……っ”
-6488:Rin“んぷぅ、ぷじゅっ、んふぅ……出そうなんですね……ぴじゅぅ、じゅるぅ……良いですよ、ずじゅぅ、このまま出してください……っ！”
-6489:Rin“んじゅっ、じゅぷっ……わたしの方は、いつでも準備できてますから……じゅるっ、ぴじゅぅぅ……！”
-6490:Rin“シンク先生の、出したいときに……ずじゅっぅ、んれぉっ、お口の中……んじゅるっ、精液でいっぱいにしてくださいっ……！”
+6485:Rin“んじゅぅ、じゅるっ......んぐっ、良いですよ、んふぅ......ずじゅぅぅ、おち●ちん、んふぁ、とっても熱くなって......じゅるっ......！”
+6486:Rin“どんどん大きくなってきてます......んじゅるっ、じゅぷぅ、んじゅっ......じゅるるるっ！”
+6487:Shink“くっ、はぁっ......リン、もう......俺......っ”
+6488:Rin“んぷぅ、ぷじゅっ、んふぅ......出そうなんですね......ぴじゅぅ、じゅるぅ......良いですよ、ずじゅぅ、このまま出してください......っ！”
+6489:Rin“んじゅっ、じゅぷっ......わたしの方は、いつでも準備できてますから......じゅるっ、ぴじゅぅぅ......！”
+6490:Rin“シンク先生の、出したいときに......ずじゅっぅ、んれぉっ、お口の中......んじゅるっ、精液でいっぱいにしてくださいっ......！”
 6491:のど奥にまで肉棒をくわえながらも、慣れてきたのか、リンはスムーズに、肉棒を締め付けてくる。
 6492:ざらざらの舌が鈴口を開き、溢れ出てくる先走りを舐めとり、そのまま奥から精を吸い出そうとする。
 6493:その吸引力に、奥で放出されるのを待っていた欲望の塊が、とぐろを巻きながら、肉棒内を駆け巡る。
-6494:Rin“んじゅぅ、じゅるっ……おち●ちん、びくびく震えて……んじゅぅ、じゅっ……出してっ、ください……んじゅるっ……！”
-6495:Rin“んじゅぅ、じゅぷぅ、んぐっ……わたしの口の中っ……んぶぅ、ぷじゅるる……っ！　シンク先生のでいっぱいにしてくださいっ……！！”
-6496:Rin“んじゅるっ、じゅぷぅ、じゅるるるっ……ずじゅぅぅぅっ！！”
+6494:Rin“んじゅぅ、じゅるっ......おち●ちん、びくびく震えて......んじゅぅ、じゅっ......出してっ、ください......んじゅるっ......！”
+6495:Rin“んじゅぅ、じゅぷぅ、んぐっ......わたしの口の中っ......んぶぅ、ぷじゅるる......っ！　シンク先生のでいっぱいにしてくださいっ......！！”
+6496:Rin“んじゅるっ、じゅぷぅ、じゅるるるっ......ずじゅぅぅぅっ！！”
 6497:Shink“あぐっ、ぐぁぁっ！”
 6498:とどめとばかりに勢いよく吸われた衝撃で、俺は大量の精液をリンの口内に放出する。
-6499:Rin“んぶぅっ……！？　んじゅっ、んぐっ、んんっ……こくっ、んふぅ、じゅるっ、ずじゅるるっ……！”
-6500:Rin“んじゅぅ、んふぅ……凄い、量です……んふぅ、じゅるるっ……！　のどに、んぐっ……絡まって、あふぅ……”
+6499:Rin“んぶぅっ......！？　んじゅっ、んぐっ、んんっ......こくっ、んふぅ、じゅるっ、ずじゅるるっ......！”
+6500:Rin“んじゅぅ、んふぅ......凄い、量です......んふぅ、じゅるるっ......！　のどに、んぐっ......絡まって、あふぅ......”
 6501:リンは吐き出された全ての精液をじっくりと味わうように、飲み干していく。
 6502:のどが動く度に、口内の肉棒も刺激され、中に残ったものも吸い出されていく。
 6503:俺は射精からくる倦怠感を覚えながら、どこか心地よい気持ちに包まれながら、その光景を見続ける。
-6504:Rin“んじゅぅ、じゅるっ……んぐっ、こくっ、ずじゅっ、んふぁ、これで……全部ですね……ずじゅるる！”
+6504:Rin“んじゅぅ、じゅるっ......んぐっ、こくっ、ずじゅっ、んふぁ、これで......全部ですね......ずじゅるる！”
 6505:全ての精液を飲み干したリンは、肉棒から口を離して、にっこりと笑みを浮かべる。
 6506:その姿に、俺はどきりと胸が高鳴るが、慌てて首を振って、その思いを否定する。
-6507:Rin“んっ、ふふっ……また機会があったら、んっ……シンク先生の精液、飲ましてくださいね”
-6508:Shink“……っ”
-6509:そんなことをにこやかな顔で言われても、どう答えれば良いんだ……
-6510:俺は無邪気なリンの姿を目に焼き付けながら、自由になった身体で、ゆっくりと立ち上がった。
-6511:Shink“はぁ、はぁ……あのなぁ……”
-6512:Rin“あぅ、ごめんなさい……どうしても我慢できなくて……”
-6513:Shink“…………はぁ”
+6507:Rin“Hmm... If there is another chance, please let me drink your semen again!”
+6508:Shink“...”
+6509:If if you looking at me with a beaming face, how can I answer such question like that...
+6510:I stood up slow, with my free body, with the sight of innocent Rin in my eyes. 
+6511:Shink“はぁ、はぁ......あのなぁ......”
+6512:Rin“あぅ、ごめんなさい......どうしても我慢できなくて......”
+6513:Shink“............はぁ”
 6514:行為が終わり、俺は荒い息を吐きながら、リンを軽く睨みつける。
 6515:リンはしゅんとしながら、視線を逸らして謝ってくる。
 6516:そんな姿を見せられたら、怒るに怒れなくなる。
-6517:Shink“とにかく……リンはもう一度ぬくもってこい。俺はもう出て行くから”
-6518:Rin“え、でも……”
-6519:Shink“良いから……体調崩したら意味ないだろ”
-6520:Rin“う……シンク先生……怒ってる……？”
-6521:Shink“…………怒ってない、って言ったら嘘になるけど、まぁ……今回は俺にも責任がある……だろうしな”
-6522:Shink“今後こういうことは無しにしてくれよ……”
+6517:Shink“とにかく......リンはもう一度ぬくもってこい。俺はもう出て行くから”
+6518:Rin“え、でも......”
+6519:Shink“良いから......体調崩したら意味ないだろ”
+6520:Rin“う......シンク先生......怒ってる......？”
+6521:Shink“............怒ってない、って言ったら嘘になるけど、まぁ......今回は俺にも責任がある......だろうしな”
+6522:Shink“今後こういうことは無しにしてくれよ......”
 6523:介抱していてくれたのは事実だし、それが原因と言えなくもない。
 6524:だったら、そこまで怒るのは筋違いだろう。
 6525:Rin“あ、はい。気をつけます”
-6526:Shink“ああ、それじゃ……ゆっくりしていけよ”
+6526:Shink“ああ、それじゃ......ゆっくりしていけよ”
 6527:Rin“はーい”
 6528:俺の言葉に安心したのか、いつもの様子を取り戻したリンは、笑いながら湯船に浸かっていく。
 6529:それを確認して、俺はいそいそと風呂場から出て行った。
@@ -6836,43 +6836,43 @@ This seems a little extreme.
 6533:Shink“良し、そうと決まったら早速行くか”
 6534:柄にもなく、ちょっとわくわくしてきた俺は、立ち上がると部屋から出て行く。
 6535:もしかしたら俺も本を読むのが好きなのかもしれないな。
-6536:Shink“え……ここ？”
+6536:Shink“え......ここ？”
 6537:キューテさんに場所を聞き、コメットがいる場所へとやってきた俺は、その空間に疑問の声を上げてしまう。
-6538:というか、ここは食料庫じゃないのか……？
+6538:というか、ここは食料庫じゃないのか......？
 6539:Comet“......”
 6540:そんなことなど気にしていないのか、俺の来訪にも気づかず、コメットは真剣な表情で本を読んでいた。
 6541:Shink“あー、コメット？”
-6542:Comet“ん……？　ああ、先生でしたか。誰かと思いました”
+6542:Comet“ん......？　ああ、先生でしたか。誰かと思いました”
 6543:Shink“あ、いや悪い。邪魔したか？”
 6544:Comet“いえ、先生なら問題無し。むしろウェルカムです”
 6545:Shink“そうか”
 6546:良かった。邪魔したからって機嫌が悪くなられたら困るからな。
 6547:Shink“それで、何を読んでいるんだ？”
 6548:Comet“これです。実に興味深い”
-6549:Shink“なになに……世界の食大全……？”
-6550:なんというか、また妙なのを読んでるな……
+6549:Shink“なになに......世界の食大全......？”
+6550:なんというか、また妙なのを読んでるな......
 6551:Shink“それ面白いのか？”
-6552:Comet“はい。内容はともかく……メモが非常に優秀”
-6553:Shink“メモ……？”
+6552:Comet“はい。内容はともかく......メモが非常に優秀”
+6553:Shink“メモ......？”
 6554:Comet“これです。読んでいると、本当に食べている気分になる。素晴らしいです”
-6555:Shink“どれどれ……？”
+6555:Shink“どれどれ......？”
 6556:開いたまま差し出してくる本を覗き込み、俺はそのメモとやらを読んでみる。
 6557:そこには、調理方法や下味の方法、食べ頃の時間帯などが事細かに記されている。
-6558:確かにこれは……読んでいるだけで腹が減ってきそうだ。
-6559:Shink“よっぽど食べることが好きなんだな……この持ち主は……”
+6558:確かにこれは......読んでいるだけで腹が減ってきそうだ。
+6559:Shink“よっぽど食べることが好きなんだな......この持ち主は......”
 6560:Comet“是非あってご教授願いたいものです。これほどまで造詣の深いメモを残せるなんて、かなりの偉人に違いないです”
-6561:Shink“お、おう……そうか……”
+6561:Shink“お、おう......そうか......”
 6562:このメモが余程気に入ったのか、コメットは普段からは想像もできないほど弾んでいる。
 6563:瞳は輝いているし、身体中から楽しさが伝わってくる。
 6564:Shink“コメットもそういう顔をするんだな”
 6565:Comet“む。わたしだって感情がある生物です。楽しんだり喜んだりするのは当然”
-6566:Shink“あ、悪い。そうだな……”
+6566:Shink“あ、悪い。そうだな......”
 6567:いくら人形だとはいえ、コメットはコメットだ。
 6568:こんなことを言われたら、気分が良くないよな。
 6569:Comet“いえ、少し興奮してたです。でも、これは本当に読んでて飽きないです”
 6570:Shink“そうか。それは良かったな”
-6571:Comet“はいです。で、先生は何を……？”
-6572:Shink“ああ、俺もちょっと資料を読みに……”
+6571:Comet“はいです。で、先生は何を......？”
+6572:Shink“ああ、俺もちょっと資料を読みに......”
 6573:これだけ由緒正しき雰囲気の屋敷なら、歴史書なんかもありそうだしな。
 6574:Comet“なるほど。歴史書の類は、ここに詰んでる”
 6575:Shink“お、準備が良いな”
@@ -6880,32 +6880,32 @@ This seems a little extreme.
 6577:Shink“そうなのか？”
 6578:コメットが歴史書に興味があるなんて意外だ。
 6579:Comet“先生の授業で興味が出た。後、先生が好きなことだからというのもある”
-6580:Shink“そ、そうか……”
+6580:Shink“そ、そうか......”
 6581:なんだかそう言われると照れるな。
 6582:俺の授業がちゃんと伝わっているようで、嬉しい限りだ。
 6583:Comet“わたしはしばらくこれを読んでる。読みたいなら、先に読んでも良い”
 6584:Shink“そうか？　それなら遠慮なく”
 6585:コメットの許しが出たので、俺は詰まれた本の中から適当に見繕い、ページを開く。
 6586:ずいぶん分厚い本だ。これは読み応えがあるな。
-6587:Shink“なるほど……ここはこうなってたのか……”
+6587:Shink“なるほど......ここはこうなってたのか......”
 6588:あれからどれくらい時間が経ったのか分からないが、俺は集中して歴史書を読んでいた。
 6589:なかなか貴重な資料だったらしく、今まで分からなかった部分が埋まっていく。
 6590:Shink“んー！　これは時間をかけて全部読みたいなぁ”
-6591:Comet“ふむ……なるほど、こんなことが……”
+6591:Comet“ふむ......なるほど、こんなことが......”
 6592:Shink“ん？”
 6593:集中を切った俺は、隣から聞こえてくる呟きが気になり、顔をそちらへと向ける。
 6594:見ると、コメットが今まで以上に真剣な表情で、本を読んでいる。
 6595:さっき読んでいた本とは違うみたいだが、今度は何の本を読んでいるんだ？
 6596:Shink“また食に関する資料か？”
 6597:Comet“ん、違う。それはもう読み終わったです”
-6598:Shink“じゃあそれは……？”
+6598:Shink“じゃあそれは......？”
 6599:Comet“人体の不思議”
-6600:Shink“は……？”
+6600:Shink“は......？”
 6601:Comet“人体の不思議。人間の身体に関する色々なことが載ってる”
-6602:Shink“へぇ……”
-6603:人体の不思議ねぇ……なんでまたそんなものを……
+6602:Shink“へぇ......”
+6603:人体の不思議ねぇ......なんでまたそんなものを......
 6604:Comet“先生は人間。わたしは人間のことを何も知らない。だから知りたい”
-6605:Shink“そんなに知りたいか……？”
+6605:Shink“そんなに知りたいか......？”
 6606:確かに俺も魔物の身体に関しては、ほとんど知らない。
 6607:知っていた方が良いってのは分かるんだが、なにぶん種族が多すぎて把握しきれないんだよな。
 6608:Comet“知りたい。先生が言ってた。これからは人間と魔物の共存が必要だと”
@@ -6914,228 +6914,228 @@ This seems a little extreme.
 6611:さすが本好きだけあって、良いこと言うなぁ。
 6612:Shink“でも知識だけじゃ、いずれ困ることになるぞ”
 6613:Comet“その時はその時。実践に興味無い。さっきも言った通り”
-6614:Shink“いや、それは聞いたけどな……”
+6614:Shink“いや、それは聞いたけどな......”
 6615:Comet“でもこれは興味有る。是非実践してみたい”
-6616:Shink“へ……？　人体の不思議で実践してみたい……？”
-6617:なんだそれ……もしかして血が流れる方法とか、内蔵に関するものとか……
-6618:いやいや、それはないだろ……あったら怖すぎる。
-6619:Comet“何か変なこと考えてる……見当違い甚だしい”
-6620:Shink“は、はは……だよなぁ……”
+6616:Shink“へ......？　人体の不思議で実践してみたい......？”
+6617:なんだそれ......もしかして血が流れる方法とか、内蔵に関するものとか......
+6618:いやいや、それはないだろ......あったら怖すぎる。
+6619:Comet“何か変なこと考えてる......見当違い甚だしい”
+6620:Shink“は、はは......だよなぁ......”
 6621:Comet“わたしが興味あるのはこれ。本当に興味深い”
-6622:Shink“どれどれ……って、これは……！”
+6622:Shink“どれどれ......って、これは......！”
 6623:コメットに見せられたページに目を向け、俺は驚きの声を上げてしまう。
 6624:そこには男性の性に関する詳細が記されていたのだ。
-6625:Shink“って、これの実践に興味あるって……！”
-6626:その瞬間、嫌な予感が身体を走り……じりじりと後ずさってしまう。
-6627:Comet“想像通り。是非先生で実践を……”
+6625:Shink“って、これの実践に興味あるって......！”
+6626:その瞬間、嫌な予感が身体を走り......じりじりと後ずさってしまう。
+6627:Comet“想像通り。是非先生で実践を......”
 6628:Shink“断る！”
 6629:最後まで言い切る前に、俺はコメットに背を向け一気に走り出す。
-6630:何とか逃げ出さなければ……！
-6631:Comet“逃がさない。ていっ……！”
-6632:Shink“は……？　って、おごぉっ！？”
+6630:何とか逃げ出さなければ......！
+6631:Comet“逃がさない。ていっ......！”
+6632:Shink“は......？　って、おごぉっ！？”
 6633:不穏な声を聞き、顔だけ振り向いた俺の眼前に、コメットの顔が飛び込んでくる。
 6634:その衝撃に足をもつれさせ、俺はその場に転がり込んでしまう。
-6635:信じられない……こいつ……顔を投げやがった……！！
-6636:Comet“と言うわけで、先生……よろしく頼むです”
+6635:信じられない......こいつ......顔を投げやがった......！！
+6636:Comet“と言うわけで、先生......よろしく頼むです”
 6637:Shink“ちょっ、よろしくじゃねぇよ！　って、顔を乗せるな！”
 6638:Comet“うるさいです。少し黙って”
 6639:Shink“ごふっ！”
 6640:騒ぐ俺に苛立ったのか、コメットは顔を身体に打ち付け、その上で本を開き始める。
 6641:何が起こるのか分かりながらも、俺は暴れることもできずに、じっとしているしかなかった。
-6642:Comet“ふむふむ、こういう方法もある……勉強になる”
-6643:Shink“勉強になるじゃないだろ……早く解放してくれ……”
+6642:Comet“ふむふむ、こういう方法もある......勉強になる”
+6643:Shink“勉強になるじゃないだろ......早く解放してくれ......”
 6644:Comet“それは無理な話。先生でこのまま実践させてもらう”
-6645:Comet“まずはおち●ちんを刺激する……んっ、これは……何をするときでも同じ……”
+6645:Comet“まずはおち●ちんを刺激する......んっ、これは......何をするときでも同じ......”
 6646:コメットは本に視線を落としながら、ズボンの上から肉棒を手で擦ってくる。
 6647:普通の人間よりもやや硬い手のひらに圧迫され、柔らかな肉棒がぴくぴくと震える。
-6648:Comet“んっ、ズボンの上からでも、この反応……んっ、上場の滑り出し……”
-6649:Comet“このまま……んっ、ズボンの中で勃起させる……”
-6650:Shink“……っ、コメット……はぁ、やめろ……くっ、離すんだ……”
+6648:Comet“んっ、ズボンの上からでも、この反応......んっ、上場の滑り出し......”
+6649:Comet“このまま......んっ、ズボンの中で勃起させる......”
+6650:Shink“......っ、コメット......はぁ、やめろ......くっ、離すんだ......”
 6651:俺は何とか反応するのを防ごうと我慢するが、それに反して絶えず擦られる肉棒は、徐々に熱く、固くなっていく。
 6652:ゆっくりと膨張していく肉棒の感触に、コメットは興味津々といった感じで擦り続ける。
-6653:Comet“んっ、はぁ……こんなにすぐ大きくなるとは、予想外……先生、溜まってるみたい”
-6654:Shink“……っ”
-6655:Comet“でも、早く次に進めるのは好都合……この前は良く見られなかったから、今日はじっくり観察する”
+6653:Comet“んっ、はぁ......こんなにすぐ大きくなるとは、予想外......先生、溜まってるみたい”
+6654:Shink“......っ”
+6655:Comet“でも、早く次に進めるのは好都合......この前は良く見られなかったから、今日はじっくり観察する”
 6656:コメットは興味深そうな声を出すと、身動きとれない俺のズボンを開け、肉棒を露出していく。
-6657:Comet“んっ、なんだか凄く大きい……興味深いです……”
-6658:Shink“……っ、コメットやめるんだ……早くどいてくれ……”
-6659:Comet“何を言ってるです。これからが本番……まだ始まってもいない……”
+6657:Comet“んっ、なんだか凄く大きい......興味深いです......”
+6658:Shink“......っ、コメットやめるんだ......早くどいてくれ......”
+6659:Comet“何を言ってるです。これからが本番......まだ始まってもいない......”
 6660:コメットは勃起した肉棒へとまじまじと視線を向けながら、俺の言葉を拒絶してくる。
 6661:必死に抵抗しようと身体を動かすが、ぶしつけな視線を向けられた肉棒がぴくぴくと痙攣を繰り返し、身体に力が入らない。
-6662:Comet“んっ、おち●ちん……なんだか、ぴくぴくしてる……先生、見られているだけで感じてる……？”
-6663:Shink“くっ、そんなことあるわけ……”
-6664:Comet“嘘。視線をずらすと、その方向におち●ちんが向いてくる……これは見られたいと思っている証拠”
-6665:Shink“そんなことあるはず……くっ……”
+6662:Comet“んっ、おち●ちん......なんだか、ぴくぴくしてる......先生、見られているだけで感じてる......？”
+6663:Shink“くっ、そんなことあるわけ......”
+6664:Comet“嘘。視線をずらすと、その方向におち●ちんが向いてくる......これは見られたいと思っている証拠”
+6665:Shink“そんなことあるはず......くっ......”
 6666:コメットはまじまじとした視線を向けたまま、肉棒の観察を続けていく。
 6667:その視線が向けられる所がどことなく分かり、俺は肉棒が反応しないように、必死に堪える。
-6668:Comet“ふむ、このまま観察していても良いですが、今日の趣旨は実践……早速開始するです”
-6669:Shink“くっ……何をするつもりだ……”
-6670:Comet“すぐ分かるです……こうして、んっ、手を……”
+6668:Comet“ふむ、このまま観察していても良いですが、今日の趣旨は実践......早速開始するです”
+6669:Shink“くっ......何をするつもりだ......”
+6670:Comet“すぐ分かるです......こうして、んっ、手を......”
 6671:言葉を漏らすと同時に、肉棒にどこか柔らかくも硬さを感じる、コメットの手が触れてくる。
 6672:竿を握られ、肉棒がびくりと跳ね上がり、コメットの手をはじき返そうとする。
-6673:Comet“んっ、触れるだけで……はぁ、びくりと震えてる。これなら、すぐにでも射精しそう……”
-6674:Comet“んっ、竿を……んぅ、擦りながら……んふぅ、たまを揉むと……んぁ、快感を得やすくなる……”
-6675:Comet“なるほど……なら、さっそく……”
+6673:Comet“んっ、触れるだけで......はぁ、びくりと震えてる。これなら、すぐにでも射精しそう......”
+6674:Comet“んっ、竿を......んぅ、擦りながら......んふぅ、たまを揉むと......んぁ、快感を得やすくなる......”
+6675:Comet“なるほど......なら、さっそく......”
 6676:コメットは本を読みながら、そこに書いてある通りに肉棒へと刺激を与えてくる。
 6677:柔らかく握られた竿を上下に扱かれ、ズボンの上から睾丸を揉み込んでくる。
 6678:硬さと柔らかさが同居するコメットの肌の感触に、肉棒は悦びに打ち震え、びくびくと反応を返していく。
-6679:Comet“んっ、はぁ……凄く熱くなってるです……んぁ、こんなに熱いなんて、書いてないです……”
-6680:Comet“やっぱり、くふぅ……実践は違います……んぁ、もっと知識との違いを……んぁ、見せてです……”
-6681:Shink“くっ……！”
+6679:Comet“んっ、はぁ......凄く熱くなってるです......んぁ、こんなに熱いなんて、書いてないです......”
+6680:Comet“やっぱり、くふぅ......実践は違います......んぁ、もっと知識との違いを......んぁ、見せてです......”
+6681:Shink“くっ......！”
 6682:肉棒を優しく扱かれることで、小刻みな快感が断続的に与え続けられる。
 6683:根本から竿を扱きあげられ、亀頭に触れると同時に、睾丸を握られる。
 6684:そのことで、溜まった精が肉棒内を駆け巡り、先端へと出口を求めて、溢れ出ていく。
-6685:Comet“ふふっ、我慢汁が出てきたです……んっ、こうなったら……はぁ、もう後は射精まで……んぁ、一直線ですね……”
-6686:Comet“ほらほら、先生も我慢せず、おち●ちんを動かして良いですよ……”
-6687:Shink“ぐっ、誰がそんなことを……”
+6685:Comet“ふふっ、我慢汁が出てきたです......んっ、こうなったら......はぁ、もう後は射精まで......んぁ、一直線ですね......”
+6686:Comet“ほらほら、先生も我慢せず、おち●ちんを動かして良いですよ......”
+6687:Shink“ぐっ、誰がそんなことを......”
 6688:コメットは先走りが溢れたことで、意地の悪そうな声を出し、俺が自分で動くことを期待している。
 6689:しかし、俺はそれを無視し、唇を噛みながら、震える肉棒を押さえつける。
-6690:Comet“くくっ、頑張るですね……んっ、でも、はぁ……無駄です……んっ、先生の感じる方法は、ばればれです……”
-6691:Comet“ほら、こうして……んっ、おち●ちんを擦ると同時に、はぁ……たまを握ってやると……”
-6692:Shink“あぐぅっ……！”
-6693:Comet“ふふっ、思った通りです……先生は少し強く刺激された方が……んっ、感じるみたいです……”
-6694:Comet“おち●ちんが……はぁ、びくびく震えて……んっ、先生の匂いが、わたしの顔まで届いてるです……”
+6690:Comet“くくっ、頑張るですね......んっ、でも、はぁ......無駄です......んっ、先生の感じる方法は、ばればれです......”
+6691:Comet“ほら、こうして......んっ、おち●ちんを擦ると同時に、はぁ......たまを握ってやると......”
+6692:Shink“あぐぅっ......！”
+6693:Comet“ふふっ、思った通りです......先生は少し強く刺激された方が......んっ、感じるみたいです......”
+6694:Comet“おち●ちんが......はぁ、びくびく震えて......んっ、先生の匂いが、わたしの顔まで届いてるです......”
 6695:コメットは、竿をぎゅっと握り込みながら、タイミングを計るように、睾丸を握ってくる。
 6696:そのリズミカルな刺激を我慢することなどできず、俺は激しく肉棒を震わせながら、腰を浮かせる。
-6697:Comet“んっ、おち●ちんの震えが大きくなってきたです……んふぅ、はぁ、そろそろ射精するですか……？”
-6698:Comet“わたしに遠慮せず、そのまま出すです……ちゃんと見逃さず見届ける……”
-6699:Shink“くっ、そんなこと言われて……はぁ、出すわけ……っ……！”
+6697:Comet“んっ、おち●ちんの震えが大きくなってきたです......んふぅ、はぁ、そろそろ射精するですか......？”
+6698:Comet“わたしに遠慮せず、そのまま出すです......ちゃんと見逃さず見届ける......”
+6699:Shink“くっ、そんなこと言われて......はぁ、出すわけ......っ......！”
 6700:コメットの言葉通り、肉棒は今にも射精しそうなほど膨張し、びくびくと震えっぱなしになっている。
 6701:迫り上がってくる精液をぐっと堪えながら、俺はなんとかコメットから逃げようと身体を動かす。
-6702:Comet“ふむ、強情……でも無駄……先生なんて、おち●ちん握られたら、何もできなくなる……ほら……！”
-6703:Shink“くぅっ……！？”
+6702:Comet“ふむ、強情......でも無駄......先生なんて、おち●ちん握られたら、何もできなくなる......ほら......！”
+6703:Shink“くぅっ......！？”
 6704:俺が逃げだそうと身体を動かすと同時に、肉棒を強く握られる。
 6705:それだけで身体の力が抜け、反射的にびくりと腰が跳ね上がる。
-6706:Comet“往生際が悪い……早く出す……わたしに射精を見せる……！”
-6707:Shink“ぐっ、コメット……はぁ、そんな強く握られたら……くぁっ……！”
-6708:Comet“強くしないと出ない……んっ、はぁ、このまま全部出し尽くす……”
+6706:Comet“往生際が悪い......早く出す......わたしに射精を見せる......！”
+6707:Shink“ぐっ、コメット......はぁ、そんな強く握られたら......くぁっ......！”
+6708:Comet“強くしないと出ない......んっ、はぁ、このまま全部出し尽くす......”
 6709:コメットは力強く肉棒を擦りあげ、潰れるくらいの強さで、睾丸を握ってくる。
 6710:非力そうに見えるのに、その力は人間よりは強く、びりびりとした快感が背筋をかけていく。
-6711:Shink“うぐっ、くぁっ……もうっ、でるっ……！”
-6712:Comet“わっ……急に出たです……予兆が全然、感じられなかった……”
+6711:Shink“うぐっ、くぁっ......もうっ、でるっ......！”
+6712:Comet“わっ......急に出たです......予兆が全然、感じられなかった......”
 6713:コメットの力に抗うことができず、俺は結局精液を放出してしまう。
 6714:勢いよく放出された精液が辺りに散らばり、コメットの髪の毛や身体を汚していく。
-6715:Comet“んっ、はぁ、凄いです……んっ、おち●ちんが震える度に、どぴゅどぴゅ飛び散ってる……”
-6716:Comet“髪の毛がべとべとです……んっ、でも、この匂い……はぁ、落ち着くです……”
-6717:Shink“ぐっ、そんなこと……”
+6715:Comet“んっ、はぁ、凄いです......んっ、おち●ちんが震える度に、どぴゅどぴゅ飛び散ってる......”
+6716:Comet“髪の毛がべとべとです......んっ、でも、この匂い......はぁ、落ち着くです......”
+6717:Shink“ぐっ、そんなこと......”
 6718:飛び出る精液を眺めながら、コメットは匂いを吸い込みながら、さらに肉棒を刺激してくる。
 6719:睾丸から根本、亀頭と手を動かされる度に、中に残った精液も飛び出していく。
-6720:Comet“んっ、はぁ……これは、なかなか興味深い……んっ、ああ、でも……んんぅ、本が汚れてしまったです……”
+6720:Comet“んっ、はぁ......これは、なかなか興味深い......んっ、ああ、でも......んんぅ、本が汚れてしまったです......”
 6721:コメットは意味ありげな声を漏らしながら、精液が飛び散った本へと視線を落とす。
-6722:Comet“おっ、これは……”
-6723:Shink“くっ、はぁ……”
+6722:Comet“おっ、これは......”
+6723:Shink“くっ、はぁ......”
 6724:射精が終わると同時に、コメットがなにやら声を漏らしてくる。
 6725:その探るような声に、俺は嫌な予感を覚えるが、射精の脱力感から、動くことができない。
-6726:Comet“なるほど……これは、どういう反応をするのか……楽しみ……”
-6727:Shink“……っ、何をする気だ……”
-6728:Comet“すぐ分かるです……まずは、こうして……”
+6726:Comet“なるほど......これは、どういう反応をするのか......楽しみ......”
+6727:Shink“......っ、何をする気だ......”
+6728:Comet“すぐ分かるです......まずは、こうして......”
 6729:そう言ってコメットはニヤリとした笑みを浮かべながら、自らの髪の毛を肉棒へと巻き付けてくる。
-6730:Shink“……っ！”
-6731:Comet“おお、おち●ちんが……んっ、びくりと反応したです……んふぅ、こういうのも、良いのですね”
-6732:Comet“なにやら良く分かりませんが……何が良いんですか……？”
-6733:Shink“くうっ……！”
+6730:Shink“......っ！”
+6731:Comet“おお、おち●ちんが......んっ、びくりと反応したです......んふぅ、こういうのも、良いのですね”
+6732:Comet“なにやら良く分かりませんが......何が良いんですか......？”
+6733:Shink“くうっ......！”
 6734:肉棒に髪の毛が巻き付けられ、さらさらの感触が伝わってくる。
 6735:絹に包まれているような感触に、俺の肉棒は再び激しく脈打ち、コメットの手の中で暴れ回る。
-6736:Comet“んっ、答えて先生……はぁ、何が気持ち良い……んっ、ほら、擦ってあげるから、答えて……”
-6737:Shink“くぅっ、はぁっ……やめっ、んぐっ、髪の毛が触れてっ……！”
-6738:Comet“やはり髪の毛でも感じるですか……先生は、本当に節操なしです……”
-6739:Comet“でも、んっ、この調子なら……はぁ、またすぐにでも射精しそうです……”
+6736:Comet“んっ、答えて先生......はぁ、何が気持ち良い......んっ、ほら、擦ってあげるから、答えて......”
+6737:Shink“くぅっ、はぁっ......やめっ、んぐっ、髪の毛が触れてっ......！”
+6738:Comet“やはり髪の毛でも感じるですか......先生は、本当に節操なしです......”
+6739:Comet“でも、んっ、この調子なら......はぁ、またすぐにでも射精しそうです......”
 6740:コメットは興味深そうに呟きながら、先ほどと同じように手を動かし始める。
 6741:動き自体は単調だというのに、髪の毛が加わることで、先ほどには無かった刺激が加えられる。
-6742:Shink“ぐっ、はぐぅっ……！”
+6742:Shink“ぐっ、はぐぅっ......！”
 6743:俺はその刺激に、大きく腰を跳ね上げ、呻き声を漏らす。
-6744:Comet“ただ手で刺激してたときより、反応が良い……先生は、髪の毛で感じる変態……”
-6745:Shink“……っ、そんなこと、あるわけ……くうっ……！”
-6746:Comet“この状況で何を言っても無駄。状況が、それが正しいと物語っている……”
-6747:Comet“おち●ちん髪の中でびくびく跳ねて、どんどん我慢汁が溢れてる……髪の毛、べたべたになってる”
-6748:Shink“っ、くぁっ……！”
+6744:Comet“ただ手で刺激してたときより、反応が良い......先生は、髪の毛で感じる変態......”
+6745:Shink“......っ、そんなこと、あるわけ......くうっ......！”
+6746:Comet“この状況で何を言っても無駄。状況が、それが正しいと物語っている......”
+6747:Comet“おち●ちん髪の中でびくびく跳ねて、どんどん我慢汁が溢れてる......髪の毛、べたべたになってる”
+6748:Shink“っ、くぁっ......！”
 6749:髪の毛を擦りあわせるように肉棒を動かし、コメットが力強く上下に擦っていく。
 6750:亀頭に髪の毛の先端がささり、ちくりとした刺激が走る。
 6751:それが快感となり、肉棒から頭へと電気となって駆け巡る。
-6752:Comet“んっ、おち●ちん、はぁ……どんどん膨らんでる……んっ、また出る……今度はどれくらい……んぁ、はぁ……”
-6753:Comet“先生、ほら……我慢は良くない、このまま、わたしの髪の毛で扱かれて、射精する……！”
-6754:Shink“ぐっ、そんなこと……”
+6752:Comet“んっ、おち●ちん、はぁ......どんどん膨らんでる......んっ、また出る......今度はどれくらい......んぁ、はぁ......”
+6753:Comet“先生、ほら......我慢は良くない、このまま、わたしの髪の毛で扱かれて、射精する......！”
+6754:Shink“ぐっ、そんなこと......”
 6755:必死になって快感を我慢するが、そんな俺をあざ笑うかのように、睾丸を力強く握られる。
-6756:Comet“ほら、出すっ……んっ、わたしの目の前で、おち●ちんびくびく震わせながら、みっともなく射精する！”
-6757:Comet“このまま……わたしの顔にかけるくらい、んっ……大量の精液を出すです……！”
-6758:Shink“うぐっ、くぁっ……もうっ……！”
+6756:Comet“ほら、出すっ......んっ、わたしの目の前で、おち●ちんびくびく震わせながら、みっともなく射精する！”
+6757:Comet“このまま......わたしの顔にかけるくらい、んっ......大量の精液を出すです......！”
+6758:Shink“うぐっ、くぁっ......もうっ......！”
 6759:激しく肉棒を擦りながら、射精を促してくるコメット。
 6760:俺はそれを耐えようとするが、肉棒は絹のような紙と硬い手に握り込まれ、びくびくと痙攣する。
 6761:コメットはそれを見逃さず、肉棒が跳ね上がると同時に睾丸と竿と亀頭へ同時に刺激を与える。
 6762:Shink“うぐっ、くぁぁぁぁっ！！”
 6763:三ヶ所を同時に刺激され、俺は我慢できず精を解放する。
 6764:飛び散った精液がコメットへと降りかかっていく。
-6765:Comet“あはっ、凄い量です……んっ、わたしにどんどんかかってくるです”
-6766:Comet“はぁ、そんなに気持ち良かったですか……んっ、どうですか……髪の毛で射精させられた気分は……”
-6767:Shink“ぐっ……はぁっ……”
+6765:Comet“あはっ、凄い量です......んっ、わたしにどんどんかかってくるです”
+6766:Comet“はぁ、そんなに気持ち良かったですか......んっ、どうですか......髪の毛で射精させられた気分は......”
+6767:Shink“ぐっ......はぁっ......”
 6768:俺は先ほどよりも大量の精を吐き出し、しゃべる気力も無いほどに脱力する。
 6769:射精が終わると、そのまま肉棒は満足したように力を失ってしまう。
-6770:Comet“おっと、もうこんなに縮んでしまったです……んっ、ちゅる……んちゅっ……”
-6771:Comet“んふぅ、それにしても……ちゅぅ、れぉ、やっぱり先生の精は美味……舐めてるだけで元気になってくる……”
-6772:Shink“はぁ、はぁ、そんなわけ……はぁ、ないだろ……”
+6770:Comet“おっと、もうこんなに縮んでしまったです......んっ、ちゅる......んちゅっ......”
+6771:Comet“んふぅ、それにしても......ちゅぅ、れぉ、やっぱり先生の精は美味......舐めてるだけで元気になってくる......”
+6772:Shink“はぁ、はぁ、そんなわけ......はぁ、ないだろ......”
 6773:冗談なのか本気なのか分からないコメットは、髪の毛に埋め尽くされた肉棒を見ながら、じっくりと精液を舐めとっていく。
-6774:俺はそんなコメットの行動が終わるまで、動けずにいるのだった……
+6774:俺はそんなコメットの行動が終わるまで、動けずにいるのだった......
 6775:Comet“実に有意義だった。先生が実践も大事と言うのが良く分かったです”
-6776:Shink“そういう意味で言ったんじゃないっての……”
+6776:Shink“そういう意味で言ったんじゃないっての......”
 6777:どこか満足げに頷くコメットに、俺は力なくツッコミを入れる。
-6778:確かに実践は大事だが、こういう実践はやめて欲しいなぁ……
-6779:Comet“続けてこっちの実践を……”
-6780:Shink“やめろ……いやマジで。無理だから”
+6778:確かに実践は大事だが、こういう実践はやめて欲しいなぁ......
+6779:Comet“続けてこっちの実践を......”
+6780:Shink“やめろ......いやマジで。無理だから”
 6781:どうせ同じようなことだろうが、無理なものは無理。
 6782:Comet“不可解。理由を求めるです”
-6783:Shink“だから、こういうことは恋人だとか、夫婦だとか……そういった関係の奴らがやることで……”
+6783:Shink“だから、こういうことは恋人だとか、夫婦だとか......そういった関係の奴らがやることで......”
 6784:Comet“嘘。何の関係も無い男女がする場合もある。それくらい知ってる”
 6785:Shink“.........”
-6786:余計な知識を……
+6786:余計な知識を......
 6787:Comet“だから、それは関係無い。で、本当の理由は何”
-6788:Shink“うっ……”
+6788:Shink“うっ......”
 6789:真摯な眼差しで見つめられ、俺は思わずたじろいでしまう。
-6790:これは本当の理由を言わないと逃げられそうにない……
-6791:だが、それを言ってしまって良いのか……！？
+6790:これは本当の理由を言わないと逃げられそうにない......
+6791:だが、それを言ってしまって良いのか......！？
 6792:Comet“言わないなら、付き合ってもらう。拒否は認めない”
 6793:Shink“いやいや！　拒否くらいさせろよ！”
 6794:Comet“なら理由を言う。わたしが納得できる理由。ハリィハリィ！！”
-6795:Shink“ちょ、迫ってくんな……！！”
-6796:ああもう……！　その辺の知識を何で持ってないんだよ！
-6797:くそ……仕方ない……！！
+6795:Shink“ちょ、迫ってくんな......！！”
+6796:ああもう......！　その辺の知識を何で持ってないんだよ！
+6797:くそ......仕方ない......！！
 6798:Shink“分かった！　言う！　言うから、少し離れろ！”
 6799:Comet“うん。素直が一番。で、理由は？”
-6800:Shink“……っ、出ないからだよ”
-6801:Comet“……？　出ない？　何が？”
+6800:Shink“......っ、出ないからだよ”
+6801:Comet“......？　出ない？　何が？”
 6802:察してくれよ！　ああもう、こうなったらやけだ！
 6803:Shink“出ないから！　精液！　さっき出したので限界！”
 6804:くぁぁぁぁ！　恥ずかしい！
 6805:何だよこの羞恥プレイもどきは！！
 6806:Comet“良く言えました。わたしは満足です”
-6807:Shink“…………は？”
+6807:Shink“............は？”
 6808:羞恥に身を震える俺を見ながら、コメットが満足げに頷く。
-6809:この反応は……まさか……
+6809:この反応は......まさか......
 6810:Shink“てめぇ、知ってたなっ！？”
 6811:Comet“当然。先生の反応が見たかった。反省はしていない”
 6812:Shink“そこは反省しろ！！”
-6813:なんだよ……これじゃ俺、ただのバカじゃないか……！
+6813:なんだよ......これじゃ俺、ただのバカじゃないか......！
 6814:Comet“まぁまぁ、落ち着く。お詫びに、これからも溜まったら、わたしが相手してあげる”
 6815:Shink“結構だ！”
 6816:Comet“む、我ながら良い提案だと思う。両者に得がある、素晴らしい”
 6817:Shink“俺に得が無い！”
-6818:いや魅力的だけど……って、何を考えてる俺！
+6818:いや魅力的だけど......って、何を考えてる俺！
 6819:Shink“とにかく、この話は誰にも言うなよ？”
-6820:Comet“二人だけの秘密……ぽっ”
+6820:Comet“二人だけの秘密......ぽっ”
 6821:Shink“.........”
 6822:Comet“冗談。言わない。約束する”
-6823:Shink“…………はぁ”
+6823:Shink“............はぁ”
 6824:相変わらずの反応を返すコメットに溜息を吐きながら、俺はその場に座り込む。
 6825:もう気にするだけ疲れるだけだ。おとなしく本でも読んでいよう。
 6826:Comet“むぅ、無視に入った。しょうがない”
 6827:俺がもう反応しないだろうと悟ったのか、コメットも読書へと戻っていく。
-6828:読んでいる本が同じものなのは気にしない。絶対に気にしない……
+6828:読んでいる本が同じものなのは気にしない。絶対に気にしない......
 6829:Shink“うん、二人と話してみるか”
 6830:キューテさんともプライベートな話はしたことないし、ミリータともあまり話したことはないからな。
 6831:良い機会だし、友好を深めるのも悪くは無いな。
 6832:Shink“良し、そうと決まったら即行動だ”
 6833:俺は意気揚々と立ち上がると、キューテさんとミリータの場所へと向かって行った。
-6834:Kyute“それにしても……誰もいないなんて……そのうち帰るって連絡してたのに”
-6835:Mirita“あはは……相変わらず自由なんだね……”
+6834:Kyute“それにしても......誰もいないなんて......そのうち帰るって連絡してたのに”
+6835:Mirita“あはは......相変わらず自由なんだね......”
 6836:Kyute“まぁ、良いんですよ。でも自由すぎると思うのよ”
 6837:Mirita“うちも似たようなものだよ。わたしが大きくなってからは、ほとんど放任だし”
 6838:俺が顔を出すと、二人はなんだか盛り上がるように話をしていた。
@@ -7151,56 +7151,56 @@ This seems a little extreme.
 6848:Shink“ああ。丁度良い機会だし、親交を深めようと思ってな”
 6849:Kyute“ふふっ、そういうことなら歓迎です。一緒にお話ししましょう”
 6850:Mirita“賛成。今うちの親のことについて話してたんだ”
-6851:Shink“二人の親というと……父親が人間なんだっけ……”
+6851:Shink“二人の親というと......父親が人間なんだっけ......”
 6852:確か二人ともハーフで、父親が人間だって聞いた。
 6853:Kyute“そうです。それで、親同士が知り合いで、小さい頃から仲良くしてるんですよ”
 6854:Mirita“いつも集まる時はヴェーラちゃんも一緒なんだけど、今回は珍しいかな”
-6855:Shink“ヴェーラと一緒か……それは、大変そうだな……”
+6855:Shink“ヴェーラと一緒か......それは、大変そうだな......”
 6856:あれだけ個性的な子なんだ。相当苦労しているんだろう。
-6857:Mirita“あ、あはは。わたしはあんまり……かな。みんなで集まる時は、だいたいお父さんたちが被害にあってるし”
+6857:Mirita“あ、あはは。わたしはあんまり......かな。みんなで集まる時は、だいたいお父さんたちが被害にあってるし”
 6858:Kyute“普段会えないから、あの子なりに甘えているのよ。やり方はあれだけど”
 6859:そう言ってキューテさんは苦笑を零す。
-6860:しかし、ヴェーラが甘えるねぇ……あの子にもそういった面があるんだな。
+6860:しかし、ヴェーラが甘えるねぇ......あの子にもそういった面があるんだな。
 6861:Kyute“ヴェーラちゃんは、あれで子どもっぽいところがあるんですよ”
 6862:Mirita“うん。お父さんにはべったりだしね”
-6863:Shink“あー……それは分かるな……”
+6863:Shink“あー......それは分かるな......”
 6864:ヴェーラと話していると、節々にお父様という単語が出てくる。
-6865:俺が男だからか、どうにも比べられてるような気がしてるんだよな……
-6866:Kyute“アヴェスさん……ヴェーラちゃんのお父様ですけど、あのヴェーラちゃんを止められる唯一の人なので”
-6867:Mirita“でも、ノリはヴェーラちゃんと似てるよね……まぁ、一番似てるのはライムさんだけど”
-6868:Shink“ライムさん……？”
+6865:俺が男だからか、どうにも比べられてるような気がしてるんだよな......
+6866:Kyute“アヴェスさん......ヴェーラちゃんのお父様ですけど、あのヴェーラちゃんを止められる唯一の人なので”
+6867:Mirita“でも、ノリはヴェーラちゃんと似てるよね......まぁ、一番似てるのはライムさんだけど”
+6868:Shink“ライムさん......？”
 6869:また新しい名前が出てきた。
-6870:Kyute“ええ。ヴェーラちゃんを育てた……というか、面倒を良く見てた方です”
+6870:Kyute“ええ。ヴェーラちゃんを育てた......というか、面倒を良く見てた方です”
 6871:Mirita“スライム族で、アヴェスさんのもう一人の奥さんだよ”
-6872:Shink“へぇ……ヴェーラの父親は多妻なんだ”
+6872:Shink“へぇ......ヴェーラの父親は多妻なんだ”
 6873:Kyute“あはは、それならうちもなんですけどね”
 6874:Shink“そうなんですか？”
-6875:Kyute“はい。わたしの母さんと、アラーニェさん……それとスィークさんの三人ですね”
-6876:Shink“さ、三人もですか……すげぇな学園長……”
-6877:ただでさえ人間だってのに、魔物の妻を三人も……大変だろうなぁ……
-6878:Mirita“そういえば、ヒビキさんはお仕事だとして……他はなんで出かけてるんですか？”
-6879:Kyute“えーと、アラーニェさんは、アヴェスさんたちの航海について行ってるらしいです……”
-6880:Kyute“母さんは父さんのお手伝い……という名目で、父さんといちゃつきに……”
-6881:Kyute“スィークさんは、お師匠様のところに子どもたちの健康診断……だって”
-6882:Mirita“うわー……それは時期が悪かったね……その分貸し切りみたいになってるんだけど”
+6875:Kyute“はい。わたしの母さんと、アラーニェさん......それとスィークさんの三人ですね”
+6876:Shink“さ、三人もですか......すげぇな学園長......”
+6877:ただでさえ人間だってのに、魔物の妻を三人も......大変だろうなぁ......
+6878:Mirita“そういえば、ヒビキさんはお仕事だとして......他はなんで出かけてるんですか？”
+6879:Kyute“えーと、アラーニェさんは、アヴェスさんたちの航海について行ってるらしいです......”
+6880:Kyute“母さんは父さんのお手伝い......という名目で、父さんといちゃつきに......”
+6881:Kyute“スィークさんは、お師匠様のところに子どもたちの健康診断......だって”
+6882:Mirita“うわー......それは時期が悪かったね......その分貸し切りみたいになってるんだけど”
 6883:Shink“......”
-6884:なかなかアグレッシブな方たちなんだな……
-6885:Shink“というか、子どもたちって……キューテさんの兄弟ですか？”
+6884:なかなかアグレッシブな方たちなんだな......
+6885:Shink“というか、子どもたちって......キューテさんの兄弟ですか？”
 6886:Kyute“あ、はい。腹違いの弟妹たちです。まだまだ子どもで、可愛いんですよ”
 6887:Shink“なるほどー。確かに子どもは可愛いですもんね”
-6888:Mirita“あーあ、わたしも弟か妹が欲しいんだけどなぁ……お父さんたち、もうちょっと頑張ってくれないかな……”
+6888:Mirita“あーあ、わたしも弟か妹が欲しいんだけどなぁ......お父さんたち、もうちょっと頑張ってくれないかな......”
 6889:Shink“.........”
-6890:それはまた無茶を言う……いや、無茶では無いだろうが、ここで言われてもなぁ……
+6890:それはまた無茶を言う......いや、無茶では無いだろうが、ここで言われてもなぁ......
 6891:Kyute“そういえば、シンクさんは兄弟がいたりするんですか？”
-6892:Shink“ん、あー。俺は一人っ子ですよ……昔は欲しいと思ってたんですけどね”
-6893:今はそうでもない。まぁ、独り立ちしたし……
+6892:Shink“ん、あー。俺は一人っ子ですよ......昔は欲しいと思ってたんですけどね”
+6893:今はそうでもない。まぁ、独り立ちしたし......
 6894:今更両親に言うような年齢でもない。というか、そんなこと言ったら、先に嫁を連れてこいなんて言われるに決まってる。
 6895:Mirita“ご両親は何をしてるの？”
-6896:Shink“教師。これが厳しい両親でさ……俺も小さい頃から、良く躾けられたもんだよ”
-6897:Mirita“へぇ……教師一家なんですね。それが教師を目指した理由ですか？”
-6898:Shink“ま、無きにしも非ず……かな”
+6896:Shink“教師。これが厳しい両親でさ......俺も小さい頃から、良く躾けられたもんだよ”
+6897:Mirita“へぇ......教師一家なんですね。それが教師を目指した理由ですか？”
+6898:Shink“ま、無きにしも非ず......かな”
 6899:確かに両親の影響を受けたってのもあるからな。
-6900:Mirita“そうなんだ……うちは一応村長さんだからな～……わたしも将来は継ぐことになるのかな？”
+6900:Mirita“そうなんだ......うちは一応村長さんだからな～......わたしも将来は継ぐことになるのかな？”
 6901:Shink“その辺はどうなんだろうな。ご両親が許してくれるなら、自分のやりたいことをやるのが一番だけどな”
 6902:Kyute“そうですね。それに、将来のことはじっくり考えれば良いのよ”
 6903:ミリータの言葉に、俺とキューテさんは真面目な顔で答える。
@@ -7208,77 +7208,77 @@ This seems a little extreme.
 6905:Mirita“なんだか先生に相談してるみたい”
 6906:Shink“いや、俺たち先生だから”
 6907:Kyute“そうよ。プライベートとはいえ、相談くらいのるわよ”
-6908:Mirita“あ、あはは……そうだった……でも、ありがとうございます”
+6908:Mirita“あ、あはは......そうだった......でも、ありがとうございます”
 6909:Shink“いやいや。って、こんな学園と同じようなことしててもしょうがないか”
 6910:Kyute“ですね。時間はありますし、もっと色々なことを話しましょうか”
 6911:Mirita“さんせーい。キューテさんのことは知ってるから、先生のことを話してよ”
 6912:Shink“俺のこと？　まぁ、できる話ならな”
 6913:少し真面目な空気になっていたのを崩すように、話題を変える。
 6914:俺の話から二人の話など、俺たちはしばらくの間、プライベートな話に興じていた。
-6915:Shink“あー良い風だなぁ……”
+6915:Shink“あー良い風だなぁ......”
 6916:キューテさんたちのいる部屋から出た俺は、風に当たろうと中庭に出ていた。
 6917:暑さも気にならないほどに、良い風が肌を撫で、それだけで気分が良くなってくる。
-6918:Shink“それにしても立派な木だな……”
+6918:Shink“それにしても立派な木だな......”
 6919:屋敷の中庭にはアルカスの木が立っており、その花を満開にして見守っている。
 6920:学園の屋上にもあったんだが、こちらが大元なんだろうか。
 6921:Mirita“あれ？　先生も涼みに来てたんだ”
 6922:Shink“ん、ああ。ミリータか。ここは良い風が吹くからな”
-6923:Mirita“だよね～……わたしもここの風は好きなんだ～”
+6923:Mirita“だよね～......わたしもここの風は好きなんだ～”
 6924:先ほどたくさん話したからか、どことなくミリータの口調もフランクになってきている。
 6925:俺はそうやって話してくれた方がありがたいし、ミリータも公私の区別くらいはつくだろうから、特に注意することはない。
 6926:Shink“しかし立派な木だよなぁ”
 6927:Mirita“ああ、アルカスの木？　あれキューテさんが生まれる前からあるんだって”
-6928:Shink“へぇ……そりゃ立派にもなるか”
+6928:Shink“へぇ......そりゃ立派にもなるか”
 6929:Mirita“うん。学園にあるのは、この木から派生したものなんだって”
 6930:Mirita“わたしの村にもあるし、ヒビキさんの理想に共感した人の場所に配ってるって聞いたよ”
-6931:Shink“なるほど……人魔共存を願う証、みたいなものかな”
+6931:Shink“なるほど......人魔共存を願う証、みたいなものかな”
 6932:確かにそういった象徴があるってのは良いことだ。
 6933:長い年月が経っても忘れないだろうし、どうしてそうなったのか説明する際にも説明しやすくなる。
 6934:Mirita“お父さんとお母さんもヒビキさんに共感して、手伝ってるんだよ”
 6935:Shink“そりゃ、人間と魔物とで結ばれているんだから、共感もしやすいだろうなぁ”
 6936:Mirita“うん。特にあの村は、外れものたちが暮らしてる村だから、村一丸となって協力してるの”
-6937:Shink“外れもの……？”
-6938:なんだそれ……良く分からん……
+6937:Shink“外れもの......？”
+6938:なんだそれ......良く分からん......
 6939:Mirita“あ、外れものってのは、社会から追い出された人たちや魔物たちのことだよ”
-6940:Shink“ああ、そういった意味での外れものか……”
+6940:Shink“ああ、そういった意味での外れものか......”
 6941:思想や生い立ち、色々な理由で、その社会で暮らしにくいものたちは、たくさんいる。
 6942:そんな人や魔物が集まってできた村なんだろう。
 6943:おそらくは、ミリータの両親が中心になっているはずだ。
-6944:Mirita“それに、お母さんって……一応お姫様だったらしくて……そっち方面のコネもあるから……”
-6945:Shink“姫って……それじゃミリータも……？”
-6946:Mirita“どうなんだろ。あんまり気にしてないから……でも、お母さんを見てると、気にするだけ無駄かなぁ……って”
-6947:Mirita“だって、どう見ても……ただのバカップルにしか見えないんだもん……あれでお姫様って言われても……”
-6948:Shink“あ、あはは……”
+6944:Mirita“それに、お母さんって......一応お姫様だったらしくて......そっち方面のコネもあるから......”
+6945:Shink“姫って......それじゃミリータも......？”
+6946:Mirita“どうなんだろ。あんまり気にしてないから......でも、お母さんを見てると、気にするだけ無駄かなぁ......って”
+6947:Mirita“だって、どう見ても......ただのバカップルにしか見えないんだもん......あれでお姫様って言われても......”
+6948:Shink“あ、あはは......”
 6949:どこか呆れたように告げるミリータに、俺は苦笑を零すことしかできない。
 6950:話を聞いているに、ミリータの母親も、姫という立場から外れたものなんだろう。
 6951:ただ一族との仲は良好らしいから、凄いことだよな。
 6952:おそらく、父親が余程凄い男なんだろう。
 6953:Shink“はは、ミリータのご両親は凄いんだな”
 6954:Mirita“ふぇっ！？　な、なんですかいきなり”
-6955:Shink“いや、立場的に難しいだろうに……そうしてちゃんと生活している……”
-6956:Shink“それは……とても素晴らしいことだろ？”
-6957:Mirita“…………うん。自慢の両親だよ。だから、わたしも色々したいんだ……”
+6955:Shink“いや、立場的に難しいだろうに......そうしてちゃんと生活している......”
+6956:Shink“それは......とても素晴らしいことだろ？”
+6957:Mirita“............うん。自慢の両親だよ。だから、わたしも色々したいんだ......”
 6958:Shink“ん？　さっき話してた将来のこととかか？”
-6959:Mirita“うん。後を継ぐにしても継がないにしても……漠然とやりたいことは考えてるんだよ？”
+6959:Mirita“うん。後を継ぐにしても継がないにしても......漠然とやりたいことは考えてるんだよ？”
 6960:Shink“そうなんだ”
-6961:Mirita“わたしってハーフだから……人間にも魔物にも……どっちにも属しにくいの……”
-6962:Mirita“村ではそんなこと気にしなくても良いんだけど……外に出ると、やっぱりどこか違うって思いはあるんだ……”
+6961:Mirita“わたしってハーフだから......人間にも魔物にも......どっちにも属しにくいの......”
+6962:Mirita“村ではそんなこと気にしなくても良いんだけど......外に出ると、やっぱりどこか違うって思いはあるんだ......”
 6963:Shink“.........”
 6964:それは確かにそうだろう。
 6965:人間と魔物が結ばれることは、増えてきている。
-6966:だが珍しいことも確かで……その子どもであると、立場的に色々大変なこともあるんだろう。
-6967:Mirita“でも……だからこそ、わたしにもできることがあるんじゃないかって……”
-6968:Mirita“人間の立場も、魔物の立場も……両方を知っているわたしだからこそ……両者の架け橋になれるんじゃないかって……”
-6969:Mirita“ううん……なれる、じゃなくて……なりたい……かな。それがわたしの思ってること……”
+6966:だが珍しいことも確かで......その子どもであると、立場的に色々大変なこともあるんだろう。
+6967:Mirita“でも......だからこそ、わたしにもできることがあるんじゃないかって......”
+6968:Mirita“人間の立場も、魔物の立場も......両方を知っているわたしだからこそ......両者の架け橋になれるんじゃないかって......”
+6969:Mirita“ううん......なれる、じゃなくて......なりたい......かな。それがわたしの思ってること......”
 6970:Shink“.........”
 6971:真剣な眼差しで語るミリータの言葉に、俺は息をするのも忘れて、身を震わせる。
-6972:どこか頼りない感じを受けていたが、これほどまでに熱い想いを持っていたなんて……
-6973:Mirita“……？　どうかしましたか？”
-6974:Shink“いや、感心してたんだ。良い想いを持ってるんだな……とても素敵なことだと思うぞ”
-6975:Mirita“そ、そうかな……？　そう言われると、わたしも嬉しいです”
-6976:Mirita“まだまだ、どうしたら良いのかも分かってないんだけど……あはは……”
+6972:どこか頼りない感じを受けていたが、これほどまでに熱い想いを持っていたなんて......
+6973:Mirita“......？　どうかしましたか？”
+6974:Shink“いや、感心してたんだ。良い想いを持ってるんだな......とても素敵なことだと思うぞ”
+6975:Mirita“そ、そうかな......？　そう言われると、わたしも嬉しいです”
+6976:Mirita“まだまだ、どうしたら良いのかも分かってないんだけど......あはは......”
 6977:Shink“そりゃこれから考えていけば良いさ。その想いを忘れなかったら、きっとできるさ”
-6978:Mirita“だと、良いなぁ……”
+6978:Mirita“だと、良いなぁ......”
 6979:それで話は終わりなのか、ミリータは視線をアルカスの木へと向ける。
 6980:つられるように俺も視線をアルカスの木へと向けると、しばらくの間二人で風を感じていた。
 6981:Shink“あれ？　キューテさんだけですか？”
@@ -7294,60 +7294,60 @@ This seems a little extreme.
 6991:Shink“ええ。父親が学園長なんで、やっぱりそれの影響ですか？”
 6992:俺と同じような感じだけど、理由としては妥当なところだろう。
 6993:親っていうのは、やはり子どもに影響を与えるものだ。
-6994:Kyute“そうですね……一番最初の気持ちは、そうだったと思います”
+6994:Kyute“そうですね......一番最初の気持ちは、そうだったと思います”
 6995:Kyute“父さんや母さんが一生懸命行動してるのを見て、子どもながらに何かしないとって思ったんですよ”
 6996:Shink“......”
-6997:Kyute“そうして勉強して、お師匠様に師事して……色々知っていく内に、教師になりたいなって”
-6998:Shink“色々知っていく内に……？”
+6997:Kyute“そうして勉強して、お師匠様に師事して......色々知っていく内に、教師になりたいなって”
+6998:Shink“色々知っていく内に......？”
 6999:Kyute“はい。わたしの立場とか、人間と魔物との関係とかですね”
-7000:Kyute“わたしは人間と魔物のハーフで……だからこそできることがあるんじゃないかって……”
-7001:Shink“ハーフだからこそできること……か”
-7002:ミリータも同じようなことを言っていたよな……
-7003:なんというか、自分の立場ってのが特殊だと、しっかりした考えを持つようになるのかな……
-7004:Kyute“最初は失敗ばかりだったんですよ。魔物の子たちは、ほら……独特の価値観を持ってるので、振り回されっぱなしでした”
+7000:Kyute“わたしは人間と魔物のハーフで......だからこそできることがあるんじゃないかって......”
+7001:Shink“ハーフだからこそできること......か”
+7002:ミリータも同じようなことを言っていたよな......
+7003:なんというか、自分の立場ってのが特殊だと、しっかりした考えを持つようになるのかな......
+7004:Kyute“最初は失敗ばかりだったんですよ。魔物の子たちは、ほら......独特の価値観を持ってるので、振り回されっぱなしでした”
 7005:Shink“キューテさんがですか？　なんだか想像できないですね”
 7006:Kyute“あはは。わたしの最初に比べたら、本当にシンクさんは凄いですよ。ちゃんとみんなと仲良くなれてますし”
-7007:Kyute“シンクさんが来てから、学園内の雰囲気もずいぶん変わってきてますし……やっぱり身近に人間がいると違うんだなって思います”
-7008:Shink“そうかな……？”
-7009:俺は俺でがむしゃらに突き進んできただけなんだが……
+7007:Kyute“シンクさんが来てから、学園内の雰囲気もずいぶん変わってきてますし......やっぱり身近に人間がいると違うんだなって思います”
+7008:Shink“そうかな......？”
+7009:俺は俺でがむしゃらに突き進んできただけなんだが......
 7010:それが良い方向に働いているなら、嬉しいことはないな。
 7011:Kyute“そうやって自分の信念を持って突き進めるのが、凄いところだと思いますよ”
-7012:Shink“あはは……そう言われると照れますね……”
-7013:Kyute“でも……あまり仲良くなりすぎないように、気をつけてくださいね？”
-7014:Shink“うっ……”
+7012:Shink“あはは......そう言われると照れますね......”
+7013:Kyute“でも......あまり仲良くなりすぎないように、気をつけてくださいね？”
+7014:Shink“うっ......”
 7015:照れる俺に釘を刺すように告げられた言葉に、思わず詰まってしまう。
-7016:何というか……もしかして色々ばれてるんだろうか……
+7016:何というか......もしかして色々ばれてるんだろうか......
 7017:Kyute“まぁ、うちの学園は、そこまで厳しくないですし、むしろ恋愛推奨している部分もあるんですけどね”
-7018:Shink“え、そうなんですか……？”
+7018:Shink“え、そうなんですか......？”
 7019:Kyute“この学園に通う子たちにも、色々事情があるんですよ”
-7020:Shink“事情ですか……”
-7021:それはそうとして……恋愛推奨って言われても、そこで疑問が出てくる。
-7022:Shink“うち、男っていないですよね？　俺を除いて……”
+7020:Shink“事情ですか......”
+7021:それはそうとして......恋愛推奨って言われても、そこで疑問が出てくる。
+7022:Shink“うち、男っていないですよね？　俺を除いて......”
 7023:Kyute“そうですね。だから今までは問題になって無かったんですよ”
-7024:Kyute“でもシンクさんが来て、それが崩れた……はっきり言って、狙われてますよ？”
-7025:Shink“それは……まぁ、身にしみてます”
+7024:Kyute“でもシンクさんが来て、それが崩れた......はっきり言って、狙われてますよ？”
+7025:Shink“それは......まぁ、身にしみてます”
 7026:食料だとか精気だとか、そっち方面でってことは、よ～く理解してる。
 7027:Kyute“まぁ、中には本気の子もいるんでしょうけどね”
 7028:Shink“......”
 7029:微笑みながら視線を向けられ、俺は気まずげに顔を逸らす。
-7030:というかこれ……絶対分かって言ってるよな……
-7031:Shink“…………気をつけます”
+7030:というかこれ......絶対分かって言ってるよな......
+7031:Shink“............気をつけます”
 7032:Kyute“ふふっ、互いが同意しているなら、別にわたしも気にしませんけどね”
 7033:Kyute“でも、公私の区別はちゃんとしてくださいね？”
 7034:Shink“はい”
-7035:軽い注意に、俺は神妙に頷く。俺も子どもじゃないんだし、それくらいは大丈夫……なはずだ。
+7035:軽い注意に、俺は神妙に頷く。俺も子どもじゃないんだし、それくらいは大丈夫......なはずだ。
 7036:Goblin“びびー！”
 7037:Shink“っと、なんだ？”
 7038:話が終わったことを察したのか、小鬼が集まってきて声をかけてくる。
 7039:これ以上ないってタイミング、ずいぶんと空気の読める生物だ。
-7040:Kyute“あら、もうそんな時間なのね……”
+7040:Kyute“あら、もうそんな時間なのね......”
 7041:Goblin“びびー！　びっ、びびびっ！！”
-7042:Shink“……？　キューテさん、なんて言ってるんですか？”
+7042:Shink“......？　キューテさん、なんて言ってるんですか？”
 7043:Kyute“そろそろ夕飯にするらしいです。わたしも手伝わないと、小鬼さんたちだけじゃ厳しいですし”
 7044:Shink“なるほど。それじゃ、俺も手伝いますよ。あまり力にはなれないでしょうけど”
 7045:Kyute“いえいえ。手伝ってくれるだけでもありがたいです。それじゃ、手早くすませてしまいましょうね”
 7046:Shink“了解しました”
-7047:何もしないというのも落ち着かない……そんな俺の意を汲んでくれたのか、キューテさんと小鬼は俺に指示をくれる。
+7047:何もしないというのも落ち着かない......そんな俺の意を汲んでくれたのか、キューテさんと小鬼は俺に指示をくれる。
 7048:それを聞いて覚えながら、俺はその場を立ち上がり、キューテさんや小鬼の後に続いて、夕飯の手伝いを始めた。
 7049:Rin“シンク先生、準備できましたよー！”
 7050:Shink“おーう、こっちも大丈夫だ。そっちはどうだ？”
@@ -7355,18 +7355,18 @@ This seems a little extreme.
 7052:夕飯も終わり、俺たちはキューテさんの提案で、花火をすることとなった。
 7053:何でも一般的にはまだ普及していないらしく、ここでしか楽しめないものらしい。
 7054:Mirita“キューテさん、全員に配り終わったよー”
-7055:Kyute“それじゃ、始めましょうか。本当は浴衣とかが用意できたら良かったんだけど……”
+7055:Kyute“それじゃ、始めましょうか。本当は浴衣とかが用意できたら良かったんだけど......”
 7056:Shink“まぁまぁ、みんな楽しみにしているみたいだし、良いじゃないですか”
 7057:Rin“そうですよ。それで、ここに火をつければ良いんでしたっけ？”
 7058:Kyute“ええそうよ。でも、人に向けないように気をつけてね”
 7059:Comet“フリですね。分かります”
 7060:Shink“待て、なんでそこで俺を見る。やめろよ？”
 7061:Comet“ちっ、しょうがない。おとなしくしてる”
-7062:Mirita“あはは……って、リンさん。火は噴かないでね……？”
-7063:Rin“えっ！？　と、当然だよ……そんなことしないし……”
-7064:Shink“うん。目を逸らさず言ってくれたら嬉しかったんだがな……”
+7062:Mirita“あはは......って、リンさん。火は噴かないでね......？”
+7063:Rin“えっ！？　と、当然だよ......そんなことしないし......”
+7064:Shink“うん。目を逸らさず言ってくれたら嬉しかったんだがな......”
 7065:なんというか、未知のものをするからって、自由すぎるだろ。
-7066:やり方を知ってるキューテさんやミリータの注意は、ちゃんと聞かないとダメだな……
+7066:やり方を知ってるキューテさんやミリータの注意は、ちゃんと聞かないとダメだな......
 7067:Kyute“それじゃ、それぞれ手に持った花火に火をつけてくださいね～”
 7068:キューテさんの合図に、それぞれが興味を惹かれた花火を手に取る。
 7069:どんな花火かは分からないが、そこまで危険なものは無さそうだ。
@@ -7376,41 +7376,41 @@ This seems a little extreme.
 7073:Mirita“それじゃ、つけるよー”
 7074:ミリータが自分の花火に火をつけるのを見て、俺たちもそれを真似するように、火をつけていった。
 7075:Rin“うわ～綺麗ですねーーって、コメットちゃん！？”
-7076:Comet“おおう、これは予想外の威力……驚きです”
+7076:Comet“おおう、これは予想外の威力......驚きです”
 7077:Shink“って、何してんだっ！？”
 7078:一斉に火をつけたは良いが、コメットの取った行動に、俺とリンは目を見開き驚いてしまう。
 7079:というか、コメット自身も驚いてるじゃねぇか！？
 7080:Comet“熱い熱い、誰か助けてー”
-7081:Rin“あわわ、何とかしないと……でも、動いたら火が落ちちゃうし……”
-7082:Shink“いや、そこじゃないだろ！　早く何とかしないと……”
+7081:Rin“あわわ、何とかしないと......でも、動いたら火が落ちちゃうし......”
+7082:Shink“いや、そこじゃないだろ！　早く何とかしないと......”
 7083:慌ててコメットの花火を取り上げようとするが、あまりの勢いに近づくことすらできない。
-7084:あれだけ注意したのに、なんでこんなことをするんだ……！？
-7085:Shink“キューテさん、ミリータ！　二人も手伝って……！”
+7084:あれだけ注意したのに、なんでこんなことをするんだ......！？
+7085:Shink“キューテさん、ミリータ！　二人も手伝って......！”
 7086:俺たちだけでは手に負えないと判断し、俺はキューテさんやミリータにも声をかける。
-7087:Mirita“むむ……やはり、この動き……良いなぁ……”
+7087:Mirita“むむ......やはり、この動き......良いなぁ......”
 7088:Kyute“それそれ～。う～ん、楽しいですね～！”
 7089:Shink“......”
 7090:しかし、二人はこの惨状に気づいていないのか、完全に自分の世界に入っている。
 7091:キューテさんは次々に何かを打ち上げ、その度に上空で弾けるような爆発が起きている。
-7092:ミリータに至っては、なにやら奇妙な動きをする花火をうっとりと眺めているし……
-7093:Shink“ダメだ……これじゃ止めようが無い……！”
+7092:ミリータに至っては、なにやら奇妙な動きをする花火をうっとりと眺めているし......
+7093:Shink“ダメだ......これじゃ止めようが無い......！”
 7094:Comet“諦めるのが早すぎるです。何とかしてください”
-7095:Shink“いや、無理だって……終わるまでおとなしく……”
-7096:Comet“な、何と……この熱さに耐えろと……なんて鬼畜……鬼畜教師シンク！”
+7095:Shink“いや、無理だって......終わるまでおとなしく......”
+7096:Comet“な、何と......この熱さに耐えろと......なんて鬼畜......鬼畜教師シンク！”
 7097:Shink“好き勝手言うなよ！？　どう考えても自業自得だろ！？”
 7098:Rin“ど、どうするんですかシンク先生！　わたしは動けないです！”
 7099:Shink“まだあるんだから、消して動けば良いだろ！？”
-7100:Rin“で、でももったいないじゃないですか……”
+7100:Rin“で、でももったいないじゃないですか......”
 7101:Comet“絶望した。花火＞わたしの現状に絶望した！”
 7102:Shink“結構余裕あるな！？”
 7103:Kyute“そーれ、次々いきますよー！”
 7104:Shink“キューテさんはキューテさんで、完全に楽しんでるし！”
 7105:ああもう、なんだかめちゃくちゃだ！
 7106:花火ってもっと厳かなものじゃ無かったのか！？
-7107:Mirita“うふふ、良いな～……どんどん伸びてる、あはは……”
+7107:Mirita“うふふ、良いな～......どんどん伸びてる、あはは......”
 7108:Shink“怖いよ！”
-7109:ミリータは地味な花火を見ながら、気味の悪い声で笑ってるし……
-7110:端から見てると不気味で仕方ない……
+7109:ミリータは地味な花火を見ながら、気味の悪い声で笑ってるし......
+7110:端から見てると不気味で仕方ない......
 7111:Comet“先生騒がしい。もっと落ち着けです”
 7112:Shink“誰のせいなんだろうな！？”
 7113:Comet“リン、早く謝った方が身のため”
@@ -7420,12 +7420,12 @@ This seems a little extreme.
 7117:騒がしい俺たちを見かねたのか、少しだけ強い風が吹き始める。
 7118:煙が辺りに広がり、俺たちの顔へと向かってくる。
 7119:Shink“ぷあっ！？　め、目が、目に煙がーー！？”
-7120:Rin“んんっ！？　は、鼻に煙が……”
-7121:Rin“ふわっ、ふわっ……！”
+7120:Rin“んんっ！？　は、鼻に煙が......”
+7121:Rin“ふわっ、ふわっ......！”
 7122:Shink“んげぇっ！？”
 7123:その風のいたずらに、煙を浴びたリンが、何かを堪えるように顔を顰める。
 7124:それを見て、俺たちは慌て始める。
-7125:Comet“な、なんと……計ったように、リンの側に多量の花火がー”
+7125:Comet“な、なんと......計ったように、リンの側に多量の花火がー”
 7126:Shink“棒読み！　もう諦めてるのかよ！？”
 7127:Kyute“って、どうしてそんな状況になってるんですか！？”
 7128:Shink“今気づいたんですか！？　というか、何とかしてください！”
@@ -7433,30 +7433,30 @@ This seems a little extreme.
 7130:Comet“わたしは諦めた。先生も諦める。ほら、ミリータを見る。全く動じてない”
 7131:Mirita“るんるる～ん。もっと長くなってね～”
 7132:Shink“気づいてない！　気づいてないだけだから！”
-7133:Rin“あふっ、ふぁ……んっ、くふぅ……！”
+7133:Rin“あふっ、ふぁ......んっ、くふぅ......！”
 7134:誰もが諦めて慌てるだけの中、リンはもうくしゃみを出してしまいそうになる。
-7135:これは……無理だ……
+7135:これは......無理だ......
 7136:Rin“はくしゅん！！”
-7137:くしゃみが出た瞬間、リンの口から勢いよく火が噴き出され、近くの花火に引火……爆発を引き起こす。
+7137:くしゃみが出た瞬間、リンの口から勢いよく火が噴き出され、近くの花火に引火......爆発を引き起こす。
 7138:Shink“.........”
 7139:Rin“.........”
 7140:Comet“.........ぼーぜん”
-7141:Mirita“な、なに……？　何が起こったの……！？”
-7142:Kyute“ミリータちゃん……本当に気づいてなかったのね……”
+7141:Mirita“な、なに......？　何が起こったの......！？”
+7142:Kyute“ミリータちゃん......本当に気づいてなかったのね......”
 7143:それぞれが呆然とした表情のまま、風の音だけが聞こえてくる。
 7144:全員の顔がすすで汚れ、真っ黒になっており、それをただただ見つめている。
-7145:Rin“…………くすっ”
-7146:Comet“…………ふっ”
-7147:Mirita“…………あ、あはは”
-7148:Kyute“うふふっ……”
+7145:Rin“............くすっ”
+7146:Comet“............ふっ”
+7147:Mirita“............あ、あはは”
+7148:Kyute“うふふっ......”
 7149:Rin“あ、あははははは！　な、なんでこうなるのかな～？”
-7150:Comet“ふふふっ、なかなかどうして……花火というのは面白いです……くくっ……”
-7151:Mirita“な、なんだか分からないけど……あはっ、もう笑うしかないよ～”
-7152:Kyute“そ、そうですね。ふふふっ、こういうのも良いですね……ふふっ”
-7153:Shink“は、ははっ……あははははは！”
+7150:Comet“ふふふっ、なかなかどうして......花火というのは面白いです......くくっ......”
+7151:Mirita“な、なんだか分からないけど......あはっ、もう笑うしかないよ～”
+7152:Kyute“そ、そうですね。ふふふっ、こういうのも良いですね......ふふっ”
+7153:Shink“は、ははっ......あははははは！”
 7154:沈黙も束の間、俺たちは全員すすだらけの顔を見せ合いながら、笑い始める。
 7155:花火の火は爆発で全て消えてしまったが、なんだか楽しくなっていた。
-7156:Shink“さて……それじゃ、仕切り直すか！”
+7156:Shink“さて......それじゃ、仕切り直すか！”
 7157:Rin“そうですね！　今度は気をつけます！”
 7158:Comet“うん。わたしも自重する”
 7159:Mirita“本当だよね？　また爆発は嫌だからね！”
@@ -7465,27 +7465,27 @@ This seems a little extreme.
 7162:楽しかったとはいえ、爆発はもう勘弁だ。
 7163:俺たちは笑顔のまま、再び花火へと火をつけはじめた。
 7164:Kyute“はい、ちゃんと後始末はしてくださいね”
-7165:Rin“はーい。あ、この灰の山どうしましょう……”
+7165:Rin“はーい。あ、この灰の山どうしましょう......”
 7166:Shink“あーそれは俺が掃除しとくから、他のを頼む”
 7167:Comet“おお太っ腹。ではお言葉に甘えて”
 7168:Mirita“ごめんね先生”
 7169:俺は爆発によって生じた灰を集めながら、他の後始末を頼む。
 7170:全員が行動に移る中、俺は今はここにいないメンバーを思い浮かべる。
-7171:Rin“ん……？　シンク先生、どうかしたんですか？”
-7172:Shink“ああ、いや……今度は全員で来たいなと思ってな”
+7171:Rin“ん......？　シンク先生、どうかしたんですか？”
+7172:Shink“ああ、いや......今度は全員で来たいなと思ってな”
 7173:Mirita“それも良いかも。ただ、もっと騒がしくなっちゃうだろうけど”
 7174:Comet“それは同意。ヴェーラがいたら、どこでも騒がしくなる”
-7175:Kyute“まぁ、休みはまだまだありますから……でも、課題も忘れないようにね”
+7175:Kyute“まぁ、休みはまだまだありますから......でも、課題も忘れないようにね”
 7176:Rin“はーい”
 7177:締めるところは締めるキューテさんに返事をしながら、後始末を終えた面々が部屋へと戻っていく。
 7178:俺も周りに灰が無いことを確認すると、後に続くように部屋へと戻っていく。
 7179:さて、この休暇が終わったら、また学園生活も始まるし、頑張るとしますか。
-7180:Shink“ん、んんっ……？”
+7180:Shink“ん、んんっ......？”
 7181:俺はまぶたから伝わる眩しい光に、ゆっくりと目を開ける。
-7182:なんだかいつもより暑い気がするんだが……でも、風も吹いていて、どこか心地良い……
-7183:Shink“あ、あれ……？”
+7182:なんだかいつもより暑い気がするんだが......でも、風も吹いていて、どこか心地良い......
+7183:Shink“あ、あれ......？”
 7184:目を開いて飛び込んできた青空に違和感を覚え、俺は起き上がろうと身体を動かす。
-7185:しかし、身体は俺の意思に反して、まるで動く気配が無く、それどころか、どうにも苦しいような……
+7185:しかし、身体は俺の意思に反して、まるで動く気配が無く、それどころか、どうにも苦しいような......
 7186:Shink“って、なんじゃこりゃーーーー！！！”
 7187:思わず叫び声を上げてしまうが、それも無理ない話だろう。
 7188:なんせ、俺はなぜか身体をロープで縛られ、簀巻きの状態で転がされているのだから。
@@ -7495,145 +7495,145 @@ This seems a little extreme.
 7192:Vera“そだよ。いや～ぐっすり寝てるもんだからさ、起こすの面倒だし、そのまま連れてきたんだ～”
 7193:Shink“そのまま連れてきたじゃねぇよ！　起こせよ！”
 7194:というか、良く起きなかったな俺！　そのことにまず吃驚だ！
-7195:Shirene“諦めなさい。わたしも、いきなり連れてこられて、辟易してるのよ……”
-7196:Shink“おおシレーネ……って、どうした？　なんだか顔色が悪いが……”
-7197:Shirene“いえ、ちょっと甘く見てたわ……船がこんなに揺れるだなんて……”
-7198:Shink“は？　船……？”
+7195:Shirene“諦めなさい。わたしも、いきなり連れてこられて、辟易してるのよ......”
+7196:Shink“おおシレーネ......って、どうした？　なんだか顔色が悪いが......”
+7197:Shirene“いえ、ちょっと甘く見てたわ......船がこんなに揺れるだなんて......”
+7198:Shink“は？　船......？”
 7199:シレーネの言葉に疑問を感じた俺は、簀巻きの状態のまま、ぐるっと辺りを見回してみる。
-7200:すると確かに船であることが分かる……部屋じゃないとは思っていたが、まさか船の上だとは……
+7200:すると確かに船であることが分かる......部屋じゃないとは思っていたが、まさか船の上だとは......
 7201:Shink“いやいやいや！　何で俺、船に乗ってるの！？”
 7202:Vera“何でって、海に行くって言ったのはシンクじゃん”
-7203:Shink“いや、それはそうだが……なんで船に乗ってるんだよ……”
+7203:Shink“いや、それはそうだが......なんで船に乗ってるんだよ......”
 7204:Vera“ちょ～っと場所が遠いからさ～。そもそも、その島陸路じゃ行けないし～”
-7205:Shink“島って、おいおい……わざわざ島にまで行くのかよ……”
+7205:Shink“島って、おいおい......わざわざ島にまで行くのかよ......”
 7206:何でもない風に言うヴェーラに、俺は呆れた声を上げる。
-7207:海に泳ぎに行くのは良いとして、島まで行くって聞いてないっての……
-7208:Shirene“わたしも船に乗せられてから聞いたのよ……少しは事前に言っておいて欲しかったわ”
-7209:Shirene“それなら、何かしらの対処はできたでしょうに……うっ……”
-7210:Shink“あー……大丈夫か？　無理そうなら船内に入った方が……”
+7207:海に泳ぎに行くのは良いとして、島まで行くって聞いてないっての......
+7208:Shirene“わたしも船に乗せられてから聞いたのよ......少しは事前に言っておいて欲しかったわ”
+7209:Shirene“それなら、何かしらの対処はできたでしょうに......うっ......”
+7210:Shink“あー......大丈夫か？　無理そうなら船内に入った方が......”
 7211:Shirene“やめとくわ。風が感じられる分、外の方がマシなのよ”
-7212:Shink“なるほど……”
+7212:Shink“なるほど......”
 7213:確かに風が感じられる方が、気分は良いか。
-7214:しかし、シレーネがこうなってるなら……ビビはどうなっていることやら。
+7214:しかし、シレーネがこうなってるなら......ビビはどうなっていることやら。
 7215:Bibi“なにやら失礼なことを考えていないか？”
-7216:Shink“っと、ビビか……って、お前は平気そうだな”
+7216:Shink“っと、ビビか......って、お前は平気そうだな”
 7217:Bibi“当然だ。そもそも、この程度で根を上げるなど、軟弱としか言いようが無いな”
 7218:Shink“......”
 7219:俺の考えを読んだのか、少しバカにした表情でシレーネへと視線を向けている。
 7220:いつもなら、それに反論するんだろうが、シレーネは本当に気分が悪いのか、力なく項垂れている。
-7221:Shirene“…………浮いている貴女に言われるのだけは、納得できないわ”
-7222:Shink“おい……”
+7221:Shirene“............浮いている貴女に言われるのだけは、納得できないわ”
+7222:Shink“おい......”
 7223:シレーネのセリフに、ビビの足下を見ると、ほんの僅かだが浮いているのが分かる。
-7224:そりゃ浮いてたら船の揺れとかは関係無いよな……
+7224:そりゃ浮いてたら船の揺れとかは関係無いよな......
 7225:Bibi“ちっ、目ざといな。だが、文句を言うのは筋違いだ。恨むなら、飛べない自分の身を恨むんだな”
-7226:Shink“何という暴論……”
+7226:Shink“何という暴論......”
 7227:Vera“どーでも良いけどさ、全員手伝うくらいしたらどうなのさ。全部あたしに任せるって酷くね？”
-7228:Shirene“無理。見たら分かるでしょう……”
+7228:Shirene“無理。見たら分かるでしょう......”
 7229:Bibi“あたしはそもそもやる気が無い。勝手にしてくれ”
 7230:Shink“まずロープをほどけ。話はそれからだ”
 7231:Vera“ちぇ、好き勝手言ってくれるなぁ”
 7232:Shink“いや、ビビはともかく、俺とシレーネは正論しか言ってない”
-7233:そもそもこんな縛られた状態で、何を手伝えと言うんだ……
-7234:Vera“全く、それくらい自分でほどきなさいっての……ほら、これで良いでしょ”
-7235:Shink“良し……というか、あれだけぎちぎちに縛られてたら、自分でほどけるわけ無いだろ”
+7233:そもそもこんな縛られた状態で、何を手伝えと言うんだ......
+7234:Vera“全く、それくらい自分でほどきなさいっての......ほら、これで良いでしょ”
+7235:Shink“良し......というか、あれだけぎちぎちに縛られてたら、自分でほどけるわけ無いだろ”
 7236:Vera“それはシンクが軟弱なだけじゃん。あたしだったら、何の問題も無いね！”
 7237:Shink“ヴェーラみたいなバグキャラと一緒にしないでくれ”
 7238:Vera“むっ、あたしのどこがバグってるってのよ！”
 7239:Shink“.........”
-7240:自覚が無いとは、これまた難儀な……
-7241:説明しても無駄だろうし、おとなしく言うこと聞いとくか……
+7240:自覚が無いとは、これまた難儀な......
+7241:説明しても無駄だろうし、おとなしく言うこと聞いとくか......
 7242:Shink“それで、俺は何を手伝えば良いんだ？　言っておくが、船のことなんて知らないからな”
 7243:Vera“別に期待してないし。とりあえず舵取りでもしといてよ”
-7244:Shink“おい……”
-7245:だから船のことなんて何も知らないって言ってるだろ……
+7244:Shink“おい......”
+7245:だから船のことなんて何も知らないって言ってるだろ......
 7246:Vera“だいじょぶだいじょぶ。指示はあたしが出すから、その方向に舵を取ってくれるだけで良いの”
-7247:Shink“…………そうか”
-7248:こりゃ何を言っても無駄だな……
+7247:Shink“............そうか”
+7248:こりゃ何を言っても無駄だな......
 7249:そう判断した俺は、溜息を吐きながら舵の前まで移動する。
 7250:Shink“オーケー。それで、このままで良いのかー？”
 7251:Vera“うん、今んとこはこのままで良いかな。どーしても船を揺らしたいってなら、話は別だけど？”
-7252:Shirene“やめなさいよ……分かってるでしょうね……？　うっ……”
-7253:Shink“分かってるっての……”
-7254:誰が好きこのんで船を揺らしに行くんだ……俺はそこまでマゾじゃない。
-7255:Bibi“ふぁぁ……それじゃ、あたしは寝て来る。目的地に着いたら起こしてくれ”
-7256:Shirene“くっ……貴女は暢気で良いわね……っ”
+7252:Shirene“やめなさいよ......分かってるでしょうね......？　うっ......”
+7253:Shink“分かってるっての......”
+7254:誰が好きこのんで船を揺らしに行くんだ......俺はそこまでマゾじゃない。
+7255:Bibi“ふぁぁ......それじゃ、あたしは寝て来る。目的地に着いたら起こしてくれ”
+7256:Shirene“くっ......貴女は暢気で良いわね......っ”
 7257:Vera“はいはい。興奮しない興奮しない。吐くよ？”
 7258:Shink“.........はぁ”
 7259:何というか、本当に先行き不安なメンバーだ。
-7260:無事に到着してくれれば良いんだけどなぁ……
+7260:無事に到着してくれれば良いんだけどなぁ......
 7261:Shink“おーい、まだつかないのかー？”
 7262:無理矢理船に乗せられてから早数日。未だにその島とやらに到着しない。
 7263:そもそもだんだんヴェーラからの指示も適当になってきている気がするんだが、これ正しいのか？
-7264:Shirene“うぐっ……もう、いっそ殺してちょうだい……”
+7264:Shirene“うぐっ......もう、いっそ殺してちょうだい......”
 7265:Bibi“おやおや。ヴェーラ、これは本格的にまずいぞ。シレーネがそろそろ限界だ”
-7266:Vera“えー、仕方ないなぁ……んじゃシンクー、面舵いっぱーい！”
+7266:Vera“えー、仕方ないなぁ......んじゃシンクー、面舵いっぱーい！”
 7267:Shink“はいよーって、本当にこっちであってるのか？”
 7268:Vera“うんあってるよー。方向さえ調節してくれたら、後はあたしが運んでいくから”
 7269:Shink“はい？　運んでいくってどういうことだよ”
 7270:Vera“いや、そのまんまの意味だし。あ、ストップストップ、はい良いよー”
-7271:Shirene“ちょっとヴェーラ……後どれくらいでつくのよ……もう、本当に無理っぽいんだけど”
+7271:Shirene“ちょっとヴェーラ......後どれくらいでつくのよ......もう、本当に無理っぽいんだけど”
 7272:Vera“すぐだって。後ほんの数時間ってとこかな”
 7273:Bibi“数時間？　というか、ここで面舵ってことは、だいぶ前についていてもおかしく無いぞ？”
 7274:Vera“ん？　そりゃそうよ。だって無駄に船に乗ってたんだし”
 7275:Shink“おいっ！？”
 7276:ヴェーラから飛び出た爆弾発言に、俺はずっこけそうになるのを必死に堪える。
-7277:無駄に船に乗ってたって何だよ……意味が分からん。
-7278:Shirene“ちょっとヴェーラ、どういうことなのよ……！”
+7277:無駄に船に乗ってたって何だよ......意味が分からん。
+7278:Shirene“ちょっとヴェーラ、どういうことなのよ......！”
 7279:Vera“いや、船に乗るのも久しぶりだからさー。ちょーっと、乗り心地を満喫してただけなんだよねー”
-7280:Shink“あ、あのなぁ……”
+7280:Shink“あ、あのなぁ......”
 7281:Vera“あっはっは！　良いじゃん別にさ。荒れそうなところはちゃんと回避してあげたんだし”
 7282:Vera“ホントは、荒れた海を突っ切りたかったんだけど、素人がいるから自重してあげたんだよ？”
-7283:Shink“おいおい……勘弁してくれ……”
+7283:Shink“おいおい......勘弁してくれ......”
 7284:あまりにも自分勝手なヴェーラの言い分に、頭が痛くなってくる。
-7285:それじゃ、俺はずっと無意味に舵を取らされてたってことかよ……
-7286:Shirene“ヴェーラ……貴女、本当に良い度胸ね……陸に着いたら……覚えてなさいよ……”
+7285:それじゃ、俺はずっと無意味に舵を取らされてたってことかよ......
+7286:Shirene“ヴェーラ......貴女、本当に良い度胸ね......陸に着いたら......覚えてなさいよ......”
 7287:Bibi“あっはっは！　さすがはヴェーラ、予想もできないことをやってくれるな”
 7288:Vera“いや～照れちゃうなぁ～”
-7289:Shink“褒めてないっての。それより、何かするなら早くしてくれ……どっと疲れた……”
+7289:Shink“褒めてないっての。それより、何かするなら早くしてくれ......どっと疲れた......”
 7290:Vera“あいよ！　それじゃ、全員ちゃ～んと掴まってなさいよー！”
-7291:Shink“へ……？　ってヴェーラ！？”
+7291:Shink“へ......？　ってヴェーラ！？”
 7292:にこやかな笑みを浮かべながら、ヴェーラはそのまま海へと飛び込んでいく。
 7293:呆気にとられた様子でそれを見送っていると、なにやら急に船の速度が増していく。
 7294:Shink“って、なんだぁっ！？”
-7295:Shirene“きゃぁっ！？　は、早い早い！　ちょ、揺れるっ……！！”
+7295:Shirene“きゃぁっ！？　は、早い早い！　ちょ、揺れるっ......！！”
 7296:Bibi“おお、これは凄いな。実に快適だ”
 7297:Vera“まだまだスピードあげるかんね～！　落っこちたりしないでよ！”
-7298:Shink“まさか……”
+7298:Shink“まさか......”
 7299:後方から聞こえてくるヴェーラの声に、俺はとんでもないことを思いついてしまう。
-7300:ヴェーラの奴……後ろから船を押して泳いでるのか！？
-7301:Shink“な、なんつー無茶苦茶なことを……”
-7302:Shirene“ひ、非常識過ぎるわ……うぷっ……”
+7300:ヴェーラの奴......後ろから船を押して泳いでるのか！？
+7301:Shink“な、なんつー無茶苦茶なことを......”
+7302:Shirene“ひ、非常識過ぎるわ......うぷっ......”
 7303:Bibi“まぁ、ヴェーラだしな。これくらいのことをしても不思議じゃないだろうさ”
 7304:Vera“あーっはっはっは！　たんのし～～な～～～～！！”
-7305:Shink“…………頭いてぇ”
+7305:Shink“............頭いてぇ”
 7306:あまりにも非常識なヴェーラの行動に、もはや言葉を出すこともできず、俺は呆然と立ち尽くす。
 7307:そんな俺の心情をあざ笑うかのように、船はぐんぐんとスピードを上げていくのだった。
 7308:Vera“ほいとうちゃーく！　いやー楽しい航海だったね！”
-7309:Shink“楽しんでたのがヴェーラだけな件について……どう反応すれば良いだろうか”
+7309:Shink“楽しんでたのがヴェーラだけな件について......どう反応すれば良いだろうか”
 7310:Bibi“割り切れ。いつものことだ”
-7311:Shirene“よ、ようやく陸地に……うっ、もう二度と船になんか乗らないわよ……”
+7311:Shirene“よ、ようやく陸地に......うっ、もう二度と船になんか乗らないわよ......”
 7312:Shink“......”
-7313:帰りも乗るんだが……今は言わないでやるか。
+7313:帰りも乗るんだが......今は言わないでやるか。
 7314:Vera“うーん！　相変わらず、この島は良い季候ね！　遊ぶにはうってつけだわ！”
 7315:Bibi“ふむ。確かに自然が多くて過ごしやすそうだな。久しぶりにゆっくり羽を伸ばせそうだ”
-7316:Shirene“どうでも良いわ……ちょっと休ませて……”
-7317:Shink“同感だな……”
+7316:Shirene“どうでも良いわ......ちょっと休ませて......”
+7317:Shink“同感だな......”
 7318:俺は船酔いにあってないが、それでも疲れたことに変わりない。
 7319:遊ぶにしても少し休憩してからの方が良いだろう。
 7320:Vera“はぁ？　何言ってるのよ！　あたしもうお腹ぺっこぺこなんだから！　すぐにご飯の準備よ！”
-7321:Shink“おーい。少しは人の話を聞いてくれ……”
+7321:Shink“おーい。少しは人の話を聞いてくれ......”
 7322:Vera“ここでやることと言えば！？　そう！　バーベキュー！道具はばっちり、いざ出陣！！”
-7323:Shink“だから……って、行っちまった……”
+7323:Shink“だから......って、行っちまった......”
 7324:Bibi“ああなったヴェーラは止められん。早く後を追った方が良いぞ”
-7325:Shink“ビビはどうするつもりなんだよ……”
+7325:Shink“ビビはどうするつもりなんだよ......”
 7326:Bibi“あたしか？　あたしが手伝いをするとでも？”
 7327:思ってない。するとは思えない。
-7328:となると、後頼りになるのはシレーネだけなんだが……
-7329:Shirene“うぅ……無理よ。どうしてわたしがこんな目に遭うのよ……”
+7328:となると、後頼りになるのはシレーネだけなんだが......
+7329:Shirene“うぅ......無理よ。どうしてわたしがこんな目に遭うのよ......”
 7330:こっちも無理そうだな。
 7331:下手に働かせると、そのまま吐いてしまいそうだ。
 7332:Shink“あー、シレーネは休んでろ”
-7333:Shirene“悪いけど……そうさせてもらうわ……”
+7333:Shirene“悪いけど......そうさせてもらうわ......”
 7334:Shink“ビビ、手伝えとは言わないから、シレーネのこと頼んだ”
 7335:Bibi“そうだな。それくらいなら引き受けよう”
 7336:さすがのビビもシレーネの姿を哀れんだのか、珍しく素直に言うことを聞いてくれる。
@@ -7642,28 +7642,28 @@ This seems a little extreme.
 7339:Shink“だぁっ！　聞こえてるから叫ぶな！”
 7340:Vera“じゃあ早くこーーい！　あたしにばっか働かせんなーー！！”
 7341:Shink“ああ、分かった分かった！”
-7342:まったく、こっちはこっちで気苦労が多いってのに……！
-7343:文句を言ってもしょうがないことは分かってるんだがな……
-7344:Shink“はぁ……”
+7342:まったく、こっちはこっちで気苦労が多いってのに......！
+7343:文句を言ってもしょうがないことは分かってるんだがな......
+7344:Shink“はぁ......”
 7345:これ以上待たせると、何を言われるか分からん。
 7346:俺は溜息を吐きながら、バーベキューの準備をすべく、船内へと入って行った。
 7347:Vera“ふははははー！　者ども食え食え！　肉があたし等を呼んでいるーーー！！！”
 7348:Shink“っておい！　肉しか焼いてねぇじゃねぇか！　野菜も焼け、野菜も！！”
 7349:Vera“野菜？　意味が分からない！　そんなものバーベキューには必要ない！！”
 7350:Shink“必要だろ！　何だよ、この一面肉畑！！　バランス悪いにも程があるだろ！！”
-7351:あれからすぐに準備を済ませ、早速始めたわけだが……
-7352:ヴェーラの奴、肉しか焼く気が無いのか……野菜をまったく無視しやがる。
+7351:あれからすぐに準備を済ませ、早速始めたわけだが......
+7352:ヴェーラの奴、肉しか焼く気が無いのか......野菜をまったく無視しやがる。
 7353:Vera“バランス？　はっ、バランスなんて必要ない！　この世は一芸特化が生き残る荒野なのよ！！”
 7354:Shink“何言ってんの！？　良いから少しスペース開けろって！！”
 7355:Bibi“そうだ。さすがに肉ばかり焼かれては困る。あたしもシレーネもな”
-7356:Shink“お、おお……！　そうだそうだ、もっと言ってやれ……！”
-7357:Shirene“というか、本当に肉焼くのやめて……匂いだけで、うぷっ……！”
+7356:Shink“お、おお......！　そうだそうだ、もっと言ってやれ......！”
+7357:Shirene“というか、本当に肉焼くのやめて......匂いだけで、うぷっ......！”
 7358:Shink“......”
-7359:確かに、この匂いはきついよな……酔ってる奴には特に。
+7359:確かに、この匂いはきついよな......酔ってる奴には特に。
 7360:Vera“ちぃっ、この草食系どもめ！　リンやミリータがいたら、満場一致で肉だけになるってのに！”
 7361:Bibi“ないない。あの二人も肉好きだが、バランス派だ。よって肉だけなんてことはありえん”
 7362:Vera“むきーー！　分かったわよ！　ほら、スペース空けたげるから、勝手に焼きな！！”
-7363:Shink“ちょっ、狭い！　もっと……せめて半分はよこせ！！”
+7363:Shink“ちょっ、狭い！　もっと......せめて半分はよこせ！！”
 7364:Vera“がめついわね！　そもそも手が遅いのが悪いのよ！　男なら自分でスペースを勝ち取れ！！”
 7365:Shink“また無茶苦茶言うなぁっ！？　良いぞ、やったろうじゃねぇか！！”
 7366:なにやら挑発めいたことを言われ、俺は焼けていた肉を皿に移すと、一気に野菜を乗せていく。
@@ -7671,80 +7671,80 @@ This seems a little extreme.
 7368:Vera“ぎゃーーー！？　シンク、まだ焼けてない肉まで取った！　この鬼畜！！”
 7369:Shink“あいにく俺はレア好きなんでなぁっ！　これくらい火が通ってたら、問題ないんだよ！！”
 7370:だが生肉！　てめぇはダメだ！！
-7371:Vera“ちぃっ！　言い訳じみたことを……！　しかも焼けるのが遅い野菜ばっか乗せてるし！！”
+7371:Vera“ちぃっ！　言い訳じみたことを......！　しかも焼けるのが遅い野菜ばっか乗せてるし！！”
 7372:Shink“当たり前だ！　時間がかかるやつから焼くのは基本だろうが！！”
 7373:俺とヴェーラは鉄板上の陣地を求めて果てない戦いを繰り広げる。
 7374:端から見てるとくだらないだろうが、俺とヴェーラの表情は真剣そのものだ。
 7375:バーベキューは戦争だ！
 7376:Bibi“おお、あのヴェーラについていくとは、先生もやるなぁ”
-7377:Shirene“どうでも良いけど、少しは静かにできないのかしら……”
-7378:Bibi“まぁ、見ている分には面白いんだ。それくらい我慢しろ……というか、食べないと無くなるぞ？”
-7379:Shirene“無理。あのペースに付き合うなんて、冗談じゃないわ……”
+7377:Shirene“どうでも良いけど、少しは静かにできないのかしら......”
+7378:Bibi“まぁ、見ている分には面白いんだ。それくらい我慢しろ......というか、食べないと無くなるぞ？”
+7379:Shirene“無理。あのペースに付き合うなんて、冗談じゃないわ......”
 7380:Bibi“ふむ、それもそうか。だが、食事にありつけないのは問題だな”
 7381:Vera“どうしたシンク！　手が遅くなってきてるわよ！！”
-7382:Shink“くぅっ！　また肉ばかりに……！”
-7383:ダメだ……このままじゃ負ける……！
+7382:Shink“くぅっ！　また肉ばかりに......！”
+7383:ダメだ......このままじゃ負ける......！
 7384:というか、俺焼いたのを取るばっかりで食べてない！！
 7385:Shink“えぇぃ仕方ない！　ヴェーラ、お互い妥協しよう！”
 7386:Vera“んぁ？　何よいきなり。肉だけにするってこと？”
 7387:Shink“それのどこが妥協してるんだ！　最初に分けてくれたスペースで良いから、しばらく食べるのに専念しよう！”
-7388:Vera“……いや、あたしはちゃんと食べながら焼いてるけど？”
-7389:Shink“なん……だと……？”
-7390:あれだけ熾烈な争いを繰り広げながら、ちゃんと食べているだと……！？
-7391:バカな……なんてスペックなんだ……！
-7392:Vera“っていうか、シンク……どうすんのよ、そのたまった肉。残したらダメだかんね”
-7393:Shink“ぐっ……分かってる……一時撤退だ……もぐっ……”
+7388:Vera“......いや、あたしはちゃんと食べながら焼いてるけど？”
+7389:Shink“なん......だと......？”
+7390:あれだけ熾烈な争いを繰り広げながら、ちゃんと食べているだと......！？
+7391:バカな......なんてスペックなんだ......！
+7392:Vera“っていうか、シンク......どうすんのよ、そのたまった肉。残したらダメだかんね”
+7393:Shink“ぐっ......分かってる......一時撤退だ......もぐっ......”
 7394:呆れたような視線で見つめてくるヴェーラにたじろぎながら、俺は取り置いてあった肉を口に運ぶ。
-7395:なんだか少し熱がぬけ、あまり美味しく感じられない……
-7396:Shink“くそ……バカやってないで、さっさと食べてれば良かった……”
+7395:なんだか少し熱がぬけ、あまり美味しく感じられない......
+7396:Shink“くそ......バカやってないで、さっさと食べてれば良かった......”
 7397:Bibi“ご愁傷様。で、ヴェーラその焼いている野菜をくれ。あたしも腹が減った”
 7398:Vera“あいよ。シレーネはどうすんの？”
-7399:Shirene“あまり濃くないものを少し……野菜なら生でも良いわ……むしろ、そっちの方が良い”
+7399:Shirene“あまり濃くないものを少し......野菜なら生でも良いわ......むしろ、そっちの方が良い”
 7400:Vera“へいよー。ほれ、ちゃんと食べるんだぞー”
-7401:Shink“…………何この空気の変わりよう”
+7401:Shink“............何この空気の変わりよう”
 7402:今まで争っていたのが嘘のように、ヴェーラはビビとシレーネに、野菜を分け与えていく。
-7403:それ、俺が焼いてた野菜なんだけどな……
+7403:それ、俺が焼いてた野菜なんだけどな......
 7404:Vera“シンクは、その肉を食べきるまでダメだかんね”
-7405:Shink“ちくしょう……少し前の自分を殴ってやりたいぜ……”
+7405:Shink“ちくしょう......少し前の自分を殴ってやりたいぜ......”
 7406:この調子だと、肉を食べきる前に野菜が無くなってしまいそうだ。
-7407:ああ、グッバイ俺の野菜たち……
+7407:ああ、グッバイ俺の野菜たち......
 7408:Shink“はぁー食べた食べた”
 7409:ようやく最後の食材を消費し、俺は腹を擦りながらその場に座り込む。
-7410:それにしても、良くこれだけ食べたな……肉はほとんど俺とヴェーラで消費したんだが……
+7410:それにしても、良くこれだけ食べたな......肉はほとんど俺とヴェーラで消費したんだが......
 7411:Vera“よーし！　腹も膨れたし、さっそく遊ぶぞーー！”
 7412:Bibi“あたしはパス。自然が多いし、その辺をぶらぶらしてくるさ”
 7413:Vera“えー？　一緒に泳がないの？”
 7414:Bibi“食べてすぐに泳げるか。泳ぎたいなら一人で泳いでくれ”
-7415:Vera“ぶーぶー、薄情者ー。シレーネはどうすんの……って聞くまでもないかー”
-7416:Shirene“だったら聞かないで……本調子に戻るまで、このままでいさせて……”
-7417:Shink“はは……”
+7415:Vera“ぶーぶー、薄情者ー。シレーネはどうすんの......って聞くまでもないかー”
+7416:Shirene“だったら聞かないで......本調子に戻るまで、このままでいさせて......”
+7417:Shink“はは......”
 7418:船を下りてからかなり時間が経っているからか、それなりに回復してきたみたいだけど、本調子では無いらしい。
 7419:まぁ、無理して遊ぶこともないだろうし、自由にさせてやるか。
 7420:Vera“あーあ、あたしのライバルを自称するくせに、ほーんと弱っちいなぁ～”
-7421:Shink“おいおい……”
+7421:Shink“おいおい......”
 7422:そんなシレーネの姿を見かねたのか、ヴェーラがニヤリと笑いながら挑発まがいの言葉を吐きつける。
-7423:さすがにシレーネでも、こんな見え見えの挑発には乗らないだろ……
-7424:Shirene“…………なんですって？”
+7423:さすがにシレーネでも、こんな見え見えの挑発には乗らないだろ......
+7424:Shirene“............なんですって？”
 7425:Shink“のっちゃうの！？”
 7426:Vera“んっふっふ、無理はしなくて良いんだぞー？　弱者は弱者らしく、そこでへばってな”
-7427:Shirene“良い度胸じゃない……誰が弱者なのかしら……？”
+7427:Shirene“良い度胸じゃない......誰が弱者なのかしら......？”
 7428:Vera“おーおー、強がっちゃってさ～。そんなぷるぷる震える身体で、何をしようってのさ”
-7429:Shirene“ふふっ……節穴ね、わたしのどこが震えてるのかしら？”
-7430:いや……現在進行形で震えてますが……とは言わない方が良いんだろうなぁ……
+7429:Shirene“ふふっ......節穴ね、わたしのどこが震えてるのかしら？”
+7430:いや......現在進行形で震えてますが......とは言わない方が良いんだろうなぁ......
 7431:Vera“あはは！　だったら試してみる？　あたしについてこれたら、撤回してあげても良いよ？”
-7432:Shirene“……っ、良いわ！　やってやろうじゃない！”
+7432:Shirene“......っ、良いわ！　やってやろうじゃない！”
 7433:Vera“うひゃー！　怒った怒った！　それ逃げろ～！　すたこらさっさー！！”
 7434:Shirene“あ、待ちなさいヴェーラ！　この、待てぇぇぇぇっ！！”
 7435:ヴェーラの挑発とも言えない挑発で気を持ち直したのか、シレーネは逃げ去るヴェーラを追いかけ走り去る。
-7436:なんというか、本当に単純なやつだな……
-7437:Bibi“ふっ、さて……二人ともどこかに行ったようだし、あたしも失礼するよ”
+7436:なんというか、本当に単純なやつだな......
+7437:Bibi“ふっ、さて......二人ともどこかに行ったようだし、あたしも失礼するよ”
 7438:Shink“ん、おう迷ったりするなよ？”
 7439:Bibi“誰にものを言っているんだか”
 7440:俺の忠告に苦笑しながら、ビビは羽を震わせ森の方へと飛んで行ってしまう。
 7441:俺はそれを見送りながら、さてどうしたものかと腕を組み考え始める。
-7442:どうせヴェーラに負かされているだろうシレーネの様子を見に行くか……
-7443:心配なビビの様子を見に行くか……それともヴェーラと話をするか……
-7444:どれにせよ、大変な気がするが……放っておくわけにも行かないからなぁ。
+7442:どうせヴェーラに負かされているだろうシレーネの様子を見に行くか......
+7443:心配なビビの様子を見に行くか......それともヴェーラと話をするか......
+7444:どれにせよ、大変な気がするが......放っておくわけにも行かないからなぁ。
 7445:"シレーネの様子見。"
 7446:"ビビを探しに行く。"
 7447:"ヴェーラと話をする。"
@@ -7756,12 +7756,12 @@ This seems a little extreme.
 7453:Shirene“ああもう！　負けた！！”
 7454:Shink“っと、いたいた”
 7455:しばらく砂浜を歩いていると、悔しそうに叫びながら棒を振り回すシレーネの姿を見つける。
-7456:って、こんなところまで持ってきてたのかよ……
+7456:って、こんなところまで持ってきてたのかよ......
 7457:Shink“よっ、その調子じゃ負けたみたいだな”
 7458:Shirene“っ、そうよ。悪い？”
-7459:Shink“誰もそんなこと言ってないっての……”
-7460:Shirene“ふん。あんな挑発に乗るなんて……わたしもまだまだだわ”
-7461:Shink“そりゃ……なぁ……”
+7459:Shink“誰もそんなこと言ってないっての......”
+7460:Shirene“ふん。あんな挑発に乗るなんて......わたしもまだまだだわ”
+7461:Shink“そりゃ......なぁ......”
 7462:先ほどのヴェーラの挑発を思い返しながら、俺は苦笑を零す。
 7463:さすがに、あんな見え見えの挑発に乗るようじゃ、未熟って言われてもしょうがない。
 7464:Shirene“とにかく、未熟な以上鍛錬あるのみよ。邪魔はしないでよね”
@@ -7770,38 +7770,38 @@ This seems a little extreme.
 7467:Shirene“それより、見てるなら手伝ってもらっても良いかしら？”
 7468:Shink“ん？　手伝い？”
 7469:Shirene“ええ。そもそも、ここに行く前からそういう約束をしようと思ってたわけだし、良いでしょう？”
-7470:Shink“ふむ……”
+7470:Shink“ふむ......”
 7471:シレーネの提案に、俺は少しだけ逡巡してしまう。
-7472:さすがに遊びに来たってのに、鍛錬をするのはどうかと思うんだが……
-7473:Shirene“……別に無理なら断ってくれても良いのよ？”
-7474:Shink“いや、無理じゃないんだが……なんというか、真面目だなぁ……”
-7475:Shirene“……負けられないもの。無理のない範囲で、できる限り鍛錬はしておかないと、ヴェーラには追いつけないわ”
+7472:さすがに遊びに来たってのに、鍛錬をするのはどうかと思うんだが......
+7473:Shirene“......別に無理なら断ってくれても良いのよ？”
+7474:Shink“いや、無理じゃないんだが......なんというか、真面目だなぁ......”
+7475:Shirene“......負けられないもの。無理のない範囲で、できる限り鍛錬はしておかないと、ヴェーラには追いつけないわ”
 7476:Shink“はは、了解”
 7477:シレーネの真剣な呟きに、俺は笑みを浮かべながら了承の意を示す。
 7478:ここまで真剣なら、手伝ってやりたくなるってもんだ。
 7479:Shink“それで、何をすれば良いんだ？”
-7480:Shirene“そうね……それじゃあ、わたしが攻撃をするから、シンクは避けてくれないかしら？”
-7481:Shink“え……それは無理だろ……”
+7480:Shirene“そうね......それじゃあ、わたしが攻撃をするから、シンクは避けてくれないかしら？”
+7481:Shink“え......それは無理だろ......”
 7482:どう考えても荷が重い。
 7483:Shirene“別に本気で攻撃するわけじゃないのよ。型の確認をしたいだけ”
 7484:Shirene“フェイントを入れた攻撃ってまだ苦手なのよ。それを確かめるためにも、お願いできないかしら？”
-7485:Shink“ふむ、なるほど……”
+7485:Shink“ふむ、なるほど......”
 7486:そういうことなら大丈夫だろうか？
 7487:型の確認なら、そこまでスピードが出るわけじゃないし、当たっても威力は無いだろう。
 7488:Shink“オッケー。でも、ちゃんと加減してくれよ？”
-7489:Shirene“分かってるわよ。それじゃ……いくわよ！”
-7490:Shink“……っと！”
+7489:Shirene“分かってるわよ。それじゃ......いくわよ！”
+7490:Shink“......っと！”
 7491:宣言と同時に繰り出された攻撃を危なげなく避ける。
 7492:うん、これくらいなら大丈夫だ。
 7493:Shirene“あら、ずいぶん簡単に避けるのね”
-7494:Shink“いや、これ以上早くされると厳しいかな……”
-7495:Shirene“そう。それじゃ……このくらいのスピードで……はぁっ！”
-7496:Shink“……っ！”
+7494:Shink“いや、これ以上早くされると厳しいかな......”
+7495:Shirene“そう。それじゃ......このくらいのスピードで......はぁっ！”
+7496:Shink“......っ！”
 7497:Shirene“はいっ、せやぁっ！”
 7498:次々と繰り出されるシレーネの攻撃を避け続ける。
 7499:フェイントを交えた攻撃は、ゆっくりだと言うのに避けにくく、すぐにいっぱいいっぱいになってしまう。
 7500:Shirene“ふふっ、やるわね！　それじゃ、これはどうかしら！！”
-7501:Shink“……ちょっ！？”
+7501:Shink“......ちょっ！？”
 7502:思った以上に俺が避けるのが嬉しいのか、シレーネの攻撃が鋭さを増す。
 7503:俺はそれをギリギリで躱すと、抗議するような視線をシレーネに向ける。
 7504:Shirene“あははっ！　本当にやるのね！　意外だわ！”
@@ -7813,229 +7813,229 @@ This seems a little extreme.
 7510:Shirene“ほらほら！　もっといくわよ！！”
 7511:Shink“だから止めろって！”
 7512:避けた棒が地面に当たり、鈍い音が辺りに響き渡る。
-7513:冗談じゃない……あんなの当たったら、怪我じゃすまないぞ！？
-7514:Shirene“……っ、せやぁぁぁぁっ！！”
+7513:冗談じゃない......あんなの当たったら、怪我じゃすまないぞ！？
+7514:Shirene“......っ、せやぁぁぁぁっ！！”
 7515:Shink“ちょっ！？　それ本気だろっ！？”
 7516:すっかり熱くなってしまったシレーネは、俺の声すら届いていないのか、ありえない速度で肉薄してくる。
 7517:俺はなぜかゆっくりと動く棒を見ながら、これは避けられないと感じる。
-7518:そのまま棒は俺の身体へと吸い込まれるように……
-7519:Shirene“あ……”
-7520:Shink“……ごふぅっ！？”
+7518:そのまま棒は俺の身体へと吸い込まれるように......
+7519:Shirene“あ......”
+7520:Shink“......ごふぅっ！？”
 7521:全身にやってくる痛みの前に聞いた声は、やってしまったといった感じの声。
-7522:Shink“調子に……乗りすぎだ……”
-7523:俺はそれだけを告げると……そのまま意識を失った……
-7524:Shink“……んっ、ここは……？”
+7522:Shink“調子に......乗りすぎだ......”
+7523:俺はそれだけを告げると......そのまま意識を失った......
+7524:Shink“......んっ、ここは......？”
 7525:意識を取り戻した俺は、船内に寝かされているのを感じ、瞳を開いて周囲を確認する。
-7526:Shink“えーと……確か、シレーネの攻撃をもろにくらって……”
-7527:Shirene“あ、目を覚ましたのね……良かったわ……”
-7528:Shink“シレーネ？　ああ、介抱してくれて……っ！？”
-7529:Shirene“ああ、まだ動かない方が良いわよ……その、結構派手に打ち付けてしまったから”
-7530:Shink“そ、そうみたいだな……”
+7526:Shink“えーと......確か、シレーネの攻撃をもろにくらって......”
+7527:Shirene“あ、目を覚ましたのね......良かったわ......”
+7528:Shink“シレーネ？　ああ、介抱してくれて......っ！？”
+7529:Shirene“ああ、まだ動かない方が良いわよ......その、結構派手に打ち付けてしまったから”
+7530:Shink“そ、そうみたいだな......”
 7531:申し訳なさそうな声を出すシレーネを見ながら、俺はそのままの体勢で動きを止める。
-7532:動けないってほどでは無いが、少し痛むな……
-7533:Shirene“ごめんなさい……あまりにも見事に避けるから、その……熱くなっちゃったわ……”
-7534:Shink“いや……まぁ……”
-7535:Shirene“はぁ……こうしてすぐ熱くなるから、未熟ってことなのよね……”
+7532:動けないってほどでは無いが、少し痛むな......
+7533:Shirene“ごめんなさい......あまりにも見事に避けるから、その......熱くなっちゃったわ......”
+7534:Shink“いや......まぁ......”
+7535:Shirene“はぁ......こうしてすぐ熱くなるから、未熟ってことなのよね......”
 7536:後悔しているのか、自分の未熟さに拳を握りしめて怒りを示している。
-7537:なんというか……本当に真面目だな……
+7537:なんというか......本当に真面目だな......
 7538:Shink“んー、なぁシレーネ。ちょっと良いか？”
-7539:Shirene“…………なにかしら？”
-7540:Shink“いや、ちょっと気になったんだが……どうしてそこまで頑張るんだ？”
-7541:Shirene“どうして……？”
+7539:Shirene“............なにかしら？”
+7540:Shink“いや、ちょっと気になったんだが......どうしてそこまで頑張るんだ？”
+7541:Shirene“どうして......？”
 7542:そんなシレーネの姿に疑問を覚えた俺は、思い切って尋ねてみる。
-7543:頑張るのは良いんだが……どうにも力が入り過ぎている感じがするんだよな。
-7544:Shink“真面目に頑張ってるってのは良く分かるんだが、そこまで必死になるんだ……何か理由があるんだろ？”
-7545:Shirene“理由……あるにはあるわ……そうね、貴方になら話しても良いかもしれないわね”
+7543:頑張るのは良いんだが......どうにも力が入り過ぎている感じがするんだよな。
+7544:Shink“真面目に頑張ってるってのは良く分かるんだが、そこまで必死になるんだ......何か理由があるんだろ？”
+7545:Shirene“理由......あるにはあるわ......そうね、貴方になら話しても良いかもしれないわね”
 7546:そうして息を吐くと、シレーネはどこか遠くを見るような目をする。
 7547:昔を思い返すようなその視線に、何も言えなくなり、シレーネが口を開くのをじっと待ち続ける。
-7548:Shirene“わたしは……負けられないの……誰にも、どんなことにも……最後には勝たないといけない……”
-7549:Shirene“それが約束なの……だからこそ、わたしは努力を惜しまないし、何でもするわ……”
-7550:Shink“約束……”
-7551:それがシレーネをここまで駆り立てる理由か……
-7552:でも、どこかそれに捕らわれすぎている……そんな感じも受ける。
-7553:Shirene“今はヴェーラに負けているけど……最終的には勝たないといけないの……それがわたしの全てだもの……”
-7554:Shirene“勝つことでしか……わたしは自分を認めさせられない……勝たないと……！”
+7548:Shirene“わたしは......負けられないの......誰にも、どんなことにも......最後には勝たないといけない......”
+7549:Shirene“それが約束なの......だからこそ、わたしは努力を惜しまないし、何でもするわ......”
+7550:Shink“約束......”
+7551:それがシレーネをここまで駆り立てる理由か......
+7552:でも、どこかそれに捕らわれすぎている......そんな感じも受ける。
+7553:Shirene“今はヴェーラに負けているけど......最終的には勝たないといけないの......それがわたしの全てだもの......”
+7554:Shirene“勝つことでしか......わたしは自分を認めさせられない......勝たないと......！”
 7555:Shink“ちょ、落ち着け！”
-7556:Shirene“…………っ！”
+7556:Shirene“............っ！”
 7557:だんだん熱くなってきたのか、語気が荒くなってくるシレーネを押しとどめる。
-7558:なんというかまずい展開だ。この辺はデリケートな部分かもしれない……
-7559:迂闊に触れたら、どうなるか分からないなぁ……
-7560:Shink“あー、まぁ……なんだ。シレーネが頑張ってる理由は良く分かった。そこまで熱くなる以上、大切なことなんだってこともな”
-7561:Shirene“……そうよ。とても大切なこと……”
+7558:なんというかまずい展開だ。この辺はデリケートな部分かもしれない......
+7559:迂闊に触れたら、どうなるか分からないなぁ......
+7560:Shink“あー、まぁ......なんだ。シレーネが頑張ってる理由は良く分かった。そこまで熱くなる以上、大切なことなんだってこともな”
+7561:Shirene“......そうよ。とても大切なこと......”
 7562:Shink“とはいえ、肩肘張りすぎ。もっと楽に構えろ楽に”
-7563:Shirene“楽にですって……？　そんなこと、できるはず……”
+7563:Shirene“楽にですって......？　そんなこと、できるはず......”
 7564:Shink“いやいや、ヴェーラを見てみろよ。あいつだって努力はしてるだろうけど、そんなこと微塵も感じさせないだろ？”
 7565:Shink“あんな感じで良いんだよ。手を抜くのはダメだろうけど、頑張りすぎても良い結果はついてこないぞ”
 7566:Shink“それにシレーネたちは、まだ若いんだ。これからもっと伸びるだろうし、変に焦ってもしょうがないだろ”
-7567:これはまぁ……経験談みたいなものだが……焦るあまり泥沼にはまってしまうってことは、往々にして起こりえることだ。
+7567:これはまぁ......経験談みたいなものだが......焦るあまり泥沼にはまってしまうってことは、往々にして起こりえることだ。
 7568:ヴェーラほど自然体でいろとは言わないが、ある程度は楽にしとかないと、潰れてしまう。
 7569:それは、シレーネにとっても、周りにとっても良くないことだろうからな。
-7570:Shirene“楽に……自然体で……”
-7571:Shink“そうそう。何事も自然体が一番ってな。ま、俺に言われてもあれだろうけど……一応先達からのアドバイスな”
-7572:Shirene“…………ふっ、ふふっ”
-7573:Shink“…………？”
+7570:Shirene“楽に......自然体で......”
+7571:Shink“そうそう。何事も自然体が一番ってな。ま、俺に言われてもあれだろうけど......一応先達からのアドバイスな”
+7572:Shirene“............ふっ、ふふっ”
+7573:Shink“............？”
 7574:少し恥ずかしかったので、誤魔化すようにおどけてみたが、それを見て、シレーネがふと笑みを零す。
-7575:Shirene“本当に……貴方って不思議ね。貴方の言葉を聞いていると、少しだけど……楽になれるわ”
+7575:Shirene“本当に......貴方って不思議ね。貴方の言葉を聞いていると、少しだけど......楽になれるわ”
 7576:Shirene“そうやってアドバイスをくれる姿を見てると、とても優秀な教師に見えてくるもの”
-7577:Shink“いや……優秀かどうかはさておき、俺は教師だからな？”
+7577:Shink“いや......優秀かどうかはさておき、俺は教師だからな？”
 7578:Shirene“ふふっ、そうだったわね”
 7579:軽やかに微笑むシレーネは、また一つ重荷を下ろしたような、そんな顔をしている。
 7580:その身体にいくつの重みを背負っているのかは分からないが、少しでも軽くできるのなら教師冥利につきるってもんだ。
 7581:微笑むシレーネを見ながら、俺はそんなことを思っていた。
-7582:Shink“ふんふふ～ん……”
+7582:Shink“ふんふふ～ん......”
 7583:シレーネと別れた俺は散歩がてら湖の周りを歩いていた。
-7584:どこかに行くとは言っていたが、どこに行ったんだろうなぁ……
+7584:どこかに行くとは言っていたが、どこに行ったんだろうなぁ......
 7585:Shink“ま、のんびりしてくれるなら、それで良いけどな”
 7586:俺も十分のんびりしているんだし、シレーネもゆっくりできたら幸いだ。
-7587:ここは良い景色だし、空気もうまい……良いことだらけだ。
-7588:Shirene“あら、シンクじゃない……シンクも水浴びにきたのかしら？”
-7589:Shink“いや、違うけど……って、なぜ裸！？”
-7590:Shirene“水浴びをしていたからだけど……？”
-7591:Shink“そ、そうか……！　それはすまん！！”
+7587:ここは良い景色だし、空気もうまい......良いことだらけだ。
+7588:Shirene“あら、シンクじゃない......シンクも水浴びにきたのかしら？”
+7589:Shink“いや、違うけど......って、なぜ裸！？”
+7590:Shirene“水浴びをしていたからだけど......？”
+7591:Shink“そ、そうか......！　それはすまん！！”
 7592:俺の脳裏に赴任当初の嫌な記憶がよみがえる。
-7593:このままじゃ、あのときの二の舞になるんじゃ……とすれば、謝って逃げ帰るしかない……！
-7594:Shink“じゃ、じゃあ俺はこれで……”
-7595:Shirene“待ちなさい……ちょうど良かったわ……”
-7596:Shink“ひぃっ……！？　って、ちょうど良かった……？”
-7597:Shirene“そうよ……ちょっと毛繕いを手伝って欲しいのよ……”
-7598:Shink“毛繕い……？”
+7593:このままじゃ、あのときの二の舞になるんじゃ......とすれば、謝って逃げ帰るしかない......！
+7594:Shink“じゃ、じゃあ俺はこれで......”
+7595:Shirene“待ちなさい......ちょうど良かったわ......”
+7596:Shink“ひぃっ......！？　って、ちょうど良かった......？”
+7597:Shirene“そうよ......ちょっと毛繕いを手伝って欲しいのよ......”
+7598:Shink“毛繕い......？”
 7599:俺はそう言われて、シレーネの背中部分を見る。
-7600:言われてみると、確かに乱れている気がする……あれは大変そうだ。
-7601:Shirene“一人じゃ大変なのよ……良いでしょう？”
-7602:Shink“ああ、そういうことなら……”
+7600:言われてみると、確かに乱れている気がする......あれは大変そうだ。
+7601:Shirene“一人じゃ大変なのよ......良いでしょう？”
+7602:Shink“ああ、そういうことなら......”
 7603:俺はそうやって頷くと、シレーネの側へと寄っていった。
-7604:Shirene“ほら、早くしてちょうだい……時間もかかるんだし……”
-7605:Shink“あ、ああ……”
+7604:Shirene“ほら、早くしてちょうだい......時間もかかるんだし......”
+7605:Shink“あ、ああ......”
 7606:俺は早くと急かしてくるシレーネに、背中を撫でるようにして、毛を整えていく。
-7607:これを毎日しているなんて……シレーネも大変なんだな……
-7608:Shirene“そう、そこを撫でるように……意外と上手じゃない”
-7609:Shink“そうか……？”
-7610:Shirene“ええ、そのまま続けてちょうだい……”
+7607:これを毎日しているなんて......シレーネも大変なんだな......
+7608:Shirene“そう、そこを撫でるように......意外と上手じゃない”
+7609:Shink“そうか......？”
+7610:Shirene“ええ、そのまま続けてちょうだい......”
 7611:俺は重ねられた手を動かしながら、できるだけ丁寧に毛を繕っていく。
 7612:柔らかな毛並みの感触と、シレーネに褒められたこともあってか、調子よく動かしていく。
-7613:Shirene“んっ……ちょっとくすぐったいわね……”
-7614:Shink“そうか……？　もう少し力を抜いた方が良いか？”
-7615:Shirene“いえ、そのままで良いわ……んっ、はぁ……続けてちょうだい……”
+7613:Shirene“んっ......ちょっとくすぐったいわね......”
+7614:Shink“そうか......？　もう少し力を抜いた方が良いか？”
+7615:Shirene“いえ、そのままで良いわ......んっ、はぁ......続けてちょうだい......”
 7616:やはり自分でやるのとは勝手が違うのか、シレーネはややくすぐったそうにしながら、俺に指示を出していく。
-7617:Shirene“っ……なんだか、はぁ……予想以上に変な感じね……んぁ、他の誰かにやってもらう場合は、そうでもないのに……”
-7618:Shink“ん？　どうかしたか……？”
-7619:Shirene“いえ、何でもないわ……ほら、手が止まってるわよ……”
-7620:Shink“ああ……”
+7617:Shirene“っ......なんだか、はぁ......予想以上に変な感じね......んぁ、他の誰かにやってもらう場合は、そうでもないのに......”
+7618:Shink“ん？　どうかしたか......？”
+7619:Shirene“いえ、何でもないわ......ほら、手が止まってるわよ......”
+7620:Shink“ああ......”
 7621:何か呟いたような気がしたが、急かされているし、気にしない方が良いのだろうか。
 7622:そう考えた俺は、集中してシレーネの背中を撫でていく。
 7623:優しく丁寧に、少しの乱れも許さないように、ゆっくりと。
-7624:Shirene“んっ、はぁ……そう、良いわよ……んっ、なんだか、気持ち良く……くふぅ、なってくるわ……”
+7624:Shirene“んっ、はぁ......そう、良いわよ......んっ、なんだか、気持ち良く......くふぅ、なってくるわ......”
 7625:Shink“そうか、そう言ってもらえると手伝ってる甲斐があるってもんだ”
-7626:Shirene“そういう意味じゃ……んっ、はぁ、無いんだけど……んぁ……”
-7627:Shink“……？”
-7628:Shirene“はぁ、んっ……気にしないで、っ……続けて……んぁ、そのままゆっくり、優しく……くふぅ”
-7629:Shink“あ、ああ……”
+7626:Shirene“そういう意味じゃ......んっ、はぁ、無いんだけど......んぁ......”
+7627:Shink“......？”
+7628:Shirene“はぁ、んっ......気にしないで、っ......続けて......んぁ、そのままゆっくり、優しく......くふぅ”
+7629:Shink“あ、ああ......”
 7630:なにやらシレーネの言葉に甘い響きが混じり始めるが、そんなに気持ち良いのだろうか。
 7631:俺は疑問に思いながらも、毛繕いを続けていく。
-7632:Shirene“んっ、はぁ……なんで、こんな気分に……くふぅ、我慢できない……んっ、尻尾で、んぁ……弄って……”
-7633:Shirene“んっ、シンクの手が、温かくて……んふぅ、はぁ、頭が……くふぅ、おかしくなりそうだわ……”
+7632:Shirene“んっ、はぁ......なんで、こんな気分に......くふぅ、我慢できない......んっ、尻尾で、んぁ......弄って......”
+7633:Shirene“んっ、シンクの手が、温かくて......んふぅ、はぁ、頭が......くふぅ、おかしくなりそうだわ......”
 7634:Shink“この辺もした方が良いよな？”
-7635:Shirene“……っ、え、ええ……そうね……お願いするわ……んんっ……”
+7635:Shirene“......っ、え、ええ......そうね......お願いするわ......んんっ......”
 7636:シレーネの身体を撫でる度に、ぴくりと身体を震わせる。
 7637:そのことに気づきながらも、たいしたことじゃないだろうと、俺は集中して身体を撫で続ける。
-7638:Shirene“んぁ、はぁ……くふぅ、ダメっ……んっ、足りない……んぁ、もっと……んっ、気持ち良く……”
-7639:Shirene“うぁ、んっ……ま●こだけじゃなくて、あふぅ、胸も……”
-7640:Shink“シレーネ……？”
+7638:Shirene“んぁ、はぁ......くふぅ、ダメっ......んっ、足りない......んぁ、もっと......んっ、気持ち良く......”
+7639:Shirene“うぁ、んっ......ま●こだけじゃなくて、あふぅ、胸も......”
+7640:Shink“シレーネ......？”
 7641:なんだか様子がおかしいと、シレーネへと視線を向けるが、それに気づかないのか、シレーネはゆっくりと手を動かすと、自らの胸を揉み始める。
-7642:Shink“……！？”
-7643:Shirene“んっ、はぁ……良い、くふぅ……ほら、手が止まってるわよ……んぁ、続けて……んんぅ……”
-7644:Shink“え、いや……”
+7642:Shink“......！？”
+7643:Shirene“んっ、はぁ......良い、くふぅ......ほら、手が止まってるわよ......んぁ、続けて......んんぅ......”
+7644:Shink“え、いや......”
 7645:急に胸を揉み始めたシレーネに、混乱しながら、俺はどうしたものかと様子を窺う。
 7646:良く見ると、尻尾も動かして、自らの秘部を弄っている。
-7647:もしかして、背中を撫でられて興奮してしまったのか……？
-7648:Shirene“ほら、早くして……んっ、優しく、んぁ……はぁ、撫で続けなさい……”
-7649:Shink“いや、しかしだな……もう、やめた方が……”
-7650:興奮でおかしくなっているだけだろうし、正気に戻ったらどうなるか……
-7651:Shirene“わたしが……んっ、良いって言ってるのよ……はぁ、だから、早く……んぁ……”
-7652:Shink“……っ、わ、分かった”
+7647:もしかして、背中を撫でられて興奮してしまったのか......？
+7648:Shirene“ほら、早くして......んっ、優しく、んぁ......はぁ、撫で続けなさい......”
+7649:Shink“いや、しかしだな......もう、やめた方が......”
+7650:興奮でおかしくなっているだけだろうし、正気に戻ったらどうなるか......
+7651:Shirene“わたしが......んっ、良いって言ってるのよ......はぁ、だから、早く......んぁ......”
+7652:Shink“......っ、わ、分かった”
 7653:懇願されるような視線を向けられ、俺は良いのかと思いつつも、そのまま背中を撫でていく。
 7654:俺の手が上下左右に動く度に、シレーネは甘い吐息を漏らしながら、身体をぴくぴくと痙攣させる。
-7655:Shirene“んふぅ、良いっ……んぁ、シンクに撫でられながら、あぅ……んっ、胸とま●こ弄って……くひぅ”
-7656:Shirene“おかしいのに、んぁ……はぁ、気持ち良すぎて、ひぅ……止められないっ……”
-7657:Shink“……っ”
+7655:Shirene“んふぅ、良いっ......んぁ、シンクに撫でられながら、あぅ......んっ、胸とま●こ弄って......くひぅ”
+7656:Shirene“おかしいのに、んぁ......はぁ、気持ち良すぎて、ひぅ......止められないっ......”
+7657:Shink“......っ”
 7658:シレーネの嬌声に耳を奪われながらも、俺は無心で背中を撫でてやる。
 7659:毛先を整えつつ、強弱をつけ、ときに擦るように激しく動かす。
-7660:Shirene“んひぁっ、んぁ……そのままっ、くふぅ、刺激が……んぁ、伝わって……ひぅっ……！”
-7661:Shirene“あ、なにか、ひぁっ、くるっ……んくぅぅっ……！！”
+7660:Shirene“んひぁっ、んぁ......そのままっ、くふぅ、刺激が......んぁ、伝わって......ひぅっ......！”
+7661:Shirene“あ、なにか、ひぁっ、くるっ......んくぅぅっ......！！”
 7662:軽く絶頂したのか、シレーネの身体が一度大きく跳ね上がる。
 7663:秘部へと視線を向けると、愛液が滴り尻尾の毛先が濡れているのが見える。
-7664:Shirene“んふぅっ、ひぁ……はぁ、はぁ……んっ、こんなんじゃ全然足りない……くふぅ、もっと気持ち良く……んぁ……”
-7665:Shink“お、おい……シレーネ……？”
-7666:Shirene“んぁ、大丈夫よ……んっ、それより……はぁ、続きをお願いするわ……んっ、くふぅ……”
-7667:Shink“いや、続きって……”
-7668:Shirene“良いから……っ、んぁ、次はこっちをお願い……”
-7669:Shink“え、な、何を……！”
+7664:Shirene“んふぅっ、ひぁ......はぁ、はぁ......んっ、こんなんじゃ全然足りない......くふぅ、もっと気持ち良く......んぁ......”
+7665:Shink“お、おい......シレーネ......？”
+7666:Shirene“んぁ、大丈夫よ......んっ、それより......はぁ、続きをお願いするわ......んっ、くふぅ......”
+7667:Shink“いや、続きって......”
+7668:Shirene“良いから......っ、んぁ、次はこっちをお願い......”
+7669:Shink“え、な、何を......！”
 7670:呆然と状況を見守る俺の手に尻尾が絡まりついてくる。
 7671:尻尾を使っているとは思えない力に引っ張られ、俺の手がシレーネの秘部へと導かれていく。
-7672:Shink“……っ！”
-7673:Shirene“んぁっ、そうっ……んふぅ、そこも撫でてっ……くふぅ、さっきみたいに、はぁ……優しくっ……”
+7672:Shink“......っ！”
+7673:Shirene“んぁっ、そうっ......んふぅ、そこも撫でてっ......くふぅ、さっきみたいに、はぁ......優しくっ......”
 7674:触れた秘部は、ひっそりと濡れており、指が触れるたびに、ピチャピチャと水音が聞こえてくる。
 7675:その音と指に伝わる秘部の熱さに、俺は本来の目的も忘れ、ただ無心で弄り始めてしまう。
-7676:Shirene“んっ、んぁっ……良いわっ、くふぅ……シンクの指が、んぁ、ま●こ弄って……ひぁっ……”
-7677:Shirene“ぴちゃぴちゃ、音が響いて……っ、気持ち良い……っ、くふぅ……”
-7678:Shink“くっ……”
+7676:Shirene“んっ、んぁっ......良いわっ、くふぅ......シンクの指が、んぁ、ま●こ弄って......ひぁっ......”
+7677:Shirene“ぴちゃぴちゃ、音が響いて......っ、気持ち良い......っ、くふぅ......”
+7678:Shink“くっ......”
 7679:俺はシレーネの嬌声を聞きながら、秘部を指で撫でていく。
 7680:秘肉を割り開き、指の腹で撫でるようにして刺激を与え、溢れ出る愛液を塗りたくっていく。
-7681:Shirene“んぁ、はぁっ……んふぅ、触られてるのに……んぁ、嫌じゃない……くふぅ、頭がぼーっとしてくるわ……”
-7682:Shirene“んぁ、もっと……はぁ、もっと激しくして……んんぅ、わたしを感じさせて……ひぁぅ……”
-7683:Shink“あ、ああ……”
+7681:Shirene“んぁ、はぁっ......んふぅ、触られてるのに......んぁ、嫌じゃない......くふぅ、頭がぼーっとしてくるわ......”
+7682:Shirene“んぁ、もっと......はぁ、もっと激しくして......んんぅ、わたしを感じさせて......ひぁぅ......”
+7683:Shink“あ、ああ......”
 7684:俺はシレーネに言われた通り、背中を撫でながら、秘部を刺激していく。
 7685:愛液を絡め取りながら、熱く滾っている秘部へと擦りつける。
 7686:手探りで硬くなっている場所を発見し、そこを重点的に責めると、シレーネが身体を大きく震わせ始める。
-7687:Shirene“ひぁっ、そこっ……くふぅっ、ダメっ……そこはっ……んぁっ、頭痺れるっ……！”
-7688:Shirene“んふぅ、真っ白になって……ひぁっ、何も考えられなく……くふぅ、なるっ……！”
+7687:Shirene“ひぁっ、そこっ......くふぅっ、ダメっ......そこはっ......んぁっ、頭痺れるっ......！”
+7688:Shirene“んふぅ、真っ白になって......ひぁっ、何も考えられなく......くふぅ、なるっ......！”
 7689:淫核を刺激されたことで、感情のタガが外れたのか、シレーネは、激しく身体を揺らしながら、大きく喘ぎ出す。
 7690:自らの手で乳首を摘みながら、尻尾を俺の手に巻き付け、さらに秘部を弄るように押しつけてくる。
 7691:俺はそれに応えるように、淫核を摘みながら、シレーネの身体の動きに合わせて捻りあげていく。
-7692:Shirene“んひぅっ、ひぁっ！　そんなに、くふぅ、捻られたらっ……！　おかしくなるっ……！”
-7693:Shirene“ひぁっ、身体中が痺れてっ……んぁ、どうにかなっちゃいそうだわっ……くひぁっ！！”
-7694:Shink“くっ、どんどん溢れて……指がふやけそうだ……”
-7695:Shirene“んひぁっ、そんなこと言わないでちょうだい……っ、くひぅ、んぁっ、しかたないでしょ……んぁ、気持ち良いんだもの……！”
-7696:Shirene“んぁっ、乳首っ……も、くふぅ……はぁ、クリトリスもっ……ひぁっ、弄って……んぁっ、飛んじゃうっ……！”
+7692:Shirene“んひぅっ、ひぁっ！　そんなに、くふぅ、捻られたらっ......！　おかしくなるっ......！”
+7693:Shirene“ひぁっ、身体中が痺れてっ......んぁ、どうにかなっちゃいそうだわっ......くひぁっ！！”
+7694:Shink“くっ、どんどん溢れて......指がふやけそうだ......”
+7695:Shirene“んひぁっ、そんなこと言わないでちょうだい......っ、くひぅ、んぁっ、しかたないでしょ......んぁ、気持ち良いんだもの......！”
+7696:Shirene“んぁっ、乳首っ......も、くふぅ......はぁ、クリトリスもっ......ひぁっ、弄って......んぁっ、飛んじゃうっ......！”
 7697:もう限界が近いのか、シレーネは形振り構わず乱れ、激しい喘ぎ声を巻き散らす。
 7698:俺はそれを聞きながら、最後にしようと、淫核が潰れるんじゃないかというくらいの力で、ぎゅっと握ってやる。
-7699:Shirene“ひぁぁっ！　ダメよそれ……くひぁっ、飛ぶっ……んぁっ、イッちゃうっ……もう我慢できないっ……！”
-7700:Shirene“くひぁっ、イクのっ……んくぅぅぅっ！！”
-7701:Shirene“んひぁっ、ひぅぅっ……イッてるっ……くひぁっ、何も考えられないっ……んぁ、ひぁっ……！”
-7702:Shink“くっ、凄いっ……”
+7699:Shirene“ひぁぁっ！　ダメよそれ......くひぁっ、飛ぶっ......んぁっ、イッちゃうっ......もう我慢できないっ......！”
+7700:Shirene“くひぁっ、イクのっ......んくぅぅぅっ！！”
+7701:Shirene“んひぁっ、ひぅぅっ......イッてるっ......くひぁっ、何も考えられないっ......んぁ、ひぁっ......！”
+7702:Shink“くっ、凄いっ......”
 7703:身体を大きく伸ばしながら、シレーネは絶頂へと至る。
 7704:しかし、その最中でも尻尾は俺の手を離さず、さらに秘部へと擦りつけてくる。
 7705:それを受けながら、俺は飛び出す愛液を手で受け止め、それを全て淫核へと塗り込んでいく。
-7706:Shirene“んひぁっ！　まだっ、イッてるのにっ……くひぁっ、弄る手が止まらないわっ……くひぁっ！”
-7707:Shirene“もっとっ……くひぅ、もっと激しくっ……くひぁっ、壊れるくらいにっ……！”
+7706:Shirene“んひぁっ！　まだっ、イッてるのにっ......くひぁっ、弄る手が止まらないわっ......くひぁっ！”
+7707:Shirene“もっとっ......くひぅ、もっと激しくっ......くひぁっ、壊れるくらいにっ......！”
 7708:シレーネは普段からは考えられないくらい乱れ、さらに快感を得ようと激しく身体を揺する。
 7709:俺はそれに応えるように、未だ震える秘部を開くと、入り口に軽く指を突き入れる。
-7710:Shirene“ひくぅっ！？　なにっ、そんなこと……くひぁっ、されたらっ……んぁっ、またっ……！”
-7711:Shirene“あひぁっ、ダメっ……イッてるのにっ、くひぁっ……途中なのに、またっ……イクっ……！”
-7712:Shirene“シンクに、ひぁっ、ま●こ弄られてっ……あひぁっ、イッちゃうっ……んぁぁぁっ！！”
+7710:Shirene“ひくぅっ！？　なにっ、そんなこと......くひぁっ、されたらっ......んぁっ、またっ......！”
+7711:Shirene“あひぁっ、ダメっ......イッてるのにっ、くひぁっ......途中なのに、またっ......イクっ......！”
+7712:Shirene“シンクに、ひぁっ、ま●こ弄られてっ......あひぁっ、イッちゃうっ......んぁぁぁっ！！”
 7713:連続で絶頂を重ね、シレーネは目を見開き、涎を垂らしながら、身体全体を震わせている。
 7714:あまりに激しい絶頂だったからか、秘部から愛液が噴出し、俺の手や腕までをびしょびしょにしてくる。
-7715:Shirene“んひぁっ、あくぅっ……飛んでるっ、目の前真っ白で……ひぁっ、くふぅ……”
-7716:Shirene“止まらないっ……んっ、身体の震えが……ひぅ、くふぅ……！”
+7715:Shirene“んひぁっ、あくぅっ......飛んでるっ、目の前真っ白で......ひぁっ、くふぅ......”
+7716:Shirene“止まらないっ......んっ、身体の震えが......ひぅ、くふぅ......！”
 7717:シレーネは途切れることの無い絶頂に、身を震わせながら、がくがくと震える膝で必死に立っている。
 7718:俺はそれを支えながら、シレーネの絶頂が収まるのを待つ。
-7719:Shirene“はぁ、はぁ……くふぅ、んぁ……ひぁ……”
+7719:Shirene“はぁ、はぁ......くふぅ、んぁ......ひぁ......”
 7720:ようやく絶頂が収まったシレーネは、うつろな瞳で空を眺めながら、肩で息をしている。
-7721:これは、しばらくは復活しそうにないな……
+7721:これは、しばらくは復活しそうにないな......
 7722:そう感じた俺は、解放された手を見ながら、シレーネの側でしばらく立ち尽くすのだった。
-7723:Shirene“忘れなさい……良いわね……？”
-7724:Shink“あ、ああ……まぁ……”
+7723:Shirene“忘れなさい......良いわね......？”
+7724:Shink“あ、ああ......まぁ......”
 7725:あれから復活したシレーネは、すぐさま顔を真っ赤にして、俺に詰め寄ってくる。
-7726:Shirene“ああもう、なんであんなことをしたのかしら……とんだ恥をさらしたわ……”
-7727:Shink“えーと……”
+7726:Shirene“ああもう、なんであんなことをしたのかしら......とんだ恥をさらしたわ......”
+7727:Shink“えーと......”
 7728:俺は何を言っていいのか分からず、その場に立ち尽くしたままになっている。
-7729:Shirene“とにかく、忘れなさい……それで良いわよ……”
-7730:Shink“分かった……”
-7731:Shirene“それじゃ、わたしは行くわ……はぁ……”
+7729:Shirene“とにかく、忘れなさい......それで良いわよ......”
+7730:Shink“分かった......”
+7731:Shirene“それじゃ、わたしは行くわ......はぁ......”
 7732:シレーネは疲れたようにため息を零しながら、ふらふらと立ち去っていく。
 7733:俺はそれを見送りながら、とりあえず今のことは忘れようと心に誓うのだった。
-7734:Shink“うん……やっぱり心配だ……”
-7735:快く送り出したは良いが、あのビビだからな……心配するなって方が無理だろう。
+7734:Shink“うん......やっぱり心配だ......”
+7735:快く送り出したは良いが、あのビビだからな......心配するなって方が無理だろう。
 7736:ここは様子を見に行った方が良いよな。
 7737:Shink“えーと、あっちの方に行ったよな”
 7738:俺は視線を森の方へと向けると、そちらへ向かい足を進める。
@@ -8043,16 +8043,16 @@ This seems a little extreme.
 7740:Shink“んー？　どこ行ったんだ？”
 7741:森の中へと足を踏み入れた俺は、ビビの姿を探してきょろきょろと辺りを見回す。
 7742:しかし、どこにもビビの姿は見えず、首を傾げる。
-7743:Shink“そんなに遠くまで行ってないと思うんだけどな……”
+7743:Shink“そんなに遠くまで行ってないと思うんだけどな......”
 7744:Bibi“おや、先生じゃないか。どうしたんだ？”
-7745:Shink“ん……？　ビビか？　どこにいるんだ……？”
+7745:Shink“ん......？　ビビか？　どこにいるんだ......？”
 7746:Bibi“こっちだこっち。一人できょろきょろと、完全に不審者だぞ”
-7747:Shink“こっちって……上か？”
+7747:Shink“こっちって......上か？”
 7748:声の聞こえてくる方へと視線を向けると、木の枝に身を寄せ寝転がっているビビを発見する。
 7749:だらけるように弛緩している姿は、いつもと違い、どこかのびのびとしているようにも見える。
 7750:Bibi“よっと。で、どうしたんだ？　あたしを捜していたみたいだが”
 7751:Shink“ん、ああ、ちょっと心配になってな”
-7752:Bibi“心配……？　心外だな、心配されるほど、子どもじゃないぞ”
+7752:Bibi“心配......？　心外だな、心配されるほど、子どもじゃないぞ”
 7753:Shink“いや、そうだろうけどな”
 7754:確かに子どもでは無いだろうが、それはそれとして心配になるのは、心配になる。
 7755:Bibi“まぁ良い。今は良い気分だからな。そこまで追求はしないさ”
@@ -8066,42 +8066,42 @@ This seems a little extreme.
 7763:Shink“学園でも、それくらいのんびりしてたら良いのに”
 7764:Bibi“色々あるのさ。こういった弱みを見せるわけにはいかないんだ”
 7765:Bibi“学園内とはいえ、どこに誰がいるか分からん。隙を見せたら、一瞬で取り込まれてしまうからな”
-7766:Shink“いやいや……そんなどこぞのスパイとかじゃあるまいし……”
+7766:Shink“いやいや......そんなどこぞのスパイとかじゃあるまいし......”
 7767:Bibi“先生はそうだろうさ。だが、あたしともなると、立場的にも問題があるんだ。忌々しいことだがな”
 7768:Shink“......”
 7769:吐き捨てるように告げるビビに、俺は何も言えなくなる。
-7770:次期女王候補ともなると、学園内でも気を抜けないのか……
+7770:次期女王候補ともなると、学園内でも気を抜けないのか......
 7771:Bibi“ま、先生が気にすることじゃないさ”
-7772:Shink“あー、それはそうなんだけどなぁ……”
+7772:Shink“あー、それはそうなんだけどなぁ......”
 7773:確かに俺が気にすることじゃないとは言え、こう言われたら気にしないわけにもいかない。
 7774:とはいえ、俺にできることなんて、たかが知れているしな。
 7775:Shink“まぁ、どうしようも無くなったら、言ってくれ。相談くらいはのるからさ”
-7776:Bibi“…………ふっ、先生は優しいな”
-7777:Bibi“そう、だな……まぁ、相談するかどうかは分からんが、その時がきたらよろしく頼む”
+7776:Bibi“............ふっ、先生は優しいな”
+7777:Bibi“そう、だな......まぁ、相談するかどうかは分からんが、その時がきたらよろしく頼む”
 7778:Shink“おう”
 7779:俺の言葉に苦笑しながら、ビビは遠くを見るように目を細める。
 7780:どことなく微妙な空気になったことを感じ、俺はそれを変えるように、適当に話しかけていく。
 7781:Shink“そういやビビに姉妹とかはいるのか？”
 7782:Bibi“ん？　ああ、いるにはいるぞ。どれくらいいるかは把握してないがな”
-7783:Shink“把握してないって……そんなにいるのか？”
-7784:Bibi“二十くらいまでは覚えていたんだが……どうにも面倒になってな、それ以降は気にしてない”
+7783:Shink“把握してないって......そんなにいるのか？”
+7784:Bibi“二十くらいまでは覚えていたんだが......どうにも面倒になってな、それ以降は気にしてない”
 7785:Shink“二十！？”
-7786:なんだそりゃ！　どこの大家族だよ……
-7787:Bibi“取り巻き連中の何人かも姉妹だったような気がするが……はて、どうだったかな”
-7788:Shink“うへぇ……そんなにたくさんいるのか……”
+7786:なんだそりゃ！　どこの大家族だよ......
+7787:Bibi“取り巻き連中の何人かも姉妹だったような気がするが......はて、どうだったかな”
+7788:Shink“うへぇ......そんなにたくさんいるのか......”
 7789:Bibi“種族的に子どもは多い方が良いんだ。優秀な血を残すためには、な”
 7790:Bibi“あたしは、そこまで興味は無いが、女王ともなると、相当な権力を握ることになるしな”
-7791:Shink“はぁ～……魔物の生態ってのも、色々あるんだな……”
+7791:Shink“はぁ～......魔物の生態ってのも、色々あるんだな......”
 7792:Bibi“古くさいだけさ。時代の流れについて行けない。教育も、そこら辺を重視しているみたいだしな”
 7793:Bibi“だからこそ、先生の授業は、興味深いし面白いわけだ”
-7794:Shink“そう思うなら、授業中に寝ないで欲しいんだけどな……”
-7795:褒めて貰えるのは嬉しいが、その言葉に行動が伴ってないわけで……
+7794:Shink“そう思うなら、授業中に寝ないで欲しいんだけどな......”
+7795:褒めて貰えるのは嬉しいが、その言葉に行動が伴ってないわけで......
 7796:Bibi“それはそれ、これはこれさ。下手に真面目ぶると、このまま卒業してしまうだろう？”
 7797:Shink“いや、卒業はしろよ”
 7798:Bibi“さてどうしようかな。これで卒業したら、今までサボっていたのが無意味になってしまう”
-7799:Shink“…………はぁ”
-7800:ビビにも理由があるんだろうけど……いつまでも引き延ばすわけにはいかないだろう。
-7801:とはいえ、俺がその問題に踏み込むわけにもいかないしなぁ……本当に難しいもんだ。
+7799:Shink“............はぁ”
+7800:ビビにも理由があるんだろうけど......いつまでも引き延ばすわけにはいかないだろう。
+7801:とはいえ、俺がその問題に踏み込むわけにもいかないしなぁ......本当に難しいもんだ。
 7802:Shink“まぁ、休暇中に話す内容でもないか”
 7803:Bibi“確かにな。今はのんびりさせてもらうさ。今後どうなるかは分からんがな”
 7804:Shink“へいへい”
@@ -8110,18 +8110,18 @@ This seems a little extreme.
 7807:Bibi“ふふっ、先生は相手の気を窺うのが上手いな”
 7808:Shink“んん？　そうか？”
 7809:Bibi“ああ。それが成功しているかはさておき、素晴らしいと思うぞ”
-7810:Shink“成功しているかはさておきって……また辛辣だなぁ”
+7810:Shink“成功しているかはさておきって......また辛辣だなぁ”
 7811:Bibi“はは、そう言うな。これでも褒めているつもりなんだぞ？”
 7812:Shink“それは分かる”
 7813:言葉からは分かりにくいが、自分を褒めてくれていることは、雰囲気で分かる。
-7814:仮にも教師だからな。空気を読むくらいは、できないと……人間と魔物では、言葉の意味合いも少々変わってくるしな。
+7814:仮にも教師だからな。空気を読むくらいは、できないと......人間と魔物では、言葉の意味合いも少々変わってくるしな。
 7815:Shink“ま、褒めてくれてサンキューとは言っておく”
 7816:Bibi“軽いな。ま、それくらいの方が、あたしとしても付き合いやすいが”
 7817:Bibi“っと、そうだ。こうして二人きりになれたんだ。良いところに行かないか？”
-7818:Shink“また唐突だなぁ……”
+7818:Shink“また唐突だなぁ......”
 7819:話題を変えるかのように提案してきたビビに、俺は小さく笑ってしまう。
 7820:Bibi“今思いついたんだから仕方ないだろう。それで、どうするんだ？”
-7821:Shink“うーん……”
+7821:Shink“うーん......”
 7822:付き合うのは吝かではない。ビビの言う良いところにも、興味はある。
 7823:Shink“どんな場所なんだ？　俺でも行ける場所か？”
 7824:さすがに空の上とか言われたら困る。
@@ -8132,259 +8132,259 @@ This seems a little extreme.
 7829:どこか演技じみたポーズを取るビビに、俺も同じように返す。
 7830:それに満足したのか、笑みを浮かべながら移動を開始するビビに、黙って着いていく。
 7831:なんだか本当に、解放されている感じだ。普段から、こういう風にできれば良いんだろうけどなぁ。
-7832:Shink“へぇ……これはこれは”
+7832:Shink“へぇ......これはこれは”
 7833:ビビに案内されてやってきたのは、美しく広がる湖だった。
 7834:水も透き通っていて、景色も良い。言うこと無しの光景だな。
 7835:Bibi“ふふ、良い景色だろう？”
-7836:Shink“ああ、これは良い……って、何をしてる！？”
-7837:Bibi“ん……？　何か変なところでもあるか？”
+7836:Shink“ああ、これは良い......って、何をしてる！？”
+7837:Bibi“ん......？　何か変なところでもあるか？”
 7838:Shink“いや、なんで裸なんだよ！？　というか、いつ脱いだ！？”
 7839:景色に見入っている俺に声をかけてきたビビは、本当にいつ脱いだのか、素っ裸になっていた。
-7840:いきなり脱ぐなんて、何を考えているんだ……！？
+7840:いきなり脱ぐなんて、何を考えているんだ......！？
 7841:Bibi“いや、せっかくこんな湖があるんだ。水浴びでもと思ってな”
 7842:Shink“気持ちは分かるが、なんで俺がいるところで脱ぐ！”
 7843:Bibi“何を気にしているんだか。脱がなければ水浴びもできないだろう”
 7844:Shink“いやいや！　疑問はそこじゃねぇっ！！”
 7845:Bibi“やかましいな。先生も構わず脱げば良いだろう？”
-7846:Shink“話が通じてねぇ！　俺は男、ビビは女！　少しは恥じらいというものをだな……！”
-7847:Bibi“恥じらい……？　すまん、先生が何を言っているのか分からん”
+7846:Shink“話が通じてねぇ！　俺は男、ビビは女！　少しは恥じらいというものをだな......！”
+7847:Bibi“恥じらい......？　すまん、先生が何を言っているのか分からん”
 7848:Shink“いやいや、分かってるだろ！！”
 7849:心底分からないといった声を出しているが、あれは絶対分かってやっている。
 7850:その証拠に、ビビの顔にはニヤニヤとしたいやらしい笑みが浮かんでいる。
 7851:Bibi“くくっ、そんなことを言いながら、あたしの裸から視線を逸らしていないじゃないか”
-7852:Shink“うっ、それは……！”
-7853:Bibi“まぁ、先生は男だからな。女の裸から目を離せないだろう。くくっ、ほれほれ……”
-7854:Shink“ちょっ、やめっ……なんで近づいてくる！”
+7852:Shink“うっ、それは......！”
+7853:Bibi“まぁ、先生は男だからな。女の裸から目を離せないだろう。くくっ、ほれほれ......”
+7854:Shink“ちょっ、やめっ......なんで近づいてくる！”
 7855:ビビは裸体を見せつけるように、笑いながらにじり寄ってくる。
 7856:俺はそれから逃げるように距離を取っていくが、すぐに湖まで追い詰められる。
 7857:Shink“そ、それ以上近づくな！　落ちるから！”
 7858:Bibi“何を言っているんだ。逃げなければ良いだけの話だろう？”
-7859:Bibi“それに……せっかく二人きりなんだ……先生も期待しているだろう？”
+7859:Bibi“それに......せっかく二人きりなんだ......先生も期待しているだろう？”
 7860:Shink“何をだ！！”
 7861:Bibi“ふっ、分かっていて聞くのはマナー違反だぞ。ほら、気にせず楽しもうじゃないか”
-7862:Shink“……っ、ま、待てっ……なんでこんなことを……！”
+7862:Shink“......っ、ま、待てっ......なんでこんなことを......！”
 7863:もはや逃げることもできず、ビビに腕を掴まれ引き寄せられてしまう。
 7864:柔らかな肢体が押しつけられ、バクバクと心臓が跳ね上がる。
-7865:Shink“ちょっ、やめろっ……！　いくら何でも無理矢理すぎる！”
+7865:Shink“ちょっ、やめろっ......！　いくら何でも無理矢理すぎる！”
 7866:Bibi“無理だな。それに、この世は弱肉強食なんだ。弱い先生は、強いあたしに食われるのさ”
 7867:Shink“何言ってんの！？”
-7868:意味が違う……いや、あってるのか？　混乱してわけが分からん！！
-7869:Bibi“くくっ、細かいことは気にするな。あたしは楽しんで、先生も満足する……良いこと尽くめじゃないか”
-7870:Shink“満足って……”
+7868:意味が違う......いや、あってるのか？　混乱してわけが分からん！！
+7869:Bibi“くくっ、細かいことは気にするな。あたしは楽しんで、先生も満足する......良いこと尽くめじゃないか”
+7870:Shink“満足って......”
 7871:Bibi“否定はしないだろう？　そういうことだ”
-7872:Bibi“それじゃ、くくっ……一緒に楽しもう、な……先生？”
-7873:Shink“……っ！”
+7872:Bibi“それじゃ、くくっ......一緒に楽しもう、な......先生？”
+7873:Shink“......っ！”
 7874:妖艶な笑みで見つめられ、俺の身体が金縛りにあったように動かなくなる。
 7875:その隙をついて、ビビは一気に身体を引き寄せると、俺をその場に押し倒していった。
-7876:Shink“……っ、ビビ、くっ……離せっ……！”
-7877:Bibi“なぜだ……？　離す必要なんてないだろう……すぐに射精するんだからな……”
-7878:Shink“くっ、何を言って……”
-7879:Bibi“当然のことだ……あたしが本気で、先生をイかせてやると……そう言っているんだからな……”
-7880:Shink“……っ……！？”
+7876:Shink“......っ、ビビ、くっ......離せっ......！”
+7877:Bibi“なぜだ......？　離す必要なんてないだろう......すぐに射精するんだからな......”
+7878:Shink“くっ、何を言って......”
+7879:Bibi“当然のことだ......あたしが本気で、先生をイかせてやると......そう言っているんだからな......”
+7880:Shink“......っ......！？”
 7881:ビビの言葉を聞き、驚きの声を上げると同時に、ぴったりと背中に胸が押し当てられる。
 7882:柔らかな弾力が背中に伝わり、それを押しつけながら乳首をこりこりと擦りつけてくる。
-7883:Shink“くっ、何を……”
-7884:Bibi“ふふっ、最初のサービスだ……んっ、さぁ、しっかり堪能するんだぞ……んっ、はぁ、すぐそんなこと考えられなくなるんだからな……”
-7885:Bibi“んっ、はぁ……こうして、んっ、おっぱいを当てられると……くぅ、気持ち良いだろう……？”
-7886:Bibi“ほら、乳首もくりくり弄って……んっ、はぁ、たまもち●ぽも……んっ、全部あたしの手の中だ……”
-7887:Shink“あぐっ、くぁっ……！”
-7888:ビビは背中に胸を押し当てながら、乳首を弄り……睾丸や亀頭にも手を合わせる。
+7883:Shink“くっ、何を......”
+7884:Bibi“ふふっ、最初のサービスだ......んっ、さぁ、しっかり堪能するんだぞ......んっ、はぁ、すぐそんなこと考えられなくなるんだからな......”
+7885:Bibi“んっ、はぁ......こうして、んっ、おっぱいを当てられると......くぅ、気持ち良いだろう......？”
+7886:Bibi“ほら、乳首もくりくり弄って......んっ、はぁ、たまもち●ぽも......んっ、全部あたしの手の中だ......”
+7887:Shink“あぐっ、くぁっ......！”
+7888:ビビは背中に胸を押し当てながら、乳首を弄り......睾丸や亀頭にも手を合わせる。
 7889:この前とは違い、最初から刺激を与えようとしており、激しく睾丸を揉み込んでくる。
-7890:Shink“あぐっ、くぁっ……はぁっ……！”
-7891:Bibi“ははっ、良い感触だろう……！　ほら、それだけじゃないぞ……んっ、これも……はぁ、おまけだ……！”
-7892:Shink“あぐぅっ……！”
+7890:Shink“あぐっ、くぁっ......はぁっ......！”
+7891:Bibi“ははっ、良い感触だろう......！　ほら、それだけじゃないぞ......んっ、これも......はぁ、おまけだ......！”
+7892:Shink“あぐぅっ......！”
 7893:ビビはにやにやと笑みを浮かべながら、肉棒を両足で挟み込み、交互に上下へと擦りあげていく。
 7894:睾丸を潰れるほど揉まれ、精液を送り出され、足で流れるように、両サイドから刺激を与え、先端まで快感が上がったところで、尿道を刺激する。
 7895:その巧みな刺激にさらされ、俺の肉棒は瞬く間に限界近くにまで膨れあがる。
-7896:Bibi“はぁ、んくぅ……ほら、こうして、んぁ……両足で挟まれる感触はどうだ？”
-7897:Shink“あぐっ、くぅっ……それは……”
-7898:Bibi“くくっ、言葉も無いか……まぁ、言葉などいらないな……はぁ、ほらほら……どんどんち●ぽが高まっているぞ……！”
+7896:Bibi“はぁ、んくぅ......ほら、こうして、んぁ......両足で挟まれる感触はどうだ？”
+7897:Shink“あぐっ、くぅっ......それは......”
+7898:Bibi“くくっ、言葉も無いか......まぁ、言葉などいらないな......はぁ、ほらほら......どんどんち●ぽが高まっているぞ......！”
 7899:ビビの言うとおり、肉棒は先ほどからびくびくと痙攣をし続けており、どうしようもないほどの快楽が伝わってくる。
 7900:腰ががくがくと震え、肉棒はぱんぱんに膨れてきている。
-7901:Bibi“ほら、そのままだ……そのまま、一気に射精してしまえ……んっ、あたしの前で、みっともなく射精しろ……！”
-7902:Bibi“足で挟まれてただけで、精根尽き果てるみたいに、情けない姿を見せろ……！”
-7903:Shink“あぐっ、くぁっ……！”
+7901:Bibi“ほら、そのままだ......そのまま、一気に射精してしまえ......んっ、あたしの前で、みっともなく射精しろ......！”
+7902:Bibi“足で挟まれてただけで、精根尽き果てるみたいに、情けない姿を見せろ......！”
+7903:Shink“あぐっ、くぁっ......！”
 7904:竿がぐりぐりと踏みつぶされているかのように、形を変え、睾丸がビビの手によって、全力で潰されている。
 7905:痛みを感じながらも、それらを全て他の動きで快楽に変更され、頭の中が快楽でうまってしまう。
-7906:Shink“くぅっ、うぁっ……はぁっ、ぐっ、こんなこと……あぐっ、くふぅ……！”
-7907:Bibi“んふぅ、んんっ……はぁ、ち●ぽがびくびく跳ねて……くふぅ、もうイキそうなんだろう……？”
-7908:Bibi“遠慮せず、出すが良い……くぅ、ははっ……ほら、雄の匂いがしてきているだろう……？”
-7909:Bibi“このまま、早く……んっ、あたしの手や足に、びくびく震えながら、精液を出すんだ……！”
+7906:Shink“くぅっ、うぁっ......はぁっ、ぐっ、こんなこと......あぐっ、くふぅ......！”
+7907:Bibi“んふぅ、んんっ......はぁ、ち●ぽがびくびく跳ねて......くふぅ、もうイキそうなんだろう......？”
+7908:Bibi“遠慮せず、出すが良い......くぅ、ははっ......ほら、雄の匂いがしてきているだろう......？”
+7909:Bibi“このまま、早く......んっ、あたしの手や足に、びくびく震えながら、精液を出すんだ......！”
 7910:ビビに命令される度に、逆らいがたい何かを感じてしまう。
 7911:精の解放を求め、肉棒が大きく反り立つが、ビビはさらに擦って大きくさせていく。
 7912:最大限まで我慢させるように刺激を与えてくる。
-7913:Shink“あぐっ、くぁっ……はぁ、もうっ、くふぅっ……！”
-7914:Bibi“んっ、はぁ……良いぞ……んぅ、このまま……はぁ、出してしまえ……！！”
+7913:Shink“あぐっ、くぁっ......はぁ、もうっ、くふぅっ......！”
+7914:Bibi“んっ、はぁ......良いぞ......んぅ、このまま......はぁ、出してしまえ......！！”
 7915:最後にビビは肉棒を両足で強く挟み込むと、勢いよく捻りあげる。
 7916:それだけで限界があっさりと突破され、俺はすぐさま精液を放出した。
-7917:Shink“あぐっ、くぁっ……はぁっ、うぐっ……！”
-7918:Bibi“ははっ、さすがはあたしだ……これだけ早く射精させることができるなんてな……”
+7917:Shink“あぐっ、くぁっ......はぁっ、うぐっ......！”
+7918:Bibi“ははっ、さすがはあたしだ......これだけ早く射精させることができるなんてな......”
 7919:Bibi“くくっ、どうだ先生。今まで感じたことのないほどの、快感だっただろう”
 7920:ビビは自信に溢れた表情で笑っている。
 7921:射精が続きながらも、ビビは足や手を止めることはなく、続けて刺激を与えてくる。
 7922:俺はそれから逃げようとするが、がっちりと身体を捕まれて、身動きを取ることができない。
-7923:Bibi“おっと先生……本番はまだまだこれからじゃないか。ほら……次は、こっちだ……”
+7923:Bibi“おっと先生......本番はまだまだこれからじゃないか。ほら......次は、こっちだ......”
 7924:そう言いながら笑うビビは、手と足の位置を入れ替え、再び刺激を与えてくる。
-7925:Shink“ぐっ、ぁっ……またっ、激しく……くぁっ……！”
-7926:Bibi“ほら、先ほどとはまた違った感触が楽しめるだろう……先生は幸せ者だな”
-7927:Shink“何が幸せ者だ……ぐっ、こんな事、はぁっ、無理矢理されても……くふぅっ……！”
-7928:Bibi“その割には……くっ、はぁ、ち●ぽは悦んでいるじゃないか……ほら、あたしの手をすぐに押し返してくる……”
-7929:Bibi“こうして少し擦ってやると、情けなく……んっ、はぁ……びくびく震えて……”
+7925:Shink“ぐっ、ぁっ......またっ、激しく......くぁっ......！”
+7926:Bibi“ほら、先ほどとはまた違った感触が楽しめるだろう......先生は幸せ者だな”
+7927:Shink“何が幸せ者だ......ぐっ、こんな事、はぁっ、無理矢理されても......くふぅっ......！”
+7928:Bibi“その割には......くっ、はぁ、ち●ぽは悦んでいるじゃないか......ほら、あたしの手をすぐに押し返してくる......”
+7929:Bibi“こうして少し擦ってやると、情けなく......んっ、はぁ......びくびく震えて......”
 7930:ビビは亀頭をぐりぐりと踏みつけ、睾丸を撫で回すように刺激してくる。
 7931:その刺激に俺の肉棒は出したばかりだというのに、すぐさま復活して、大きく反り上がる。
-7932:Bibi“ははっ、やはり先生のち●ぽは良いな……こうして弄れば、すぐに復活する……”
-7933:Bibi“それに、感度も良好だ……ここまで良いと、んっ……本当に誰かに渡すのがもったいなくなってくる”
-7934:Shink“あぐっ……はぁ、くっ……何を言って……”
-7935:Bibi“くくっ、ほらほら……そんな余裕は無いだろう……？”
-7936:Bibi“こうして、はぁ、竿を手でぎゅっと握ってやりながら……んっ、乳首を摘んでやると……”
-7937:Shink“くっ、くぁっ……！”
+7932:Bibi“ははっ、やはり先生のち●ぽは良いな......こうして弄れば、すぐに復活する......”
+7933:Bibi“それに、感度も良好だ......ここまで良いと、んっ......本当に誰かに渡すのがもったいなくなってくる”
+7934:Shink“あぐっ......はぁ、くっ......何を言って......”
+7935:Bibi“くくっ、ほらほら......そんな余裕は無いだろう......？”
+7936:Bibi“こうして、はぁ、竿を手でぎゅっと握ってやりながら......んっ、乳首を摘んでやると......”
+7937:Shink“くっ、くぁっ......！”
 7938:ビビの言葉に疑問を挟もうとするが、それを許さないとばかりにビビが肉棒と乳首を刺激してくる。
 7939:その刺激に肉棒が歓喜に揺れ、奥底から二度目の射精が近いことを知らせるように、精の奔流が迫り上がってくる。
-7940:Shink“あぐっ、くぁっ……はぁっ、ビビ……またっ……！”
-7941:Bibi“ああ、感じているぞ……くっ、足に……はぁ、伝わってくる……ほらっ、出すんだ……出してしまえっ……！”
+7940:Shink“あぐっ、くぁっ......はぁっ、ビビ......またっ......！”
+7941:Bibi“ああ、感じているぞ......くっ、足に......はぁ、伝わってくる......ほらっ、出すんだ......出してしまえっ......！”
 7942:ビビは睾丸を足で刺激しながら、亀頭を踏みつけ、竿をぎゅっと握りしめる。
 7943:それだけで、俺の限界はまたもやあっさりと突破させられてしまう。
-7944:Bibi“ほら、二度目だ……んっ、はぁ……その溜まりに溜まった濃い精液を、出すんだ……！”
-7945:Shink“あぐっ、ぐぁぁぁっ……！！”
-7946:Bibi“ふふっ、んっ……はぁ、濃い匂いが……んっ、ここまで上ってきてる……はぁ……”
-7947:Bibi“ふふっ、先生の精液は……本当に美味しそうな匂いがしているな……嗅いでいるだけで、イッてしまいそうだ……”
-7948:Shink“あぐっ、くぁっ……はぁ、ぐぅっ……！”
+7944:Bibi“ほら、二度目だ......んっ、はぁ......その溜まりに溜まった濃い精液を、出すんだ......！”
+7945:Shink“あぐっ、ぐぁぁぁっ......！！”
+7946:Bibi“ふふっ、んっ......はぁ、濃い匂いが......んっ、ここまで上ってきてる......はぁ......”
+7947:Bibi“ふふっ、先生の精液は......本当に美味しそうな匂いがしているな......嗅いでいるだけで、イッてしまいそうだ......”
+7948:Shink“あぐっ、くぁっ......はぁ、ぐぅっ......！”
 7949:二度目だというのに、衰えることのない射精に、ビビはうっとりと色っぽい声を出しながら見つめている。
 7950:俺はその声を聞きながら、快感に打ち震える肉棒から、全ての精を吐き出す。
 7951:ビビは、その間も刺激をやめることはなく、出しながらもむずむずと小さな快感が積み重なっていくのを感じる。
 7952:俺はそれを受けながらも、精液が全て放出されるのをただ眺めていた。
-7953:Shink“はぁ、はぁ……ようやく……終わった……”
+7953:Shink“はぁ、はぁ......ようやく......終わった......”
 7954:全ての精を吐き出し、ようやく俺は解放されると安堵の吐息を漏らす。
 7955:肉棒はすっかり萎えてしまい、もうぴくりとも動かない。
 7956:Bibi“何を言っているんだ、ここからが本番だろう”
-7957:Shink“……っ、何を言っているんだ……くっ、もう出るわけが……っ！？”
-7958:Bibi“出るわけが……なんだって……？”
+7957:Shink“......っ、何を言っているんだ......くっ、もう出るわけが......っ！？”
+7958:Bibi“出るわけが......なんだって......？”
 7959:俺が否定しようとすると、ビビが再び足を動かし肉棒へと刺激を加えていく。
 7960:すると、今まで萎えていたのが嘘のように、肉棒へと血が流れ込んでいくのを感じる。
-7961:Shink“ぐっ、はぁ……なんで……うぐっ……”
-7962:Bibi“あたしが刺激しているんだ……これくらいは当然だ……ほら、まだまだ出してもらうぞ……”
+7961:Shink“ぐっ、はぁ......なんで......うぐっ......”
+7962:Bibi“あたしが刺激しているんだ......これくらいは当然だ......ほら、まだまだ出してもらうぞ......”
 7963:ビビは萎えた肉棒を両足で弄びながら、手で睾丸を揉み込んでいく。
 7964:全てを吐き出したと思っていた精が再び集まってくるのを感じ、同時に肉棒が再び力を取り戻す。
-7965:Bibi“ふーっ、ふふっ、ほら言ったとおりだろう……？”
+7965:Bibi“ふーっ、ふふっ、ほら言ったとおりだろう......？”
 7966:ビビは蠱惑的な表情で、肉棒を見ながら、俺の耳へと息を吹きかけてくる。
 7967:ぞくりとした快感が背中に伝わり、肉棒がびくりと跳ね上がる。
-7968:Bibi“ふふっ、ふーっ、ふー……先生は、んっ、こういう刺激も好きなんだな……ふーっ……”
-7969:Bibi“どんな刺激でも、ふぅー、んふっ……反応してくれるから、んっ……こちらもやりがいがある”
-7970:Shink“うぐっ、はぁ……こんなどうして……うぐっ……”
+7968:Bibi“ふふっ、ふーっ、ふー......先生は、んっ、こういう刺激も好きなんだな......ふーっ......”
+7969:Bibi“どんな刺激でも、ふぅー、んふっ......反応してくれるから、んっ......こちらもやりがいがある”
+7970:Shink“うぐっ、はぁ......こんなどうして......うぐっ......”
 7971:ただの息を吹きかける行為すら、快感となり肉棒がびくびくと反応する。
 7972:反応するたびに、両足で刺激を加えられ、射精へと高まっていく。
-7973:Bibi“息だけじゃないぞ……んちゅ、れぉ……こんなに、ちゅぷぅ……ぺぉ、ぴちゅ……舐めたりしても……んんぅ”
-7974:Shink“あぐっ、くはぁっ……！”
+7973:Bibi“息だけじゃないぞ......んちゅ、れぉ......こんなに、ちゅぷぅ......ぺぉ、ぴちゅ......舐めたりしても......んんぅ”
+7974:Shink“あぐっ、くはぁっ......！”
 7975:ぴちゃぴちゃと水音を立てながら舐めてくるビビに、俺は卑猥な連想をしてしまい、身体中がビビに支配されているような錯覚にすら陥る。
-7976:Bibi“んっ、はぁ……先生の耳を……んちゅ、ちゅぅ、舐めているだけで、んちゅぅ……ふぁっ、ちゅる……なんだか気分が良くなってくる……ちゅっ……”
-7977:Bibi“頭がぼうっとして、んっ……はぁ、癖になってしまいそうだ……ん、んぁっ……”
-7978:Shink“ぐっ、はぁ……ビビ、くっ、もう……はぁ、”
+7976:Bibi“んっ、はぁ......先生の耳を......んちゅ、ちゅぅ、舐めているだけで、んちゅぅ......ふぁっ、ちゅる......なんだか気分が良くなってくる......ちゅっ......”
+7977:Bibi“頭がぼうっとして、んっ......はぁ、癖になってしまいそうだ......ん、んぁっ......”
+7978:Shink“ぐっ、はぁ......ビビ、くっ、もう......はぁ、”
 7979:ビビに耳を舐められる度に、俺のそばを甘い香りが漂い、頭がくらくらとしてくる。
 7980:俺はそれに酔わされるように、腰を振り肉棒をビビの足や手に擦りつけていく。
-7981:Bibi“んっ、ちゅっ……ふぁ、はぁ……熱いち●ぽが、擦れて……んっ、あたしまで変になりそうだ……んふぅ……”
-7982:Bibi“これは早く射精してもらうか……”
-7983:Shink“ぐっ、だから……もう、精液は……くっ……”
+7981:Bibi“んっ、ちゅっ......ふぁ、はぁ......熱いち●ぽが、擦れて......んっ、あたしまで変になりそうだ......んふぅ......”
+7982:Bibi“これは早く射精してもらうか......”
+7983:Shink“ぐっ、だから......もう、精液は......くっ......”
 7984:そんな俺の声を聞く気がないのか、ビビは反論を封じるかのように耳を舐め、そのまま耳たぶをかみ始める。
-7985:Shink“……っ、くぁっ……！”
-7986:Bibi“ははっ、んっ……ふぅ、今肉棒から匂いが出たぞ……んっ、ちゃんと精液はあるんだな……”
-7987:Bibi“だったら、出してもらうだけだ……んっ、はぁ……あたしも、くふぅ……興が乗ってきたからな……”
-7988:Shink“っ、はぁっ……！”
-7989:背中にぴったりと張り付き、胸を押し当てながら、乳首を弄り……肉棒を手と足で虐める。
+7985:Shink“......っ、くぁっ......！”
+7986:Bibi“ははっ、んっ......ふぅ、今肉棒から匂いが出たぞ......んっ、ちゃんと精液はあるんだな......”
+7987:Bibi“だったら、出してもらうだけだ......んっ、はぁ......あたしも、くふぅ......興が乗ってきたからな......”
+7988:Shink“っ、はぁっ......！”
+7989:背中にぴったりと張り付き、胸を押し当てながら、乳首を弄り......肉棒を手と足で虐める。
 7990:口で耳を刺激し、ビビの全身によって身体が作り替えられていくような感じを受ける。
 7991:そんな全身での刺激を受け、俺の肉棒に本当に最後であろう精液が集まってくる。
-7992:Bibi“くくっ、びくびくしてるじゃないか……んっ、ちゅぅ、あむぅ……もう出るのか……？”
-7993:Bibi“だったら、くぅっ、早く出せ……んっ、あたしはもう待ちきれないんだ……はぁ、んふぅ……”
-7994:Shink“あぐっ、また刺激が強く……くぁっ……！”
+7992:Bibi“くくっ、びくびくしてるじゃないか......んっ、ちゅぅ、あむぅ......もう出るのか......？”
+7993:Bibi“だったら、くぅっ、早く出せ......んっ、あたしはもう待ちきれないんだ......はぁ、んふぅ......”
+7994:Shink“あぐっ、また刺激が強く......くぁっ......！”
 7995:俺は限界まで高まった肉棒を足と手で握りつぶされ、頭が真っ白に染まっていく。
 7996:そのまま腰を大きく突き出すと、奥から迫り上がってくる奔流を一気に解放する。
-7997:Bibi“……っ、くるっ、くふぅ……んぁ、はぁ、このまま……ぐっ、あたしの手や足にかけるんだ……くぅっ……！”
-7998:Shink“ぐっ、くぁっ……っぁぁぁぁぁっ！！！”
-7999:Bibi“はははっ、やはり出るではないか……さすがは先生……んっ、ふぅ、期待を裏切らないなっ……！”
-8000:Shink“……っ、くっ……はぁ、ぐぅ……”
+7997:Bibi“......っ、くるっ、くふぅ......んぁ、はぁ、このまま......ぐっ、あたしの手や足にかけるんだ......くぅっ......！”
+7998:Shink“ぐっ、くぁっ......っぁぁぁぁぁっ！！！”
+7999:Bibi“はははっ、やはり出るではないか......さすがは先生......んっ、ふぅ、期待を裏切らないなっ......！”
+8000:Shink“......っ、くっ......はぁ、ぐぅ......”
 8001:俺は迸る熱を全て吐き出しながら、急激な脱力感に、ぐったりと潰れてしまいそうになる。
 8002:それを堪えながら、飛び出す精液を呆然と眺めていた。
-8003:Bibi“んっ、はぁっ……凄い匂いだ……とても三回目だとは思えないな……”
-8004:Bibi“んっ、はぁ……ふふっ、これで……んっ、終わりか……”
+8003:Bibi“んっ、はぁっ......凄い匂いだ......とても三回目だとは思えないな......”
+8004:Bibi“んっ、はぁ......ふふっ、これで......んっ、終わりか......”
 8005:ビビが嬉しそうに笑いながら告げると、ようやく精の放出が終わる。
-8006:Shink“もう、無理……だ……”
+8006:Shink“もう、無理......だ......”
 8007:俺は気力を全て使い果たし、完全に燃え尽きたように力が抜けていく。
-8008:Bibi“ふむ……むぅ、まだいけそうだな……”
-8009:Shink“もう、無理、だ……”
-8010:Bibi“なに、冗談だ……”
+8008:Bibi“ふむ......むぅ、まだいけそうだな......”
+8009:Shink“もう、無理、だ......”
+8010:Bibi“なに、冗談だ......”
 8011:真顔で冗談を言うビビに、力のない返事をすると、ビビは笑いながら俺から離れていった。
-8012:Shink“はぁ……”
-8013:し、しんどかった……なんで休暇に来て疲れないとダメなんだ……
+8012:Shink“はぁ......”
+8013:し、しんどかった......なんで休暇に来て疲れないとダメなんだ......
 8014:Bibi“んー、さすがは先生。良い精気を持ってるな”
-8015:Shink“さよか……”
+8015:Shink“さよか......”
 8016:原因のビビは、満足そうに笑いながら、先ほどよりも元気になっている。
 8017:精気が栄養になるとは知っているが、奪われるこっちとしては堪ったものじゃないな。
 8018:Bibi“ふっ、先生も満足しているみたいじゃないか”
-8019:Shink“どこをどう見たら、そう思うんだ……”
+8019:Shink“どこをどう見たら、そう思うんだ......”
 8020:Bibi“疲れるのは満足した証だろう？　先生が来てから、人間のことについても知識を得たからな。それくらいは分かるさ”
-8021:Shink“…………それ、大間違いだからな”
-8022:どこでそんな意味不明な知識を手に入れたんだ……
+8021:Shink“............それ、大間違いだからな”
+8022:どこでそんな意味不明な知識を手に入れたんだ......
 8023:Bibi“ふっ、照れ隠しというやつか。先生もあたしの気を惹こうと必死なわけだ”
-8024:Shink“…………もう、それで良いや”
+8024:Shink“............もう、それで良いや”
 8025:なんだか否定するのも面倒になってきた。
 8026:ビビがその答えで満足するなら、そう思わせておこう。
-8027:Bibi“む、つれない態度だな。さすがにやり過ぎたか……？”
-8028:Shink“そう思うなら、やらないで欲しいんだが……”
+8027:Bibi“む、つれない態度だな。さすがにやり過ぎたか......？”
+8028:Shink“そう思うなら、やらないで欲しいんだが......”
 8029:Bibi“それは無理だな。先生の精気は気に入っているんだ。定期的に欲しいくらいさ”
-8030:Shink“勘弁してくれ……”
-8031:定期的にビビに搾取される……想像しただけでげっそりしてしまう。
+8030:Shink“勘弁してくれ......”
+8031:定期的にビビに搾取される......想像しただけでげっそりしてしまう。
 8032:Bibi“さてと。先生も疲れていることだし、あたしは退散するか”
-8033:Shink“退散って……俺を放っていくつもりか……”
+8033:Shink“退散って......俺を放っていくつもりか......”
 8034:Bibi“ん？　先生もその方が良いだろう？　それとも、まだあたしの相手をしてくれると？”
-8035:Shink“……どうぞ退散してください”
+8035:Shink“......どうぞ退散してください”
 8036:さすがにこれ以上相手するなんて不可能だ。
 8037:それなら落ち着くまで、しばらくここで休憩した方が良い。
 8038:Bibi“ふっ、ではまた後でな”
-8039:Shink“ああ……って！　服！　裸で飛んで行くな！”
-8040:Bibi“おっと、はは。開放的な気分だったからな……すっかり忘れていた”
-8041:Shink“しっかりしてくれ……”
-8042:誰も見てないから良いものの……端から見たら、ただの変態だぞ……
-8043:Bibi“良し。それじゃ気を取り直して……また後でな先生”
+8039:Shink“ああ......って！　服！　裸で飛んで行くな！”
+8040:Bibi“おっと、はは。開放的な気分だったからな......すっかり忘れていた”
+8041:Shink“しっかりしてくれ......”
+8042:誰も見てないから良いものの......端から見たら、ただの変態だぞ......
+8043:Bibi“良し。それじゃ気を取り直して......また後でな先生”
 8044:Shink“あいよー”
 8045:服を着て笑いながら飛び去っていくビビを見送りながら、俺はその場に転がり空を見上げる。
-8046:Shink“あー、良い天気だ……”
-8047:いっそこのまま眠ってしまいたい気分だが……そうも言っていられない。
-8048:しばらくしたら、俺も戻らないとなぁ……
+8046:Shink“あー、良い天気だ......”
+8047:いっそこのまま眠ってしまいたい気分だが......そうも言っていられない。
+8048:しばらくしたら、俺も戻らないとなぁ......
 8049:Shink“.........”
 8050:そうだな。ヴェーラと話をするか。
 8051:それなりに絡んでいるが、そこまで話したこともないしな。
 8052:引っかき回された記憶だけは、やけに鮮明に思い出せるが。
-8053:Shink“……だ、大丈夫だよな？”
-8054:今回もなんだかんだで、話ができないような気もするが……
+8053:Shink“......だ、大丈夫だよな？”
+8054:今回もなんだかんだで、話ができないような気もするが......
 8055:まぁ、それならそれで良いんだが。
 8056:Shink“とにかく、ヴェーラを探してみるか”
 8057:シレーネに追いかけられて行ったが、ヴェーラのことだ、適当にあしらって、別の場所にいるだろう。
 8058:そう考えると、俺はヴェーラを探すために、歩き始めた。
-8059:Vera“ふっ……やはり海は良い。波の音、反射する光……全てがあたしを祝福している……”
+8059:Vera“ふっ......やはり海は良い。波の音、反射する光......全てがあたしを祝福している......”
 8060:Shink“......”
 8061:あれからしばらく探し回り、船へと戻って来た俺は、船首に立ち、なにやら呟いているヴェーラを発見する。
-8062:というか、何をしてるんだこの子は……
-8063:Vera“見える……あたしを称える人魔の群れが……シンクも見えるでしょ？”
-8064:Shink“見えん見えん。何を言ってるんだお前は……”
+8062:というか、何をしてるんだこの子は......
+8063:Vera“見える......あたしを称える人魔の群れが......シンクも見えるでしょ？”
+8064:Shink“見えん見えん。何を言ってるんだお前は......”
 8065:俺の姿を見ることもせず、海へと視線を向けながら、ヴェーラが語りかけてくる。
-8066:特に音をたてたつもりはないんだが……良く俺が来たって分かったな。
+8066:特に音をたてたつもりはないんだが......良く俺が来たって分かったな。
 8067:Vera“ふっ、やっぱシンク程度じゃ分かんないか～。いや、落ち込むことはないよ？　所詮凡人には理解できない感覚だからさ”
 8068:Shink“軽くイラッとくる発言だが、それは目を瞑ろう。が、せめて人の顔を見て会話をしろ”
 8069:Vera“あっはっは！　断る！　あたしは今海を見るのに忙しいのよ！”
-8070:Shink“いやいや……ってか何してるんだよ、海なんか見て……”
+8070:Shink“いやいや......ってか何してるんだよ、海なんか見て......”
 8071:何か面白いものでも見えるのかと、遠くへと視線を向けるが、特に何も見えない。
 8072:どこまでも広がる光景は圧巻だが、そこまで面白いものでもないだろう。
-8073:Vera“はぁ～。分かんないかなぁ……”
+8073:Vera“はぁ～。分かんないかなぁ......”
 8074:Shink“分からんから聞いてるんだよ”
-8075:Vera“まったく。これだから凡夫は……しょ～がないから、あたしが一から十まで説明してやんよ”
-8076:Shink“お、おう……それは、ありがたい……”
+8075:Vera“まったく。これだから凡夫は......しょ～がないから、あたしが一から十まで説明してやんよ”
+8076:Shink“お、おう......それは、ありがたい......”
 8077:Vera“んっふっふ、でしょでしょ！　あたしの慈悲深さに感謝しなさいよ”
 8078:Shink“......”
-8079:何だろう……この釈然としない感じは……
-8080:ヴェーラにとっては、特に普通のことなんだろうが……イラッとくる。
-8081:Vera“……とうっ！”
+8079:何だろう......この釈然としない感じは......
+8080:ヴェーラにとっては、特に普通のことなんだろうが......イラッとくる。
+8081:Vera“......とうっ！”
 8082:Shink“うおっ！？”
 8083:そんな俺の気持ちなど全く気にしていないのか、ヴェーラは船首から飛び上がると、空中で回転しながら、俺の目の前へと着地する。
-8084:相変わらず意味不明な身体能力だ……
+8084:相変わらず意味不明な身体能力だ......
 8085:Vera“あたしが海を見ていたのは理解してるでしょ？”
 8086:Shink“ああ。それくらい見たら分かる”
 8087:Vera“つまりそういうことよ！”
@@ -8394,78 +8394,78 @@ This seems a little extreme.
 8091:Vera“やれやれ。理解力が無い人間ね～。将来の予行演習よ。予行演習！”
 8092:Shink“予行演習？”
 8093:Vera“そ！　お父様の後を継いで、海賊になった時のためのね！”
-8094:Shink“海賊～？　ヴェーラの父親が海賊だってのは聞いてたけど……ヴェーラも目指してるのか？”
+8094:Shink“海賊～？　ヴェーラの父親が海賊だってのは聞いてたけど......ヴェーラも目指してるのか？”
 8095:Vera“もっちろん！　あたしもお父様みたいな、世界に名を知られる海賊になるのよ！”
-8096:Shink“世界に名を知られるって……”
-8097:なんだ、ヴェーラの父親って、そんなに有名なのか……？
+8096:Shink“世界に名を知られるって......”
+8097:なんだ、ヴェーラの父親って、そんなに有名なのか......？
 8098:そんな思いが顔に出ていたのか、ヴェーラは少しだけ不機嫌そうな顔をして唇をとがらせる。
 8099:Vera“むぅ、今お父様のことをバカにしたでしょ”
-8100:Shink“いや、バカにはしてないけど……”
+8100:Shink“いや、バカにはしてないけど......”
 8101:Vera“いーやバカにしたね！　そんな奴知らねぇよって思ったね。絶対そうだね！”
-8102:Shink“い、いや……それは……”
-8103:確かに有名なのかとは思ったが、そこまでは思ってないぞ……
-8104:Vera“ぐぬぬ……だったら思い知らせてやる！　お父様がどれほど凄い海賊なのかを！！”
-8105:Shink“え、いや……別に……”
+8102:Shink“い、いや......それは......”
+8103:確かに有名なのかとは思ったが、そこまでは思ってないぞ......
+8104:Vera“ぐぬぬ......だったら思い知らせてやる！　お父様がどれほど凄い海賊なのかを！！”
+8105:Shink“え、いや......別に......”
 8106:Vera“アヴェス＝ノース＝デーンって言えば、この業界じゃ知らぬもの無しの、大海賊の名前！　知らない奴はモグリだね！”
-8107:Shink“聞いてねぇし……って、アヴェス＝ノース＝デーン！？”
+8107:Shink“聞いてねぇし......って、アヴェス＝ノース＝デーン！？”
 8108:人の話を聞かずに喋り始めるヴェーラに呆れた顔をした俺だが、思わぬビッグネームの登場に口をあんぐりと開けてしまう。
 8109:Vera“おっ？　知ってる？　その態度は知ってるね！？”
-8110:Shink“そりゃお前……大海賊アヴェスって言えば、七海の内すでに二つの海を制している現役最強の海賊じゃないか……”
-8111:Shink“持ち帰った宝は数知れず、歴史書にももう名前を記すなんて動きも出てきてるって噂の……”
+8110:Shink“そりゃお前......大海賊アヴェスって言えば、七海の内すでに二つの海を制している現役最強の海賊じゃないか......”
+8111:Shink“持ち帰った宝は数知れず、歴史書にももう名前を記すなんて動きも出てきてるって噂の......”
 8112:Vera“そう！　そのアヴェスがあたしのお父様なのよ！！”
-8113:Shink“そういえば、ヴェーラの名前も……昔の女傑、至高と呼ばれた女海賊の名前と一緒なんだよな……”
+8113:Shink“そういえば、ヴェーラの名前も......昔の女傑、至高と呼ばれた女海賊の名前と一緒なんだよな......”
 8114:Vera“いえーす！　つまり！　あたしは生まれる前から、海賊になることが決まっていたのよ！”
-8115:Vera“そのあたしが尊敬しているのがお父様！　いいえ、これはもう尊敬なんて言葉じゃ片付けられない……”
-8116:Vera“そう！　これは……愛よ！　あたしはお父様を愛しているのよ！！”
+8115:Vera“そのあたしが尊敬しているのがお父様！　いいえ、これはもう尊敬なんて言葉じゃ片付けられない......”
+8116:Vera“そう！　これは......愛よ！　あたしはお父様を愛しているのよ！！”
 8117:Shink“.........”
-8118:あ、愛……？
-8119:な、なんだか話が変な方向に行ってないか……？
+8118:あ、愛......？
+8119:な、なんだか話が変な方向に行ってないか......？
 8120:Vera“お父様の魅力に比べたら、その他大勢の男の情けないこと情けないこと。あたしは涙が出てくるね！”
-8121:Vera“そもそも、最近の男にはまるで覇気が無い！　あたしに喧嘩をふっかけてきても、すぐに降参する……なら最初からくんな！”
+8121:Vera“そもそも、最近の男にはまるで覇気が無い！　あたしに喧嘩をふっかけてきても、すぐに降参する......なら最初からくんな！”
 8122:Shink“......”
-8123:Vera“女のくせに生意気だだの、海賊なんかならずに、もっと別の職に就けだの……うっさいっての！　あたしはあたしの好きなように生きるのよ！！”
-8124:Vera“ああ、あたしのことを分かってくれるのは、お父様やファミリーのみんなくらいよ……”
+8123:Vera“女のくせに生意気だだの、海賊なんかならずに、もっと別の職に就けだの......うっさいっての！　あたしはあたしの好きなように生きるのよ！！”
+8124:Vera“ああ、あたしのことを分かってくれるのは、お父様やファミリーのみんなくらいよ......”
 8125:Shink“......”
-8126:父親自慢はどこに行った……なんだか、完全に愚痴になってきてるんだが……
-8127:いや、そもそも誰が言ったんだそれは……
+8126:父親自慢はどこに行った......なんだか、完全に愚痴になってきてるんだが......
+8127:いや、そもそも誰が言ったんだそれは......
 8128:Vera“って！　聞いてるの！？”
 8129:Shink“聞いてる聞いてる”
 8130:Vera“なんだその気のない返事は！！　シンクもあたしの夢を否定するっての！？”
 8131:Shink“しねぇよ！！”
-8132:Vera“ふ～ん、どうだか……シンクも海賊なんて、趣味が悪いとか、悪者だとか思ってるんでしょー！”
-8133:Shink“何だその決めつけ……俺は別にヴェーラが将来何になろうと気にしないっての”
-8134:Vera“ほぇ……？”
-8135:Shink“何でそこで不思議そうな顔をするのかが分からんのだが……”
-8136:そんなに俺が否定しないことが不思議か……否定して欲しいのか……？
+8132:Vera“ふ～ん、どうだか......シンクも海賊なんて、趣味が悪いとか、悪者だとか思ってるんでしょー！”
+8133:Shink“何だその決めつけ......俺は別にヴェーラが将来何になろうと気にしないっての”
+8134:Vera“ほぇ......？”
+8135:Shink“何でそこで不思議そうな顔をするのかが分からんのだが......”
+8136:そんなに俺が否定しないことが不思議か......否定して欲しいのか......？
 8137:Vera“いや、普通なら海賊なんてーって否定するもんでしょ。今までの教師は、み～んなそんなこと言ってきたけど”
 8138:Shink“むっ、心外な。教え子が真剣に考えて決めたことなら、俺は応援するぞ。否定したところで、良い結果にはならないだろうしな”
-8139:Shink“それに悪行三昧の海賊になるってなら止めもするが……そうじゃないんだろ？”
+8139:Shink“それに悪行三昧の海賊になるってなら止めもするが......そうじゃないんだろ？”
 8140:Vera“あったりまえよ！　そんなの海賊じゃない！！”
 8141:Shink“なら、俺がどうこう言う必要は無いな”
 8142:普段からはちゃめちゃなヴェーラだが、海賊のことを語る時は、本当に真剣な表情をしている。
-8143:そんな真剣に考えていることを否定するなんて、誰にもできやしないし……してはいけないことだ。
+8143:そんな真剣に考えていることを否定するなんて、誰にもできやしないし......してはいけないことだ。
 8144:教師は教え子の道を否定するのでは無く、真剣な思いを応援してやるのが仕事だ。
 8145:Vera“ふ、ふん！　分かってるんなら良いの！　なんだなんだ、シンクも見る目があるじゃん！！”
 8146:Shink“へいへい。お褒めにあずかり光栄です”
 8147:Vera“ふふん！　良きに計らい給え～！”
 8148:俺の言葉に気分が良くなったのか、ヴェーラはにこりと笑いながら、大げさなポーズを取る。
 8149:そんな年相応の姿に、こういう一面もあるんだなと、俺は苦笑を零す。
-8150:Shink“でも、ちゃんと授業には出ろよ……留年しっぱなしだと、海賊にもなれないだろうし”
-8151:Vera“ぐっ……わ、分かってるわよ！　まったく、お母様と同じこと言わないでよ……”
-8152:Shink“いや、普通言うだろ……”
+8150:Shink“でも、ちゃんと授業には出ろよ......留年しっぱなしだと、海賊にもなれないだろうし”
+8151:Vera“ぐっ......わ、分かってるわよ！　まったく、お母様と同じこと言わないでよ......”
+8152:Shink“いや、普通言うだろ......”
 8153:Vera“いーや言わないね！　お母様もお母様よ！　海賊になるって言ってるのに、あたしを学園に放り込んだりして！”
 8154:Vera“なーにが常識を学んできなさいなんだか！　あたしに常識が無いみたいじゃん！！”
 8155:Shink“......”
-8156:無いだろう……とは言わない。色々面倒になりそうだからな。
-8157:しかし、ヴェーラの母親の言うことは正しいだろう。身についているとは思えないが……
+8156:無いだろう......とは言わない。色々面倒になりそうだからな。
+8157:しかし、ヴェーラの母親の言うことは正しいだろう。身についているとは思えないが......
 8158:Vera“ちょっとシンク、聞いてるの！？”
 8159:Shink“聞いてる聞いてる。良いから、愚痴は全部言っておけ”
-8160:Vera“お、分かってるね！　それじゃ遠慮無く……”
+8160:Vera“お、分かってるね！　それじゃ遠慮無く......”
 8161:どうせ断っても無駄だろうと、俺はヴェーラの喋る内容に耳を傾ける。
 8162:普段からかなり鬱憤が溜まっていたのか、出てくるわ出てくるわ不満の山！
-8163:こいつはこいつで苦労してるんだろうなぁ……と思いながらも、俺は最後までヴェーラの愚痴に付き合っていた。
+8163:こいつはこいつで苦労してるんだろうなぁ......と思いながらも、俺は最後までヴェーラの愚痴に付き合っていた。
 8164:Vera“っと、もうこんな時間なんだ”
-8165:Shink“ああ……そうだな……”
+8165:Shink“ああ......そうだな......”
 8166:あれから延々とヴェーラの愚痴を聞いている内に、すっかり日が昇り、昼食を取るような時間になっていた。
 8167:シレーネとビビは戻って来ていないが、二人も子どもじゃないし、そのうち戻ってくるだろう。
 8168:Vera“んーすっきりしたー！　あんがとね、あたしの愚痴聞いてくれて！”
@@ -8474,99 +8474,99 @@ This seems a little extreme.
 8171:Shink“は？”
 8172:Vera“いやいや何でもないよ～ん。さって、んじゃご飯でも食べよっか”
 8173:Shink“おお、そうだな。で、どうするんだ？　またバーベキューでもするか？”
-8174:そう言ってから気づいたが……朝からバーベキューって、凄いことしてるな……
-8175:しかもあれだけ食べたのに、もう腹が減ってるって……我ながら恐ろしい。
-8176:Vera“ん～、それでも良いんだけどね～……せっかく愚痴を聞いてくれたことだし、ここはいっちょ、あたしが腕を奮ってあげよう！”
-8177:Shink“えっ……！？”
-8178:Vera“んぁ？　何よ、その驚きようは……まさか、あたしが料理できないとでも？”
-8179:Shink“いや、逆に聞きたいんだが……料理できるの？”
-8180:正直できるとは思えない。バーベキューみたいなのがせいぜいだろ……
+8174:そう言ってから気づいたが......朝からバーベキューって、凄いことしてるな......
+8175:しかもあれだけ食べたのに、もう腹が減ってるって......我ながら恐ろしい。
+8176:Vera“ん～、それでも良いんだけどね～......せっかく愚痴を聞いてくれたことだし、ここはいっちょ、あたしが腕を奮ってあげよう！”
+8177:Shink“えっ......！？”
+8178:Vera“んぁ？　何よ、その驚きようは......まさか、あたしが料理できないとでも？”
+8179:Shink“いや、逆に聞きたいんだが......料理できるの？”
+8180:正直できるとは思えない。バーベキューみたいなのがせいぜいだろ......
 8181:Vera“かっちーーん。それはあれ？　挑発してんの？”
-8182:Shink“挑発はしてないんだが……うん”
-8183:Vera“へ～、ほ～……そーかそーか。そういう態度とっちゃうんだ……”
+8182:Shink“挑発はしてないんだが......うん”
+8183:Vera“へ～、ほ～......そーかそーか。そういう態度とっちゃうんだ......”
 8184:Vera“あったまきた！　見てなっ！　ぐうの音も出ないくらい美味い料理食わせてやるんだかんね！！”
-8185:Shink“あ、おい……！”
+8185:Shink“あ、おい......！”
 8186:俺の態度が気に入らなかったのか、ヴェーラは頬を膨らませながら船内へと引っ込んでいく。
-8187:プライドが高いのかどうなのか……とにかく昼食はヴェーラが作ることになった。
-8188:果たしてまともな料理が出てくるのか……不安だ。
+8187:プライドが高いのかどうなのか......とにかく昼食はヴェーラが作ることになった。
+8188:果たしてまともな料理が出てくるのか......不安だ。
 8189:Vera“さあ食え！　食ってその美味さに感激しろ！”
-8190:Shink“お、おお……！”
+8190:Shink“お、おお......！”
 8191:しばらくして出された料理の数々に、俺は思わず声を上げてしまう。
 8192:並ぶ料理はどれも美味そうで、見ているだけで食欲を誘ってくる。
-8193:これを本当にヴェーラが用意したって言うのか……！？
+8193:これを本当にヴェーラが用意したって言うのか......！？
 8194:Vera“って、ここまで用意してまだ疑うっての！？　信じらんない！”
-8195:Shink“いやだってなぁ……どう考えても料理ができそうなタイプじゃないだろ……”
+8195:Shink“いやだってなぁ......どう考えても料理ができそうなタイプじゃないだろ......”
 8196:Vera“できるっての！　あたしに不可能は無い！！”
 8197:Vera“シンクってば、ちょっとあたしを侮ってない？”
-8198:Shink“いや、そんなことはないんだが……”
-8199:いや、まだまだ甘く見てたってことなのか……？
-8200:勉強も運動もできて、家事の類も全て完璧にこなせるって……もう一人で生きていけるだろ……
-8201:Shink“と、とりあえず味を……”
+8198:Shink“いや、そんなことはないんだが......”
+8199:いや、まだまだ甘く見てたってことなのか......？
+8200:勉強も運動もできて、家事の類も全て完璧にこなせるって......もう一人で生きていけるだろ......
+8201:Shink“と、とりあえず味を......”
 8202:Vera“おう！　食え食え！　そして感激の涙を流すが良い！”
-8203:Shink“何を大げさな……それじゃ……”
+8203:Shink“何を大げさな......それじゃ......”
 8204:大げさにわめき立てるヴェーラの言葉を聞き流しながら、用意された料理を口に運ぶ。
-8205:Shink“…………っ！？”
-8206:瞬間、筆舌に尽くしがたい感覚が口の中に広がり、自然と次を求めて手が動く……！
-8207:そして瞳からは意識せずとも涙が溢れ出て……！！
-8208:Shink“な、なんだこれは……！　美味いっ、美味いぞーーーー！！”
+8205:Shink“............っ！？”
+8206:瞬間、筆舌に尽くしがたい感覚が口の中に広がり、自然と次を求めて手が動く......！
+8207:そして瞳からは意識せずとも涙が溢れ出て......！！
+8208:Shink“な、なんだこれは......！　美味いっ、美味いぞーーーー！！”
 8209:Vera“はーっはっはっは！　どやぁっ！　あたしにかかれば、ざっとこんなもんよ！！”
-8210:Shink“くっ、くそぉっ！　手がっ、手が止まらねぇ……！”
+8210:Shink“くっ、くそぉっ！　手がっ、手が止まらねぇ......！”
 8211:ドヤ顔で笑い出すヴェーラを見ながら、俺は次から次へと料理を口に運んでいく。
-8212:止まらない……これは、止まらない……なんたる美味！
+8212:止まらない......これは、止まらない......なんたる美味！
 8213:食べれば食べるほどに食欲が刺激され、舌が歓喜で小躍りしそうな勢いだ！
-8214:Shink“くぅっ！　特にこの歯ごたえの良い食べ物……これが最高に美味い！”
+8214:Shink“くぅっ！　特にこの歯ごたえの良い食べ物......これが最高に美味い！”
 8215:Vera“おお！　それに目をつけるとは、シンクってば分かってるねー！”
-8216:Shink“ああ、この弾力に感触……噛めば噛むほど深くなる味……いったい何なんだこれは……！”
+8216:Shink“ああ、この弾力に感触......噛めば噛むほど深くなる味......いったい何なんだこれは......！”
 8217:Vera“ぬっふっふ～。知りたい？”
-8218:Shink“ああ！　こんな美味いもの、食ったことない……何なんだ！！”
+8218:Shink“ああ！　こんな美味いもの、食ったことない......何なんだ！！”
 8219:Vera“あたしの足”
 8220:Shink“ぶふーーーーーっ！！！”
 8221:Vera“ぬぁぁっ！？　な、何をするかーーー！！”
 8222:いきなりの爆弾発言に、俺は口の中のものを勢いよく噴出する。
 8223:それを素っ頓狂な悲鳴を上げながらも、ヴェーラが全て避ける。
-8224:なにげに凄い動きを見た気がするが……それよりも今は……
+8224:なにげに凄い動きを見た気がするが......それよりも今は......
 8225:Shink“ちょっ、えっ！？　足っ！？　足って言ったか今！！”
-8226:Vera“そだよ。まったく、滅多に出さないのに噴き出すなんて……失礼じゃん！”
-8227:Shink“おまっ、自分の足を食わせるって……そっちこそ何考えてんだ！？”
-8228:カニバリズムかよ！？　俺にそんな趣味は無いっての……！
+8226:Vera“そだよ。まったく、滅多に出さないのに噴き出すなんて......失礼じゃん！”
+8227:Shink“おまっ、自分の足を食わせるって......そっちこそ何考えてんだ！？”
+8228:カニバリズムかよ！？　俺にそんな趣味は無いっての......！
 8229:それとも、なにやら怪しげな儀式に強制参加させられるのか！？
 8230:Vera“スキュラの足は高級食材なんだぞ！？　滅多に市場に出回らないってのに、もったいないっ！”
 8231:Shink“マジでっ！？　っていうか、足切って大丈夫なのかよ！？”
 8232:Vera“もう生えたし！”
 8233:Shink“はやっ！？”
 8234:え、っていうか生えるの！？
-8235:高級食材無限増殖とか何それ……無敵じゃん……
-8236:Vera“とにかく毒とかじゃないんだから、ちゃんと食べてよね。もったいない……”
-8237:Shink“あ、ああ……すまん……”
+8235:高級食材無限増殖とか何それ......無敵じゃん......
+8236:Vera“とにかく毒とかじゃないんだから、ちゃんと食べてよね。もったいない......”
+8237:Shink“あ、ああ......すまん......”
 8238:自分の足を食わせておきながら怒るヴェーラに、やや納得いかないものの、再度料理を口に運んでいく。
-8239:足だと分かっているのに、なぜ美味いんだ……
+8239:足だと分かっているのに、なぜ美味いんだ......
 8240:Vera“ふっ、当然よ。お母様直伝の料理なんだから”
-8241:Shink“…………ヴェーラの母親は料理が上手いのか？”
+8241:Shink“............ヴェーラの母親は料理が上手いのか？”
 8242:Vera“上手いよ。メイドだしね”
-8243:Shink“は……？　メイド？”
+8243:Shink“は......？　メイド？”
 8244:Vera“そだよ。あたしほどじゃないけど、完璧超人なんだー。ま、あたしほどじゃないけど！”
-8245:Shink“二回言わんで良い。しかしそうか……”
-8246:ヴェーラのこのバグった超人っぷりは母親譲りなのか……
-8247:遺伝って怖いな……いや、ヴェーラのことだ、おそらくその母親より上なんだろう。
+8245:Shink“二回言わんで良い。しかしそうか......”
+8246:ヴェーラのこのバグった超人っぷりは母親譲りなのか......
+8247:遺伝って怖いな......いや、ヴェーラのことだ、おそらくその母親より上なんだろう。
 8248:両親も大変だっただろうなぁ。
 8249:Vera“それより、どんどん食べてよね！　一応愚痴を聞いてくれたお礼なんだから”
 8250:Shink“へいへい。美味いことに変わりはないんだ。ありがたく頂くさ”
 8251:ニコニコ笑いながら、俺の食べる姿を眺めるヴェーラに返事しながら、俺は出された料理を残さず食うのだった。
 8252:うん。大変美味しゅうございました。
-8253:Shink“はぁ……良い日差しだなぁ……”
+8253:Shink“はぁ......良い日差しだなぁ......”
 8254:照りつける太陽の日差しを浴びながら、俺はゆらゆらと揺れる波を眺めている。
 8255:こうして波を眺めていると、こう泳ぎたくなってくるよなぁ。
 8256:Shink“しかし残念ながら水着を持っていない”
 8257:出かける日の朝にでも用意すれば良いと思っていたので、拉致同然で連れてこられた俺は、水着を持っていない。
 8258:非常に残念だ。誠に残念だ。
 8259:Shirene“ん？　シンク、どうしたのよ。そんなボーッと黄昏れちゃって”
-8260:Shink“ん……ああ、泳ぎたいなぁ……って考えてた”
-8261:Shirene“……？　泳げば良いじゃない”
+8260:Shink“ん......ああ、泳ぎたいなぁ......って考えてた”
+8261:Shirene“......？　泳げば良いじゃない”
 8262:Shink“それができたら苦労しないっての”
 8263:何気なく言ってくるシレーネに溜息を吐きながら肩を落とす。
-8264:そりゃ、俺だって泳げるものなら泳いでるさ……
+8264:そりゃ、俺だって泳げるものなら泳いでるさ......
 8265:Vera“何々？　泳いじゃう？　泳いじゃうのか！？”
-8266:Shink“だから泳げたら泳いでるっての……”
+8266:Shink“だから泳げたら泳いでるっての......”
 8267:Bibi“なんだ、先生はかなづちなのか。それは意外な弱点を聞いたな”
 8268:Shink“違うっての。水着が無いんだよ”
 8269:自慢じゃないが、俺は泳ぎに関しては、ちょっとしたもんだぞ。
@@ -8574,120 +8574,120 @@ This seems a little extreme.
 8271:Vera“水着～？　何言ってんの？　んなもんいらないじゃん”
 8272:Bibi“うむ。そもそも泳ぐのに何かを着るなんて、非効率だろう”
 8273:Shirene“それはそうよね。どうして人間は、あんなものを着ているのかしら”
-8274:Shink“は……？”
+8274:Shink“は......？”
 8275:俺の言葉に反応した三人に、間抜けな表情を返してしまう。
-8276:今なんて言った……？　水着が必要ない……？
+8276:今なんて言った......？　水着が必要ない......？
 8277:Vera“あ、そうだ！　せっかく泳ぐなら、ここは勝負といかない？”
-8278:Shirene“へぇ、面白いじゃない。未だ負けっぱなしだけど……勝たせてもらうわよ？”
+8278:Shirene“へぇ、面白いじゃない。未だ負けっぱなしだけど......勝たせてもらうわよ？”
 8279:Bibi“アホか。陸でも勝てないのに、海でヴェーラに勝てると思っているのか？”
-8280:Shirene“うっ……で、でも可能性は……ゼロじゃないわ！”
+8280:Shirene“うっ......で、でも可能性は......ゼロじゃないわ！”
 8281:Vera“ふっふっふ！　その意気や良し！　どっからでもかかってこーい！！”
 8282:Shink“ちょ、ちょっと待てっ！！”
 8283:どんどん話が進んでいくことに不安を覚え、俺は三人を止めるように声をかける。
-8284:なんというか、非常に嫌な予感がする……！
-8285:Shirene“何よ……せっかくやる気になってるのに、水を差さないでちょうだい”
-8286:Shink“いやいや……泳ぐのは良いし、勝負するのも悪く無い……悪く無いんだが……”
-8287:こいつら……水着持って……ないよなぁ……
-8288:Vera“何？　シンクも参加したいの？　やめといた方が良いんじゃないかなぁ……”
+8284:なんというか、非常に嫌な予感がする......！
+8285:Shirene“何よ......せっかくやる気になってるのに、水を差さないでちょうだい”
+8286:Shink“いやいや......泳ぐのは良いし、勝負するのも悪く無い......悪く無いんだが......”
+8287:こいつら......水着持って......ないよなぁ......
+8288:Vera“何？　シンクも参加したいの？　やめといた方が良いんじゃないかなぁ......”
 8289:Bibi“だな。あたしたち魔物の身体能力についてこれるとは思えん”
-8290:Bibi“む、それともあれか……勝者に褒美をくれるとか、そういう提案か？”
-8291:Shirene“なんですって……！？”
+8290:Bibi“む、それともあれか......勝者に褒美をくれるとか、そういう提案か？”
+8291:Shirene“なんですって......！？”
 8292:Vera“ほほう！”
-8293:Shink“え……！？”
+8293:Shink“え......！？”
 8294:ビビの何気ない言葉に、シレーネとヴェーラの瞳が輝く。
-8295:ちょっと待て……誰がそんなことを……！
-8296:Vera“こっれは燃えてきたーー！　テストの時は報償を貰えなかったもんね……悪いけど本気でいかせてもらうかんね！！”
-8297:Shirene“それはわたしも同じよ……絶対勝つ！！”
+8295:ちょっと待て......誰がそんなことを......！
+8296:Vera“こっれは燃えてきたーー！　テストの時は報償を貰えなかったもんね......悪いけど本気でいかせてもらうかんね！！”
+8297:Shirene“それはわたしも同じよ......絶対勝つ！！”
 8298:Shink“ちょっ！？”
-8299:Bibi“ふむ……ははっ、そういうことなら、あたしもやってみるかな”
-8300:Vera“…………ふっふっふ。恨みっこ無し、だかんね……！”
+8299:Bibi“ふむ......ははっ、そういうことなら、あたしもやってみるかな”
+8300:Vera“............ふっふっふ。恨みっこ無し、だかんね......！”
 8301:Shirene“上等だわ！”
-8302:Shink“おいっ！　ちょっと……！”
+8302:Shink“おいっ！　ちょっと......！”
 8303:俺の叫びを無視するように、三人は火花を散らしながら睨み合う。
 8304:そのまま衣服へと手をかけると、俺が止める間もなく、一気に脱ぎ捨てる。
 8305:Shink“なんでだーーーーー！！”
 8306:全員が真っ裸になった姿を見て、俺は悲鳴を上げながら視線を逸らす。
-8307:何でこう全員すぐ裸になるんだ……！
+8307:何でこう全員すぐ裸になるんだ......！
 8308:Vera“んん？　シンクってば、何してんのよ。視線を逸らすとか失礼じゃん”
 8309:Bibi“まったくだな。男なら堂々として欲しいところだ”
 8310:Shink“無茶言うな！　っていうか、なんで脱ぐ！”
-8311:Shirene“おかしなことを言うのね……泳ぐんだから、脱ぐのは当たり前でしょ？”
-8312:Shink“違うっ！　少しは恥じらいを……！”
-8313:Vera“あー、何か言ってるけど……とにかく勝負よ！！”
+8311:Shirene“おかしなことを言うのね......泳ぐんだから、脱ぐのは当たり前でしょ？”
+8312:Shink“違うっ！　少しは恥じらいを......！”
+8313:Vera“あー、何か言ってるけど......とにかく勝負よ！！”
 8314:Shink“ひでぇっ！”
-8315:無視かよ……！　いや、言っても無駄なのは分かってるんだけども……！
+8315:無視かよ......！　いや、言っても無駄なのは分かってるんだけども......！
 8316:Shirene“ふっ、ルールはどうするのかしら？”
-8317:Bibi“あそこに見える岩場まで行って、戻ってくる……そのくらいシンプルで良いだろう”
-8318:Vera“へぇ……結構距離あるけど、あんたたち大丈夫なの？”
-8319:Shirene“あの程度まったく問題ないわ……途中でへばったりしないでよ？”
+8317:Bibi“あそこに見える岩場まで行って、戻ってくる......そのくらいシンプルで良いだろう”
+8318:Vera“へぇ......結構距離あるけど、あんたたち大丈夫なの？”
+8319:Shirene“あの程度まったく問題ないわ......途中でへばったりしないでよ？”
 8320:Bibi“ふふふ、それはこっちのセリフだ。なるべく楽しませてくれよ？”
 8321:Vera“良い気迫じゃん。ま、あたしには勝てないだろうけどねー！”
 8322:Shink“.........”
 8323:俺が見てないところで、どんどん話が進んでいく。
 8324:どうでも良いが、早く海に入ってくれ。
-8325:Vera“それじゃ……いくわよ～！”
-8326:Shirene“ええ……いざ尋常に、勝負よ……！！”
-8327:Bibi“……せいぜいあがいてくれよ”
+8325:Vera“それじゃ......いくわよ～！”
+8326:Shirene“ええ......いざ尋常に、勝負よ......！！”
+8327:Bibi“......せいぜいあがいてくれよ”
 8328:三人が飛び込む音を聞きながら、俺は振り向く。
 8329:見るとすでに結構遠くに三人の姿が見える。
-8330:Shink“は、早いな……”
-8331:Vera“あーはっは！　遅い遅い……って、ビビ！　何飛んでんのよ！　ちゃんと泳げーー！！”
+8330:Shink“は、早いな......”
+8331:Vera“あーはっは！　遅い遅い......って、ビビ！　何飛んでんのよ！　ちゃんと泳げーー！！”
 8332:Bibi“誰も泳いでなんて言ってないだろう？　ルールはちゃんと聞いておくんだな”
-8333:Shirene“っ、卑怯者っ……！　正々堂々戦いなさい！”
+8333:Shirene“っ、卑怯者っ......！　正々堂々戦いなさい！”
 8334:Shink“.........”
-8335:なんというか、元気がありあまってるなぁ……
-8336:若いって素晴らしい……
-8337:Shink“って、何を爺臭いこと言ってるんだか……”
+8335:なんというか、元気がありあまってるなぁ......
+8336:若いって素晴らしい......
+8337:Shink“って、何を爺臭いこと言ってるんだか......”
 8338:俺は小さくなっていく三人の姿を眺めながら、ゆっくりとその場に腰を下ろす。
-8339:しばらくは帰ってこないだろうし……のんびりしてるかぁ……
+8339:しばらくは帰ってこないだろうし......のんびりしてるかぁ......
 8340:Vera“ふぃーーー、遊んだ遊んだーー！”
-8341:Shirene“くっ、結局一回も勝てなかった……！”
+8341:Shirene“くっ、結局一回も勝てなかった......！”
 8342:Bibi“ま、分かりきったことだったがな。無駄に疲れた”
 8343:Shink“お疲れ”
 8344:三人は満足したのか、ようやく海から上がってきた。
 8345:着替えを済ませた三人に苦笑しながら近づくと、ヴェーラが笑いながら寄ってくる。
 8346:Vera“さーてシンク、あたしの勝ちだから褒美をちょうだいね！”
-8347:Shink“いやいや……褒美って何をすれば良いんだよ……”
+8347:Shink“いやいや......褒美って何をすれば良いんだよ......”
 8348:勝手に決められたことだから、まるで考えてない。
-8349:しかしヴェーラに決めさせるのも……怖い。
+8349:しかしヴェーラに決めさせるのも......怖い。
 8350:Vera“んー？　そういや全然決めてないや。そーだなー、何にしよっかなー？”
 8351:Shink“あんまり酷いのはやめてくれよ？”
 8352:Shirene“そうよヴェーラ。シンクに迷惑がかからない程度になさいよ”
 8353:Bibi“そんなの気にする必要ないと思うがな”
 8354:Shink“無理なことは無理だからな？”
-8355:なんだかヴェーラが決めることになっているが……本当に無茶なことを言わないでくれよ……？
+8355:なんだかヴェーラが決めることになっているが......本当に無茶なことを言わないでくれよ......？
 8356:Vera“よし決めた！　今日一緒に寝よう！”
 8357:Shink“ぶーーーーーーっ！！”
-8358:Bibi“おお、また大胆なことを……”
+8358:Bibi“おお、また大胆なことを......”
 8359:Shirene“な、なななっ！　何を言ってるの貴女はーーー！！”
 8360:Vera“わっ！？　ど、どしたの？”
-8361:Shink“どしたのって……いきなり何を言い出すんだ……”
-8362:一緒に寝るとか……年頃の子がなんつーことを……思わず噴きだしたじゃないか！
-8363:Vera“いや、枕代わりになれってことなんだけど……なんか変なこと言った？”
-8364:Shirene“へ……？　枕代わり……？”
+8361:Shink“どしたのって......いきなり何を言い出すんだ......”
+8362:一緒に寝るとか......年頃の子がなんつーことを......思わず噴きだしたじゃないか！
+8363:Vera“いや、枕代わりになれってことなんだけど......なんか変なこと言った？”
+8364:Shirene“へ......？　枕代わり......？”
 8365:Vera“つーか何？　どーいう意味にとったのかなぁ？”
-8366:Shink“い、いや……それは……”
+8366:Shink“い、いや......それは......”
 8367:Bibi“ふっ、先生もシレーネも助平だな”
-8368:Shirene“ち、違うわよ！　これはヴェーラが紛らわしいこと言うから……！”
+8368:Shirene“ち、違うわよ！　これはヴェーラが紛らわしいこと言うから......！”
 8369:Vera“うわー他人のせいにするとかひっどいんだー。そもそもそういう意味なら、直接言うってーの”
-8370:Shink“それはそれでどうなんだ……”
-8371:というか発言の別の意味を分かってて言ったとか、性格悪いなぁ……
-8372:Shink“はぁ……まぁ良いや……何もしないなら別に……”
+8370:Shink“それはそれでどうなんだ......”
+8371:というか発言の別の意味を分かってて言ったとか、性格悪いなぁ......
+8372:Shink“はぁ......まぁ良いや......何もしないなら別に......”
 8373:Shirene“ちょっとシンク！？　ヴェーラと一緒に寝るって言うの！？”
-8374:Shink“いや、枕代わりってだけだし……もう色々突っ込むの疲れた……”
-8375:Bibi“おお、突っ込むとか……先生も言うねぇ”
+8374:Shink“いや、枕代わりってだけだし......もう色々突っ込むの疲れた......”
+8375:Bibi“おお、突っ込むとか......先生も言うねぇ”
 8376:Shink“はいはい”
-8377:もう突っ込まないからな……疲れるだけだし。
+8377:もう突っ込まないからな......疲れるだけだし。
 8378:Vera“む、スルースキルを身につけた！　生意気な！！”
 8379:Bibi“まったくだ”
 8380:Shirene“っ、破廉恥よ！　もう知らないわっ！！”
 8381:Shink“......”
 8382:俺が承諾したのが気に入らなかったのか、シレーネが顔を真っ赤にしながら船内へと駆け込んでいく。
-8383:いや……今のが破廉恥で、裸を見られるのが何ともないって……その感性が理解できん。
-8384:Vera“ぷっ、シレーネってば顔真っ赤にして……かーわいーんだー”
+8383:いや......今のが破廉恥で、裸を見られるのが何ともないって......その感性が理解できん。
+8384:Vera“ぷっ、シレーネってば顔真っ赤にして......かーわいーんだー”
 8385:Bibi“うむ。シレーネはからかうと面白いな。次は別の奴も連れて来たいところだ”
-8386:Shink“はぁ……そーだなー”
-8387:その機会があれば、もっと常識がある奴を求む。いや、切実に……
+8386:Shink“はぁ......そーだなー”
+8387:その機会があれば、もっと常識がある奴を求む。いや、切実に......
 8388:そんなことを思いながら、俺も船内へと入っていく。
 8389:Shink“ま、充実した休みになったなら、それで良いか”
 8390:未だにはしゃいでいるヴェーラやビビの姿を見ながら、俺は軽く笑みを浮かべる。
@@ -8702,13 +8702,13 @@ This seems a little extreme.
 8399:Pham“あはは、そうできたら良かったんだけどね。残念ながら無理なのよね～”
 8400:Shink“無理？　何でだよ。ちょくちょく移動してるじゃないか”
 8401:Pham“全部学園の敷地内のことでしょ？　わたしは、ここから出ることはできないのよ”
-8402:Shink“へ……？”
-8403:ここから出ることができないって……学園内からってことか？
-8404:Shink“それは、地縛霊とか……そういった感じの存在だからか？”
+8402:Shink“へ......？”
+8403:ここから出ることができないって......学園内からってことか？
+8404:Shink“それは、地縛霊とか......そういった感じの存在だからか？”
 8405:Pham“さぁ？　どうなんでしょうね”
-8406:Shink“さぁって……”
+8406:Shink“さぁって......”
 8407:俺の問いにファムは首を傾げて肩を竦める。
-8408:誤魔化したんだろうが……これは訊けないな。
+8408:誤魔化したんだろうが......これは訊けないな。
 8409:ファムがこういった謎の物言いをするからには、それ以上は絶対に教えてもらえない。
 8410:それなりに付き合ってるんだ。それくらいは分かる。
 8411:Pham“ま、楽しんでくれたなら何よりよ。あの子たちとも、また仲良くなったみたいだし”
@@ -8721,14 +8721,14 @@ This seems a little extreme.
 8418:Pham“あらあら。露骨に話題を変えるのね”
 8419:Shink“うるさい”
 8420:Pham“もう怒らないでよ。怒りっぽい男は嫌われるわよ？”
-8421:Shink“むぅ……”
+8421:Shink“むぅ......”
 8422:なんというか、凄い子ども扱いされてないか？
-8423:そりゃゴーストなんだから、俺より長く生きてる……んだろうけど……非常に納得いかない。
+8423:そりゃゴーストなんだから、俺より長く生きてる......んだろうけど......非常に納得いかない。
 8424:Pham“ほらほら機嫌を直してよ”
 8425:Shink“別に怒ってないって”
-8426:Pham“そう？　なら良いわ。ふふっ……そういえば、あの子たちは何をしているのかしら？”
-8427:Shink“あー……まぁ、学生の誰もが陥る地獄……ってところか”
-8428:Pham“…………ああ、課題ね？”
+8426:Pham“そう？　なら良いわ。ふふっ......そういえば、あの子たちは何をしているのかしら？”
+8427:Shink“あー......まぁ、学生の誰もが陥る地獄......ってところか”
+8428:Pham“............ああ、課題ね？”
 8429:Shink“そういうこと”
 8430:ぽんと手を合わせて、からからと笑うファムに、俺も苦笑を零す。
 8431:あれだけ後に残すなって言ってたのに、しょうがない奴らだ。
@@ -8743,11 +8743,11 @@ This seems a little extreme.
 8440:ひとしきり笑い合った後、ファムの激励を受けて、俺はゆっくりと立ち上がる。
 8441:さてさて、あいつらはちゃんとやってるんだろうかねぇ。
 8442:Rin“はふー。やっと終わったー”
-8443:Mirita“なんだかギリギリになっちゃったね……”
+8443:Mirita“なんだかギリギリになっちゃったね......”
 8444:Comet“問題無し。スケジュール通り”
-8445:Shirene“またそんなすぐ分かる嘘を……”
+8445:Shirene“またそんなすぐ分かる嘘を......”
 8446:Comet“嘘じゃない。わたしのスケジュールに不備は無い。遊ぶことも想定済み”
-8447:Rin“あ、あはは……まぁ、終わったなら良いよね”
+8447:Rin“あ、あはは......まぁ、終わったなら良いよね”
 8448:Mirita“だよね。はぁ～後は新学期の準備をしたら、休暇も終わりかな～”
 8449:俺が食堂に行くと、課題が終わったのか、リンたちが一息ついているところだった。
 8450:どうやら間に合わないってことは無くなったみたいだな。
@@ -8755,55 +8755,55 @@ This seems a little extreme.
 8452:Rin“あ、シンク先生！　どうしたんですか？”
 8453:Shink“いや、課題がちゃんと終わったか気になってな”
 8454:Mirita“丁度今終わったところだよ。先生の課題、難しかった～”
-8455:Shink“そ、そうか……？　それは悪かった”
-8456:そんなに言うほど難しかったか……？
+8455:Shink“そ、そうか......？　それは悪かった”
+8456:そんなに言うほど難しかったか......？
 8457:Shirene“わたしとしては、キューテ先生の方が厄介だったわ”
 8458:Comet“同意。ところどころ問題が間違ってて、解けないのがあった。衝撃”
 8459:Shink“......”
-8460:キューテさん……課題の問題をミスらないでくださいよ……
-8461:Rin“なんだか、それに気づいてページの差し替えを作ってたとか……”
-8462:Shink“ああ……それで、あんな感じになってるのか”
+8460:キューテさん......課題の問題をミスらないでくださいよ......
+8461:Rin“なんだか、それに気づいてページの差し替えを作ってたとか......”
+8462:Shink“ああ......それで、あんな感じになってるのか”
 8463:リンの言葉に、俺はテーブルに突っ伏しているキューテさんへと視線を向ける。
-8464:課題を作るだけでも大変なのに、休暇中に差し替えページを作るとは……相当精神を削られたことだろう。
+8464:課題を作るだけでも大変なのに、休暇中に差し替えページを作るとは......相当精神を削られたことだろう。
 8465:Shink“はは、お疲れ様です”
-8466:Kyute“はい～……どっと疲れました……うぅ、どうしてこんなことに……”
+8466:Kyute“はい～......どっと疲れました......うぅ、どうしてこんなことに......”
 8467:俺が声をかけると、キューテさんは顔を上げることもせず、呻くような声を上げる。
-8468:かなりきてるなぁ……これはそっとしておいた方が良いか。
-8469:Shink“さて……こっちは良いとして……問題は……”
+8468:かなりきてるなぁ......これはそっとしておいた方が良いか。
+8469:Shink“さて......こっちは良いとして......問題は......”
 8470:そう呟いて、俺はある方向へと視線を向ける。
-8471:Vera“あ～だる～……まーだ、ほとんど残っちゃってるんだけど”
+8471:Vera“あ～だる～......まーだ、ほとんど残っちゃってるんだけど”
 8472:Bibi“奇遇だな。あたしもだ”
-8473:Vera“いや～、正直遊びすぎたかな～？　こりゃ本気出さないと終わんないや……”
-8474:Shink“やっぱりお前たちか……”
+8473:Vera“いや～、正直遊びすぎたかな～？　こりゃ本気出さないと終わんないや......”
+8474:Shink“やっぱりお前たちか......”
 8475:ヴェーラとビビの会話を聞き、俺は頭を押さえながら近寄っていく。
 8476:こいつらは本当に予想通りのことをしてくれる。
-8477:Shink“言っておくが……ちゃんとしろよ？”
+8477:Shink“言っておくが......ちゃんとしろよ？”
 8478:Vera“ん？　ああ、だいじょぶだいじょぶ。これくらい、あたしが本気を出せばちょいちょいってね”
 8479:Bibi“それをあたしが写す。完璧だな”
-8480:Shink“写すって……”
-8481:少しは自分の力でやって欲しいところなんだが……
-8482:まぁ、やるなら良いか……言っても無駄だろうし。
+8480:Shink“写すって......”
+8481:少しは自分の力でやって欲しいところなんだが......
+8482:まぁ、やるなら良いか......言っても無駄だろうし。
 8483:写すだけでも、ちゃんと頭には入ってくるからな。
-8484:Vera“いっつも思うんだけどさ……あたし以外に写させてくれる奴いないの？”
+8484:Vera“いっつも思うんだけどさ......あたし以外に写させてくれる奴いないの？”
 8485:Bibi“いないな。全員ガードが堅くて嫌になるよ”
-8486:Shink“いや、丸写ししようとするからだろ……”
-8487:多少写すくらいなら許してくれるだろうに……
+8486:Shink“いや、丸写ししようとするからだろ......”
+8487:多少写すくらいなら許してくれるだろうに......
 8488:Bibi“そう言うな。というわけで、今年も期待しているぞヴェーラ”
 8489:Vera“あいよ～。ま、二、三日待ってくれたら全部終わらせちゃうから、後は勝手にしてよ”
 8490:ビビの態度にも慣れているのか気にしていないのか、ヴェーラはやる気なさげに足をぷらぷらとさせ返事する。
-8491:なんというか、だらけてるなぁ……
+8491:なんというか、だらけてるなぁ......
 8492:Kyute“あー！　そうですそうです！”
-8493:Shink“っと、吃驚した……どうしたんですかキューテさん、いきなり叫びだして……”
-8494:Kyute“いえいえ、ちょっと思い出したことがありまして……”
+8493:Shink“っと、吃驚した......どうしたんですかキューテさん、いきなり叫びだして......”
+8494:Kyute“いえいえ、ちょっと思い出したことがありまして......”
 8495:Kyute“シンクさん、この後お時間大丈夫ですか？”
-8496:Shink“この後ですか？　はい、特に用事は無いですけど……”
+8496:Shink“この後ですか？　はい、特に用事は無いですけど......”
 8497:俺がそう答えると、キューテさんはにこりと笑みを浮かべ、続いてリンたちへと声をかけ始める。
 8498:Kyute“リンさんたちも、時間ありますか？”
-8499:Rin“え……？　はい、大丈夫ですけど……”
+8499:Rin“え......？　はい、大丈夫ですけど......”
 8500:Shirene“いったい何事なの？　何かイベントでもあったかしら？”
 8501:Kyute“イベントって程でもないんですけどね、みんなで写真を撮りませんか？”
-8502:Mirita“写真？　何でまた急に写真なんて……”
-8503:Comet“まさか……呪術に使うつもり……はっ、キューテ先生、なんて恐ろしい……！”
+8502:Mirita“写真？　何でまた急に写真なんて......”
+8503:Comet“まさか......呪術に使うつもり......はっ、キューテ先生、なんて恐ろしい......！”
 8504:Kyute“Of course not! We are going to take a commemorative photo together!”
 8505:Shink“Commemorative photo?”
 8506:Kyute“Yes! I wanted to do this as soon you have arrived here, but back then everyone did not like you so much...”
